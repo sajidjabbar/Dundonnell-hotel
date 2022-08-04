@@ -1,0 +1,115 @@
+section.about-sec {
+    width: 100%;
+    background-image: unset;
+    padding-bottom: 96px;
+}
+.about-sec-left-leave {
+    position: absolute;
+    left: -247px;
+}
+.sea-img::before {
+    background-image: unset;
+}
+.this-img {
+    display: none;
+}
+.pricing-sec {
+    background-image: unset;
+}
+.price-back-this {
+    position: absolute;
+    left: -118px;
+    top: -101px;
+}
+
+.price h4 {
+    font-size: 73px;
+}
+
+.albums h2 {
+    font-size: 45px;
+}
+
+.album__details {
+    padding: 26px 68px;
+    height: 396px;
+}
+
+img.album__artwork {
+    width: 100%;
+    height: 396px;
+}
+
+.img-text {
+    left: 153px;
+    width: 436px;
+    height: 300px;
+}
+
+button.btn.btn-primary.room-btn {
+    padding: 10px 45px;
+}
+
+.price span {
+    font-size: 20px;
+}
+
+.album p {
+    font-size: 15px;
+}
+.this-event-blog{
+    text-align: center;
+}
+.events-heading {
+    border-bottom: 1px solid #3F7163;
+    width: 10%;
+}
+.events-heading {
+    width: 10%;
+    margin-left: 40px;
+}
+.events-card-details {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.books-detail {
+    margin-bottom: 30px;
+}
+.slide-up {
+    padding-bottom: 162px;
+    text-align: center;
+}
+@media (max-width: 590px) {
+    .img-text {
+        left: 17px;
+        width: 154px;
+        height: 216px;
+    }
+    
+    p.album__desc {}
+    
+    .album p {
+        font-size: 8px;
+    }
+    
+    .albums h2 {
+        font-size: 19px;
+    }
+    
+    .price h4 {
+        font-size: 28px;
+    }
+    
+    .album__details {
+        padding: 10px 20px;
+        height: 300px;
+    }
+    .this-right-leave {
+        display: none;
+    }
+    h3 {
+        font-size: 44px;
+    }
+}
