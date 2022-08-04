@@ -85,4 +85,7 @@ section.newsletter-sec {
     .reserve-btn {
         width: 53%;
     }
+    h2 {
+        font-size: 34px;
+    }
 }

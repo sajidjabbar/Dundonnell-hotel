@@ -1,4 +1,3 @@
-
 .activities-sec {
     background-image: url(../img/active.png);
     background-repeat: no-repeat;
@@ -6,6 +5,7 @@
     position: relative;
     padding-bottom: 175px;
 }
+
 .activities-heading {
     padding-top: 293px;
     text-align: center;
@@ -17,11 +17,13 @@
     font-size: 63px;
     text-transform: uppercase;
 }
+
 .activities-heading p {
     font-family: "Roboto-Thin";
     color: #FFFFFF;
     font-size: 15px;
 }
+
 .whale-watching {
     background-image: url(../img/activ.png);
     background-repeat: no-repeat;
@@ -29,6 +31,7 @@
     position: relative;
     padding-top: 45px;
 }
+
 h3 {
     color: #3F7163;
     font-family: "Fashion-Stamp";
@@ -36,55 +39,67 @@ h3 {
     margin-bottom: 0;
     text-transform: uppercase;
 }
-p{
+
+p {
     font-family: "Roboto-Regular";
     color: #828282;
     font-size: 17px;
 }
+
 .whale-heaading {
     padding-top: 92px;
 }
+
 .leave-img {
     position: absolute;
     top: 50%;
     left: -109px;
 }
+
 .leave-img img {
     width: 204px;
     height: 191px;
 }
+
 .leave-imgs {
     position: absolute;
     top: 50%;
     left: -115px;
 }
+
 .leave-imgs img {
     width: 296px;
     height: 284px;
 }
+
 .whale-heaadings {
     padding-top: 74px;
 }
+
 .whale-heaadings p {
     font-family: "Roboto-Regular";
     color: #828282;
     font-size: 16px;
 }
+
 .whale-heaadings h3 {
     font-size: 50px;
 
 }
+
 .leavess-img {
     position: absolute;
     bottom: 0;
     right: 0;
 }
-.gallery-back{
+
+.gallery-back {
     background-image: url(../img/gallery-backg.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
+
 .gallery-heading h2 {
     font-family: "Fashion-Stamp";
     color: #ffffff;
@@ -92,14 +107,17 @@ p{
     text-transform: uppercase;
     font-size: 60px;
 }
-.gallery-heading p{
+
+.gallery-heading p {
     font-family: "Roboto-Thin";
     color: #FFFFFF;
 }
+
 section.newsletter-sec {
     padding-top: 82px;
 }
-.gallery-heading p{
+
+.gallery-heading p {
     font-family: "Roboto-Thin";
     color: #FFFFFF;
 }
@@ -108,89 +126,121 @@ section.newsletter-sec {
     h3 {
         font-size: 42px;
     }
+
     .whale-heaading {
         padding-top: 40px;
     }
+
     .whale-heaadings p {
         font-size: 10px;
     }
+
     .whale-heaadings h3 {
         font-size: 31px;
     }
 }
 
-@media (max-width: 590px) {
-p {
-    font-size: 10px;
+@media (max-width: 990px) {
+    p {
+        font-size: 12px;
+    }
+
+    h3 {
+        font-size: 39px;
+    }
 }
 
-.this-whale-img {
-    text-align: center;
-    margin-top: 20px;
-}
-.gallery-back {
-    padding-bottom: 143px;
-    padding-top: 100px;
-}
-.gallery-heading {
-    padding-top: 100px;
-}
-.activities-heading p {
-    font-size: 11px;
-}
-.activities-heading h2 {
-    font-size: 37px;
-}
-section.whale-watching {
-    padding: 0;
-}
-.whale-heaading {
-    padding-top: 0;
-    text-align: center;
-}
-h3 {
-    font-size: 39px;
-}
-.whale-heaadings {
-    text-align: center;
-    padding: 0;
-}
-.whale-heaadings h3 {
-    font-size: 39px;
-}
-.whale-heaadings p {
-    font-size: 11px;
-}
-}
 @media (max-width: 768px) {
     .gallery-image {
         text-align: center;
         margin: 10px 0;
     }
+
     p {
         font-size: 9px;
     }
+
     h3 {
         font-size: 29px;
     }
+
     .whale-heaading {
         padding-top: 29px;
         text-align: center;
     }
+
     .whale-heaadings h3 {
         font-size: 29px;
     }
+
     .whale-heaadings p {
         font-size: 9px;
     }
+
     .whale-heaadings {
         padding-top: 43px;
         text-align: center;
     }
+
     .whale-heaading {
         padding-top: 18px;
     }
+
     .activities-heading p {
         font-size: 12px;
+    }
+}
+
+@media (max-width: 590px) {
+    p {
+        font-size: 10px;
+    }
+
+    .this-whale-img {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .gallery-back {
+        padding-bottom: 143px;
+        padding-top: 100px;
+    }
+
+    .gallery-heading {
+        padding-top: 100px;
+    }
+
+    .activities-heading p {
+        font-size: 11px;
+    }
+
+    .activities-heading h2 {
+        font-size: 37px;
+    }
+
+    section.whale-watching {
+        padding: 0;
+    }
+
+    .whale-heaading {
+        padding-top: 0;
+        text-align: center;
+    }
+
+    h3 {
+        font-size: 39px;
+    }
+
+    .whale-heaadings {
+        text-align: center;
+        padding: 0;
+    }
+
+    .whale-heaadings h3 {
+        font-size: 39px;
+    }
+
+    .whale-heaadings p {
+        font-size: 11px;
     }
 }

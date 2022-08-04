@@ -237,7 +237,10 @@ body {
     padding: 9px 23px;
     background-color: #ffffff;
 }
-
+#header     li.normal-nav-items.nav-link a {
+    color: #3F7163;
+    font-family: "BebasNeue-Regular";
+}
 #header .canvas-icon i {
     font-size: 24px;
     background: transparent;
