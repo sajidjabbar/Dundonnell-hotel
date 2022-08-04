@@ -1,0 +1,371 @@
+section.booking-form-sec {
+    margin: 100px 0px;
+    overflow: hidden;
+}
+.booking-sec {
+    background-image: url(../img/booking.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 600px ! important;
+}
+.books-detail1 {
+    padding: 30px 30px;
+    border-radius: 11px;
+    width: 100%;
+    background-color: #ffffff2e;
+    /* margin-bottom: 182px; */
+    margin-top: 214px;
+    backdrop-filter: blur(8px);
+    position: absolute;
+}
+.books-detail1 span {
+    font-size: 44px;
+}
+
+.books-detail1 h3 {
+    color: #FFFFFF;
+    font-family: "BebasNeue-Regular";
+    font-size: 26px;
+    line-height: 0.9;
+}
+.arrival svg {
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 7px;
+    color: #FFFFFF;
+}
+
+input.empt {
+    color: #FFFFFF;
+    background-color: transparent;
+    width: 100%;
+    padding: 10px 34px;
+    position: relative;
+    border-top: 0;
+    border-left: 0;
+    border-radius: 0;
+    text-align: center;
+    border-right: 0;
+    border-bottom: 2px solid #B5C1BB;
+}
+
+.books-detail1 .arrival input.empt::placeholder {
+    font-family: "BebasNeue-Regular";
+    color: #FFFFFF;
+    background-color: transparent;
+}
+
+.arrival .selt {
+    font-family: "BebasNeue-Regular";
+    color: #FFFFFF;
+    width: 100%;
+    background-color: transparent;
+    border-top: 0;
+    border-left: 0;
+    border-radius: 0;
+    padding: 10px 34px;
+    border-right: 0;
+    border-bottom: 2px solid #B5C1BB;
+    appearance: none;
+    background-image: url(../img/select.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+    padding-left: 26px;
+}
+
+.reserve-btn {
+    width: 100%;
+    background-color: #FFFFFF;
+    color: #3F7163;
+    font-family: "BebasNeue-Regular";
+    border-color: transparent;
+    padding: 10px;
+    border-radius: 0;
+}
+.booking-sec  .form-group {
+    display: flex;
+    align-items: center;
+}
+.booking-sec .form-group label {
+    margin-right: 10px;
+    margin-top: 9px;
+    font-size: 15px;
+    color: #fff;
+    font-family: 'roboto-medium';
+}
+.booking-sec  .form-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.booking-sec .form-group select#exampleFormControlSelect1 {
+    width: 200px;
+    background-color: #87968F;
+    border-radius: 10px;
+    border: 2px solid #fff;
+    appearance: none;
+    background-image: url(../img/arrowdown.png);
+    background-repeat: no-repeat;
+    background-position-x: 170px;
+    background-position-y: 12px;
+    font-size: 10px;
+    color: #fff;
+    font-family: 'roboto-medium';
+    padding: 0px -10px;
+    height: 33px;
+}
+.booking-sec .form-group input#exampleFormControlInput1 {
+    width: 200px;
+    background-color: #87968F;
+    border-radius: 10px;
+    font-size: 15px;
+    color: #fff;
+    font-family: 'roboto-medium';
+    height: 33px;
+}
+.booking-sec .form-group input#exampleFormControlInput1::placeholder {
+    font-size: 10px;
+    color: #3E3E3E;
+    font-family: 'roboto-medium';
+    text-transform: capitalize;
+}
+.book-heading {
+    margin-top: 16px;
+    line-height: 0;
+}
+.booking-sec  .arrival-border {
+    border-right: 1px solid #FFFFFF;
+    padding-right: 30px;
+    height: 59px;
+}
+.tabs .nav .nav-item .nav-link {
+    padding: 10px 150px;
+    border: none;
+    border-radius: 0px;
+    font-size: 29px;
+    font-family: "BebasNeue-Regular";
+    color: #3F7163;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(229,229,229,1) 33%, rgba(229,229,229,1) 100%, rgba(229,229,229,1) 100%);
+}
+
+.tabs .nav .nav-item .nav-link:focus{
+    outline: none !important;
+}
+.tabs .nav .nav-item .nav-link.active {
+    color: white !important;
+    background: linear-gradient(90deg, rgba(49,88,76,1) 0%, rgba(61,109,96,1) 0%, rgba(32,57,50,1) 45%, rgba(32,57,50,1) 100%, rgba(32,57,50,1) 100%);
+}
+.img-wrapper-slider {
+    margin-bottom: 30px !important;
+    position: relative !important;
+}
+.slick-next:before {
+    content: '\f105 ';
+    background: #515151;
+    color: beige;
+    font-family: 'fontawesome';
+    padding: 6px 9px;
+    position: absolute;
+    left: -24px;
+}
+
+.slick-prev:before {
+    content: '\f104';
+    background: #515151;
+    color: beige;
+    font-family: 'fontawesome';
+    padding: 6px 9px;
+    position: absolute;
+    left: -24px;
+}
+button.slick-prev.slick-arrow {
+    position: absolute;
+    left: 24px;
+    top: 110px;
+    z-index: 1;
+    opacity: 1;
+}
+button.slick-next.slick-arrow{
+    position: absolute;
+    right: -16px;
+    top: 110px;
+    z-index: 1;
+    opacity: 1;
+}
+.boking-slider-wrapper {
+    width: 99%;
+    height: 266px ! important;
+    background: #F6F6F6;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.bed-text-wrapper {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 10px 40px 0px 10px;
+}
+.btn-bed button.btn1 {
+    padding: 0px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    background: #3F7163;
+    color: #fff;
+    font-size: 14px;
+    font-family: "BebasNeue-Regular";
+}
+.headind-bed h4 {
+    font-family: 'roboto-medium';
+    font-size: 25px;
+    color: #3F7163;
+}
+.five-star i {
+    color: #FFB300;
+    margin: 0 4px;
+}
+.five-star span {
+    font-size: 25px;
+    color: #3F7163;
+    font-family: 'roboto-medium';
+    margin-left: 10px;
+}
+.five-star {
+    display: flex;
+    align-items: center;
+}   
+.para-fivestar i.fa-light.fa-user {
+    font-family: "fontawesome";
+}
+.para-fivestar p {
+    font-size: 11px;
+    color: #828282;
+    font-family: 'roboto-light';
+}
+.para-fivestar p span{
+    color: #F87878 !important;
+}
+.para-fivestar {
+    margin-left: 11px;
+    margin-top: 10px;
+}
+.august h5{
+    font-size: 13px;
+    color: #828282;
+    font-family: 'roboto-medium';
+}
+.august {
+    text-align: end;
+    margin-right: 40px;
+    margin-top: 5px;
+}
+.august h5 span {
+    font-size: 13px;
+    color: #828282;
+    font-family: 'roboto-medium';
+    line-height: 2;
+}
+.img-bed-rest {
+    display: flex;
+    align-items: start;
+    justify-content: flex-start;
+    margin-left: 13px;
+}
+.img-bed-wrapper {
+    margin-left: 0px;
+    text-align: end;
+}
+.img-bed-wrappe1 {
+    margin-left: 10px;
+    text-align: start;
+}
+.img-bed-wrapper h5 {
+    font-size: 17px;
+    color: #3F7163;
+    font-family: 'BebasNeue-Regular';
+    margin: 0;
+}
+.img-bed-wrapper1 h5 {
+    font-size: 17px;
+    color: #3F7163;
+    font-family: 'BebasNeue-Regular';
+    margin: 0;
+}
+.img-bed-wrapper h6 {
+    font-size: 10px;
+    color: #828282;
+    font-family: 'BebasNeue-Regular';
+}
+.img-bed-wrapper1 h6 {
+    font-size: 10px;
+    color: #828282;
+    font-family: 'BebasNeue-Regular';
+}
+.img-bed-wrapper2 a .btn12 {
+    padding: 7px 50px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    background: #3F7163;
+    color: #fff;
+    font-size: 14px;
+    font-family: "BebasNeue-Regular";
+}
+.img-bed-rest img {
+    width: 15%;
+}
+.img-bed-wrapper1 {
+    margin-left: 10px;
+}
+.img-bed-wrapper2 {
+    margin-left: -2px;
+}
+.leave-wrapper img {
+    position: absolute;
+    left: -150px;
+    overflow: hidden;
+}
+.leave-wrapper1 img {
+    position: absolute;
+    right: -150px;
+    overflow: hidden;
+}
+.leave-wrapper2 img {
+    position: absolute;
+    left: -150px;
+    overflow: hidden;
+    top: 760px;
+}   
+  
+.leave-wrapper3 img {
+    position: absolute;
+    left: -330px;
+    overflow: hidden;
+    top: 1680px;
+}
+.leave-wrapper4 img {
+    position: absolute;
+    right: 80px;
+    overflow: hidden;
+    top: 1230px;
+}
+.leave-wrapper5 img {
+    position: absolute;
+    right: -280px;
+    overflow: hidden;
+    top: 1979px;
+}
+.tab-content>.tab-pane{
+    display: block;
+    height: 0;
+    overflow: hidden;
+  }
+  .tab-content>.tab-pane.active{
+    height: auto;
+  }
