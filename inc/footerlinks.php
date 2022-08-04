@@ -16,7 +16,7 @@
 <!-- bootstrap -->
 <script>
       $('document').ready(function() {
-        $('.nav-icons .canvas-icon i').click(function() {
+        $('.canvas-icon i').click(function() {
             $("#header .mobile-header").addClass('show');
         });
 
@@ -24,9 +24,6 @@
             $("#header .mobile-header").removeClass('show');
         });
     });
-
-
-
     $(document).ready(function () {
         $(window).on('load', function(){
             $("#preloader").fadeOut(1000);

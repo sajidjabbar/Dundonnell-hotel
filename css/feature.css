@@ -143,15 +143,33 @@ section.feature_section .top_heading.text-center h1 {
     max-width: 255px;
 }
 
+@media (max-width: 1200px){
+    .featured_start_here .single_feature .featured_post_text {
+        padding-right: 45px;
+        width: 76%;
+        padding-left: 35px;
+    }
+    .featured_start_here .single_feature .featured_post_text .text p {
+        color: #828282;
+        font-family: 'Roboto-Regular';
+        font-size: 14px;
+    }
+    .featured_start_here .single_feature .featured_post_text .text h1 {
+        color: #3F7163;
+        font-family: 'Fashion-Stamp';
+        font-size: 34px;
+    }
+    .icon_facilities {
+        margin-top: 34px;
+    }
+}
 @media (max-width: 991px){
-    .single_feature{
-        flex-direction: column;
+    .single_feature figure.featured_image {
+        width: 50%;
     }
-    .single_feature figure.featured_image{
-        width: 100%;
-    }
-    .featured_start_here .single_feature .featured_post_text{
-        width: 100%;
+    
+    .featured_start_here .single_feature .featured_post_text {
+        width: 50%;
     }
     .for_leaf1,
     .for_leaf2,
@@ -162,10 +180,42 @@ section.feature_section .top_heading.text-center h1 {
     }
 }
 @media (max-width: 768px){
+    .single_feature{
+        flex-direction: column;
+    }
+    .single_feature figure.featured_image{
+        width: 100%;
+    }
     h1{
         font-size: 36px !important;
     }
-    .featured_start_here .single_feature .featured_post_text{
-        padding: 0px 15px !important;
+    .featured_start_here .single_feature .featured_post_text {
+        padding: 23px 15px !important;
+        width: 100%;
+    }
+    .activities-heading {
+        text-align: center;
+        padding: 172px 25px 0px;
+    }
+    .activities-heading p {
+        font-family: "Roboto-Thin";
+        color: #FFFFFF;
+        font-size: 12px;
+    }
+    .activities-heading h2 {
+        font-family: "Fashion-Stamp";
+        color: #FFFFFF;
+        font-size: 47px;
+        text-transform: uppercase;
+    }
+    .slide-this{
+        display: none;
+    }
+    .icon_facilities .sinle_facility img {
+        max-width: 43px;
+        max-height: 30px;
+    }
+    .icon_facilities .sinle_facility {
+        gap: 13px;
     }
 }

@@ -175,29 +175,28 @@ body {
 
 /* header end here */
 /* Mobile Header  */
-.canvas-icon {
-    display: none;
-}
-
-#header .mobile-header {
+/* responsive header start here */
+.mobile-header {
     width: 25%;
     height: 100%;
     position: fixed;
     background: #ffffffc2;
     top: 0;
-    z-index: 156;
+    overflow-y: scroll;
+    z-index: 9999999999;
+    /* z-index: 9; */
     right: 0;
-    overflow-x: scroll;
     padding: 30px 10px 0px 10px;
     transition: 0.7s;
     transform: translateX(100%);
     box-shadow: 0px 0px 7px #ddd;
+    display: none;
 }
-
-li.nav-link a {
-    color: #000;
+@media (max-width: 991px){
+    .mobile-header {
+        display: initial;
+    }
 }
-
 #header .mobile-header.show {
     transform: translateX(0%);
 }
@@ -230,12 +229,30 @@ li.nav-link a {
     padding: 0 20px;
 }
 
+.all-nav li.for-contact-brn-header button.btn {
+    font-family: "Montserrat-Medium";
+    font-size: 15px;
+    font-weight: 800;
+    border-radius: 0px;
+    padding: 9px 23px;
+    background-color: #ffffff;
+}
+
 #header .canvas-icon i {
     font-size: 24px;
-    background: #000000;
+    background: transparent;
     padding: 5px 7px;
     color: #fff;
     display: none;
+}
+
+.responsive-contact-btn a {
+    display: unset;
+    padding: 9px 33px !important;
+}
+
+header li.for-contact-brn-header {
+    position: relative;
 }
 
 @media (max-width: 991px) {
@@ -243,50 +260,70 @@ li.nav-link a {
         display: none;
     }
 
-    #header .second-col-input {
-        display: none;
+    .navbar-items {
+        display: none !important;
     }
-
-    #header button.navbar-toggler {
-        display: none;
-    }
-
     #header .canvas-icon i {
         display: block;
     }
-}
+    #header .canvas-icon {
+        display: initial !important;
+        background: transparent;
+        color: yellow;
+        z-index: 999999;
+    }
 
-@media (max-width:800px) {
-
-    .header-icon-wrapper {
-        justify-content: end !important;
-        padding-right: 38px;
+    .canvas-icon.text-right {
+        position: absolute;
+        right: 16px;
+        top: 23px;
     }
 }
-
+@media (max-width: 768px){
+    .logo-box img {
+        max-width: 89px;
+    }
+}
 @media (max-width: 575px) {
     #header .mobile-header {
         width: 35%;
     }
+    li.normal-nav-items.nav-link a {
+        color: #3F7163;
+    }
 }
 
-@media (max-width: 580px) {
+@media (max-width: 480px) {
     #header .mobile-header {
         width: 55%;
     }
-
-    #header {
-        display: block !important;
-    }
-
-    .cart-icon {
-        margin-right: 20px;
-    }
-
-    .search-icon {
-        margin-right: 12px !important;
+    li.normal-nav-items.nav-link a {
+        color: #3F7163;
     }
 }
+@media (max-width: 991px) {
+    .col-xl-4.col-lg-5.col-md-0.ml-auto.d-none-991 {
+        display: none;
+    }
+
+    .header {
+        font-family: "BebasNeue-Regular";
+        position: absolute;
+        top: 0;
+        width: 100%;
+        z-index: 2;
+        padding-top: 40px;
+    }
+
+    .col-md-4.responsive_nav_class {
+        display: none;
+    }
+
+    .logo-box {
+        text-align: left;
+    }
+}
+/* responsive header start here */
 
 
 

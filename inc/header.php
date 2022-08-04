@@ -12,7 +12,7 @@
                                 </i>
                             </div>
                             <div class="num">
-                                <a href="contactus.php">contact us</a>
+                                <a href="">contact us</a>
                                 <!-- <div class="num"> -->
                                 <a href="">1-2555-145-155
                                 </a>
@@ -51,20 +51,18 @@
                             <li><a href="index.php">home</a></li>
                             <li><a href="">About us </a></li>
                             <li><a href="activities.php">Activities </a></li>
-                            <li><a href="">Features</a></li>
+                            <li><a href="feature.php">Features</a></li>
                         </ul>
                     </nav>
                 </div>
             </div>
-            <div class="col-md-4 text-center">
-                <div class="col-md-12">
-                    <div class="logo-box">
-                        <img src="img/logo.png" alt="" class="img-fluid">
-                    </div>
+            <div class="col-4 text-center">
+                <div class="logo-box">
+                    <img src="img/logo.png" alt="" class="img-fluid">
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-4 responsive_nav_class">
                 <div class="header-nav">
                     <nav>
                         <ul>
@@ -80,6 +78,11 @@
     </div>
 </header>
 <header id="header">
+    <div class="canvas-icon text-right">
+        <i class="fa fa-bars" aria-hidden="true"></i>
+    </div>
+    <!-- Nav section  -->
+
     <div class="mobile-header navbar-dark">
         <div class="cancel">
             <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-x"
@@ -89,52 +92,15 @@
             </svg>
         </div>
         <ul class="mobile-nav navbar-nav">
-            <li class="nav-link"><a class="text-black" href="index.php"> home</a></li>
-            <li class="nav-link"><a class="text-black" href="about.php"> About us</a></li>
-            <li class="nav-link"><a class="text-black" href="pricing.php">Activities</a></li>
-            <li class="nav-link"><a class="text-black" href="shop.php"> Features</a></li>
-            <li class="nav-link"><a class="text-black" href="publications.php">News</a></li>
-            <li class="nav-link"><a class="text-black" href="blog.php">Gallery</a></li>
-            <li class="nav-link"><a class="text-black" href="database.php"> FAQ's</a></li>
-            <li class="nav-link"> <a href="prosopographica-et-genealogica.php">Contact us</a></li>
-            <li class="nav-link"><a class="text-black" href="contact.php">contact</a></li>
-            <div class="col-md-12">
-                <div class="nav-icons">
-                    <div class="contact-detail">
-                        <div class="phones">
-                            <i class="fa fa-phone" aria-hidden="true">
-                            </i>
-                        </div>
-                        <div class="num">
-                            <a href="">contact us</a>
-                            <!-- <div class="num"> -->
-                            <a href="">1-2555-145-155
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="contact-detail">
-                    <div class="phone">
-                        <i class="fa fa-map-marker" aria-hidden="true"></i>
-                        </i>
-                    </div>
-                    <div class="num">
-                        <a href="">Our Location</a>
-                        <!-- <div class="num"> -->
-                        <a href="">Little Loch Broom, Highland, IV23 2Q</a>
-                    </div>
-                </div>
-                <div class="icons">
-                    <i class="fa fa-facebook-square"></i>
-                    <i class="fa fa-twitter-square"></i>
-                    <i class="fa fa-tripadvisor"></i>
-                </div>
-            </div>
-    </div>
-    </div>
-
-    </div>
-    </ul>
+            <li class="normal-nav-items nav-link"><a href="index.php">HOME</a></li>
+            <li class="normal-nav-items nav-link"><a href="about.php">ABOUT US</a></li>
+            <li class="normal-nav-items nav-link"><a href="activities.php">Activities</a></li>
+            <li class="normal-nav-items nav-link"><a href="feature.php">Features</a></li>
+            <li class="normal-nav-items nav-link"><a href="news.php">News</a></li>
+            <li class="normal-nav-items nav-link"><a href="gallery.php">Gallery</a></li>
+            <li class="normal-nav-items nav-link"><a href="faqs.php">FAQ's </a></li>
+            <li class="normal-nav-items nav-link"><a href="contactus.php">Contact us</a></li>
+        </ul>
     </div>
 </header>
-<?php include 'headlinks.php'; ?>
+<?php include 'headlinks.php' ?>
