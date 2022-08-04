@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="weather-wrapper">
-            <div class="row">
+            <div class="row about-new-weather-info">
                 <div class="col-md-2">
                     <div class="hotel-weathes">
                         <img src="img/metro.png" alt="" class="img-fluid">

@@ -141,38 +141,7 @@ h4 {
 .news-box {
     padding-top: 84px;
 }
-@media (max-width: 590px) {
-    .weather-wrapper {
-        background-color: transparent;
-        border-radius: 17px;
-    }
-    .hotel-weathes {
-        margin: 10px 0;
-    }
-    .hotel-weather {
-        margin: 10px 0;
-    }
-    .weather-wrapper {
-        padding-bottom: 226px;
-    }
-    p {
-        font-size: 9px;
-    }
-    .music-news-img {
-        margin: 10px 0;
-    }
-    .abouts-music-text {
-        padding: 12px;
-        text-align: center;
-    }
-    .news-leave-sec h3 {
-        font-size: 15px;
-    }
-    .news-leave-sec h6 {
-        font-size: 13px;
-    }
 
-}
 @media (max-width: 1024px) {
     h3 {
         font-size: 13px;
@@ -184,6 +153,17 @@ h4 {
         font-size: 9px;
     }
 }
+@media (max-width: 880px) {
+    .hotel-weather {
+        padding: 23px 20px;
+    }
+    h4 {
+        font-size: 16px;
+    }
+    .music-news-img img {
+        height: 391px;
+    }
+    }
 @media (max-width: 768px) {
     .news-leave-sec h4 {
         font-size: 10px;
@@ -216,4 +196,60 @@ h4 {
     h3 {
         font-size: 10px;
     }
+    .music-news-img img {
+        height: 285px;
+    }
+}
+
+@media (max-width: 690px) {
+    .hotel-weather {
+        width: 56%;
+        margin: 10px 0;
+        text-align: center;
+    }
+    .hotel-weathes {
+        width: 54%;
+        margin: 10px;
+        text-align: center;
+    }
+    .about-new-weather-info{
+        text-align: -webkit-center;
+    }
+    .weather-wrapper {
+        background-color: #ffffff5c;
+        border-radius: 17px;
+        margin-bottom: 231px;
+    }
+}
+@media (max-width: 590px) {
+    .weather-wrapper {
+        background-color: transparent;
+        border-radius: 17px;
+    }
+    .hotel-weathes {
+        margin: 10px 0;
+    }
+    .hotel-weather {
+        margin: 10px 0;
+    }
+    .weather-wrapper {
+        padding-bottom: 226px;
+    }
+    p {
+        font-size: 9px;
+    }
+    .music-news-img {
+        margin: 10px 0;
+    }
+    .abouts-music-text {
+        padding: 12px;
+        text-align: center;
+    }
+    .news-leave-sec h3 {
+        font-size: 15px;
+    }
+    .news-leave-sec h6 {
+        font-size: 13px;
+    }
+
 }
