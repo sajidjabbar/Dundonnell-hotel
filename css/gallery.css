@@ -1,0 +1,36 @@
+.gallery-back {
+    background-image: url(../img/lifestyle1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-bottom: 221px;
+}
+.gallery-sec {
+    padding-top: 142px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gallery-heading h2 {
+    font-size: 53px;
+}
+.gallery-heading p{
+    font-family: "Roboto-Thin";
+    color: #FFFFFF;
+}
+.gallery {
+    padding: 17px 0;
+    overflow-x: hidden;
+}
+.book-your-slot {
+    padding-bottom: 113px;
+}
+section.newsletter-sec {
+    padding-top: 100px;
+}
+@media (max-width: 590px) {
+    .gallery-heading p {
+        font-size: 11px;
+    }
+}

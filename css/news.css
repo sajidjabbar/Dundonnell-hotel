@@ -1,0 +1,143 @@
+.news-sec {
+    background-image: url(../img/news-page.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0;
+    padding-bottom: 174px;
+}
+
+.news-heading {
+    padding-top: 271px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Fashion-Stamp";
+    color: #ffffff;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 52px;
+}
+
+p {
+    font-family: "Roboto-Thin";
+    color: #FFFFFF;
+    font-size: 13px;
+}
+
+h3 {
+    font-family: "BebasNeue-Regular";
+    color: #FFFFFF;
+    font-size: 22px;
+}
+
+.left-text {
+    font-family: "BebasNeue-Regular";
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+.right-text {
+    font-size: 15px;
+}
+
+span {
+    font-family: "BebasNeue-Regular";
+    color: #FFFFFF;
+}
+
+.weather-text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hotel-weather {
+    background: #ffffff1f;
+    padding: 10px 20px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.hotel-weather img {
+    width: 27%;
+}
+
+.weather-wrappers {
+    background-color: #ffffff5c;
+}
+
+.hotel-weathes {
+    background: #ffffff1f;
+    padding: 14px 20px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.hotel-weathes img {
+    width: 27%;
+}
+
+.weather-wrapper {
+    background-color: #ffffff5c;
+    border-radius: 17px;
+}
+
+h4 {
+    font-family: "BebasNeue-Regular";
+    color: #FFFFFF;
+}
+.news-leave {
+    background-image: url(../img/news-back-leave.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0;
+    height: 276px;
+    z-index: 1;
+}
+.news-leave-sec h4 {
+    color: #515151;
+    font-family: "Roboto-Bold";
+    font-size: 15px;
+}
+.news-leave-sec h3{
+    font-family: "Roboto-Black";
+    color: #515151;
+}
+.news-leave-sec h6{
+    color: #515151;
+    font-family: "Roboto-Medium";
+}
+.news-leave-sec p{
+    color: #515151;
+    font-family: "Roboto-Medium";
+    font-size: 10px;
+}
+.music-btn{
+    padding: 5px 54px;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-family: "BebasNeue-Regular";
+    background-image: url(../img/music-btn.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: transparent;
+    background-position: center;
+    border-radius: 0;
+}
+
+.music-btn:hover {
+    color: #3F7163;
+    background-color: transparent !important;
+    border-color: transparent;
+}
+.music {
+    background: #E8E8E8;
+}
+.music-text {
+    padding: 15px 20px;
+}
+.news-box {
+    padding-top: 84px;
+}

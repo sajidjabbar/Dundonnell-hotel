@@ -1,0 +1,93 @@
+.contact-us {
+    background-image: url(../img/gallery-backg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0;
+    padding-bottom: 161px;
+}
+.contact-heading {
+    padding-top: 196px;
+    text-align: center;
+}
+.address-detail {
+    text-align: center;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #FFFFFF;
+    padding-top: 33px;
+}
+h5{
+    font-family: "roboto-light";
+    color: #FFFFFF;
+    font-size: 15px;
+}
+h6 {
+    font-family: "roboto-light";
+    color: #FFFFFF;
+    font-size: 20px;
+}
+span{
+    font-family: "roboto-light";
+    color: #FFFFFF;
+    font-size: 13px;
+}
+h4{
+    font-family: "Roboto-Regular";
+    color: #FFFFFF;
+}
+h3 {
+    font-family: "Roboto-Black";
+    color: #FFFFFF;
+    font-size: 30px;
+}
+h2 {
+    font-family: "Fashion-Stamp";
+    color: #ffffff;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 52px;
+}
+.address-details {
+    padding-top: 20px;
+}
+.map-heading {
+    text-align: center;
+    padding-top: 26px;
+    padding-bottom: 29px;
+}
+.map {
+    padding-top: 29px;
+    padding-bottom: 40px;
+}
+
+iframe {
+    border-radius: 242px;
+}
+p{
+    font-family: "Roboto-Black";
+    color: #FFFFFF;
+    font-size: 17px;
+}
+.footer {
+    top: 0;
+    top: -200px;
+}
+.book-heading {
+    text-align: center;
+    padding-bottom: 39px;
+}
+.reserve-btn {
+    width: 21%;
+    background-color: #FFFFFF;
+    color: #3F7163;
+    font-family: "BebasNeue-Regular";
+    border-color: transparent;
+    padding: 10px;
+    border-radius: 0;
+}
+@media (max-width: 590px) {
+    iframe {
+        border-radius: 0;
+        width: 100%;
+    }
+}

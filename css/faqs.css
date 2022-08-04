@@ -1,0 +1,88 @@
+
+.faqs-sec {
+    background-image: url(../img/gallery-backg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0;
+    padding-bottom: 161px;
+}
+
+.faq-card h5 .faq{
+    color: #26CFA0;
+    font-family: "Roboto-Black";
+}
+.faq-card h5 .fa {
+    color: #FFFFFF;
+    margin-right: 20px;
+}
+.faq-card {
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+}
+.card-body {
+    color: #FFFFFF;
+    font-size: 15px;
+    font-family: "Roboto-Medium";
+}
+.faq-card .heading {
+    padding: 7px 0;
+}
+.book-heading {
+    text-align: center;
+    padding-bottom: 39px;
+    padding-top: 20px;
+}
+.reserve-btn {
+    width: 21%;
+    background-color: #FFFFFF;
+    color: #3F7163;
+    font-family: "BebasNeue-Regular";
+    border-color: transparent;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 0;
+}
+h2 {
+    font-family: "Fashion-Stamp";
+    color: #ffffff;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 52px;
+}
+h3 {
+    font-family: "Roboto-Black";
+    color: #FFFFFF;
+    font-size: 22px;
+}
+.faq-heading {
+    padding-top: 245px;
+}
+.fa-heading {
+    text-align: center;
+    padding-bottom: 30px;
+}
+section.newsletter-sec {
+    padding-top: 86px;
+}
+@media (max-width: 590px) {
+    .faq-card h5 .faq {
+        font-size: 7px;
+    }
+    .faq-card .heading{
+        padding: 0;
+        overflow: hidden;
+        border-radius: 0;
+    }
+    
+    div#accordion {
+        width: 100%;
+    }
+    .card-body {
+        font-size: 8px;
+    }
+    .reserve-btn {
+        width: 53%;
+    }
+}
