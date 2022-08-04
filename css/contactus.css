@@ -1,4 +1,4 @@
-.contact-us {
+.contact-us-sec {
     background-image: url(../img/gallery-backg1.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -68,10 +68,7 @@ p{
     color: #FFFFFF;
     font-size: 17px;
 }
-.footer {
-    top: 0;
-    top: -200px;
-}
+
 .book-heading {
     text-align: center;
     padding-bottom: 39px;

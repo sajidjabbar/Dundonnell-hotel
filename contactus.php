@@ -1,7 +1,7 @@
 <?php include 'inc/app.php'; ?>
 <link rel="stylesheet" href="css/contactus.css">
 <!--  Start Here -->
-<section class="contact-us">
+<section class="contact-us-sec">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
