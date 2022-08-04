@@ -170,9 +170,8 @@ input.empt {
     font-family: 'fontawesome';
     padding: 6px 9px;
     position: absolute;
-    left: -24px;
+    left: 226px;
 }
-
 .slick-prev:before {
     content: '\f104';
     background: #515151;
@@ -229,6 +228,7 @@ button.slick-next.slick-arrow{
 .five-star i {
     color: #FFB300;
     margin: 0 4px;
+    font-family: "fontawesome";
 }
 .five-star span {
     font-size: 25px;
