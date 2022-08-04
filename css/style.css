@@ -721,6 +721,7 @@ p {
 
     .album__details {
         padding: 1px 0;
+        height: 292px;
     }
 
     .albums p {
@@ -742,6 +743,31 @@ p {
     }
 }
 
+@media (max-width: 768px) {
+    .album__details {
+        padding: 31px 0;
+    }
+    .gallery-image {
+        text-align: center;
+        margin: 10px 0;
+    }
+    .lifestyle-heading h2 {
+        font-size: 34px;
+    }
+    .lifestyle-heading {
+        padding-top: 190px;
+    }
+    .life-style {
+        padding-bottom: 278px;
+    }
+    .movie-card h2 {
+        font-size: 21px !important;
+    }
+    .lefts-text {
+        text-align: center;
+        padding: 0;
+    }
+}
 @media (max-width: 980px) {
     .albums h2 {
         font-size: 14px;
