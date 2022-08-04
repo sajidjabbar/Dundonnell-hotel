@@ -141,3 +141,79 @@ h4 {
 .news-box {
     padding-top: 84px;
 }
+@media (max-width: 590px) {
+    .weather-wrapper {
+        background-color: transparent;
+        border-radius: 17px;
+    }
+    .hotel-weathes {
+        margin: 10px 0;
+    }
+    .hotel-weather {
+        margin: 10px 0;
+    }
+    .weather-wrapper {
+        padding-bottom: 226px;
+    }
+    p {
+        font-size: 9px;
+    }
+    .music-news-img {
+        margin: 10px 0;
+    }
+    .abouts-music-text {
+        padding: 12px;
+        text-align: center;
+    }
+    .news-leave-sec h3 {
+        font-size: 15px;
+    }
+    .news-leave-sec h6 {
+        font-size: 13px;
+    }
+
+}
+@media (max-width: 1024px) {
+    h3 {
+        font-size: 13px;
+    }
+    .news-leave-sec h3 {
+        font-size: 13px;
+    }
+    .news-leave-sec p {
+        font-size: 9px;
+    }
+}
+@media (max-width: 768px) {
+    .news-leave-sec h4 {
+        font-size: 10px;
+    }
+    .news-leave-sec h6 {
+        font-size: 9px;
+    }
+    .music-news-img {
+        padding-top: 34px;
+    }
+    .news-leave-sec p {
+      margin-bottom: 2px;
+        font-size: 7px;
+    }
+    .abouts-music-text {
+        padding: 10px 0;
+    }
+    .news-leave {
+        height: 164px;
+    }
+    button.news-btn {
+        padding: 10px 6px;
+    }
+    .news-wrapper h4 {
+        font-size: 11px;
+    }
+    h4 {
+        font-size: 17px;
+    }
+    h3 {
+        font-size: 10px;
+    }
+}

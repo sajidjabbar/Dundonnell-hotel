@@ -104,13 +104,22 @@ section.newsletter-sec {
     color: #FFFFFF;
 }
 
-
-@media (max-width: 590px) {
-
-.whale-heaadings {
-    text-align: center;
+@media (max-width: 1024px) {
+    h3 {
+        font-size: 42px;
+    }
+    .whale-heaading {
+        padding-top: 40px;
+    }
+    .whale-heaadings p {
+        font-size: 10px;
+    }
+    .whale-heaadings h3 {
+        font-size: 31px;
+    }
 }
 
+@media (max-width: 590px) {
 p {
     font-size: 10px;
 }
@@ -129,4 +138,59 @@ p {
 .activities-heading p {
     font-size: 11px;
 }
+.activities-heading h2 {
+    font-size: 37px;
+}
+section.whale-watching {
+    padding: 0;
+}
+.whale-heaading {
+    padding-top: 0;
+    text-align: center;
+}
+h3 {
+    font-size: 39px;
+}
+.whale-heaadings {
+    text-align: center;
+    padding: 0;
+}
+.whale-heaadings h3 {
+    font-size: 39px;
+}
+.whale-heaadings p {
+    font-size: 11px;
+}
+}
+@media (max-width: 768px) {
+    .gallery-image {
+        text-align: center;
+        margin: 10px 0;
+    }
+    p {
+        font-size: 9px;
+    }
+    h3 {
+        font-size: 29px;
+    }
+    .whale-heaading {
+        padding-top: 29px;
+        text-align: center;
+    }
+    .whale-heaadings h3 {
+        font-size: 29px;
+    }
+    .whale-heaadings p {
+        font-size: 9px;
+    }
+    .whale-heaadings {
+        padding-top: 43px;
+        text-align: center;
+    }
+    .whale-heaading {
+        padding-top: 18px;
+    }
+    .activities-heading p {
+        font-size: 12px;
+    }
 }

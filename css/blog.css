@@ -81,3 +81,35 @@ button.btn.btn-primary.room-btn {
     padding-bottom: 162px;
     text-align: center;
 }
+@media (max-width: 590px) {
+    .img-text {
+        left: 17px;
+        width: 154px;
+        height: 216px;
+    }
+    
+    p.album__desc {}
+    
+    .album p {
+        font-size: 8px;
+    }
+    
+    .albums h2 {
+        font-size: 19px;
+    }
+    
+    .price h4 {
+        font-size: 28px;
+    }
+    
+    .album__details {
+        padding: 10px 20px;
+        height: 300px;
+    }
+    .this-right-leave {
+        display: none;
+    }
+    h3 {
+        font-size: 44px;
+    }
+}
