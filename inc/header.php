@@ -1,9 +1,9 @@
 <header class="header">
     <div class="container">
         <div class="row">
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4">
+            <!-- <div class="col-md-4"></div>
+            <div class="col-md-4"></div> -->
+            <div class="col-xl-4 col-lg-5 col-md-0 ml-auto d-none-991">
                 <div class="row">
                     <div class="col-md-4">
                         <div class="contact-detail">
@@ -42,7 +42,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+        </div>
+        <div class="row">
+            <div class="col-md-4 responsive_nav_class">
                 <div class="header-nav">
                     <nav class="nabar">
                         <ul>

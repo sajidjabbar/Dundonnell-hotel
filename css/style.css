@@ -208,7 +208,6 @@ li.nav-link a {
     list-style: none;
 }
 
-
 #header .mobile-header .cancel {
     background: #000000;
     width: 35px;
@@ -445,6 +444,7 @@ section.about-sec {
     background-repeat: no-repeat;
     background-size: contain;
     padding-top: 116px;
+    overflow-x: hidden;
     padding-bottom: 96px;
 }
 
@@ -841,14 +841,7 @@ p {
     font-family: "BebasNeue-Regular";
 }
 
-/* 
-.page {
-    position: absolute;
-    left: 7px;
-    font-family: "BebasNeue-Regular";
-    color: #FFFFFF;
-    bottom: -6px;
-} */
+
 .page {
     position: relative;
     left: 0;
