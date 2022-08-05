@@ -179,19 +179,11 @@ for (i = 0; i < acc.length; i++) {
         }
     });
 }
-// $(function() {
-//     $(' a[href*=#]').on('click', function(e) {
-//         e.preventDefault();
-//         $('html, body').animate({
-//             scrollTop: $($(this).attr('href')).offset().top
-//         }, 500, 'linear');
-//     });
-// });
 $(function() {
     $('.slide-up a').click(function() {
         $('html, body').animate({
-            scrollTop: $('.about-sec').offset().top
-        }, 'slow');
+            scrollTop: $('.footer').offset().top
+        }, 'slow ');
         return false;
     });
 });

@@ -369,3 +369,172 @@ button.slick-next.slick-arrow{
   .tab-content>.tab-pane.active{
     height: auto;
   }
+  @media (max-width: 1024px) {
+    .tabs .nav .nav-item .nav-link {
+        padding: 10px 120px;
+    }
+    .img-wrapper-slider img {
+        width: 238px;
+        height: 268px;
+    }
+    .slick-next:before {
+        left: 181px;
+    }
+    .img-bed-wrapper2 a .btn12 {
+        padding: 7px 32px;
+    }
+}
+@media (max-width: 768px) {
+    .headind-bed h4 {
+        font-size: 16px;     
+    }
+    .booking-sec .form-group label {
+        margin-right: 10px;
+        font-size: 11px;    
+        margin-left: 10px;
+    }
+    .booking-sec .form-group input#exampleFormControlInput1 {
+        width: 145px;
+    }
+    .booking-sec .form-group select#exampleFormControlSelect1 {
+        width: 129px;
+    }
+    .reserve-btn {
+        font-size: 11px;
+    }
+    .books-detail1 h3 {
+        font-size: 23px;  
+    }
+    .books-detail1 span {
+        font-size: 18px;
+    }
+    .tabs .nav .nav-item .nav-link {
+        padding: 10px 80px;
+    }
+    .img-wrapper-slider img {
+        width: 238px;
+        height: 239px;
+    }
+    .slick-next:before {
+        left: 121px;
+    }
+    .img-bed-wrapper2 a .btn12 {
+        padding: 7px 12px;
+    }
+    .para-fivestar p {
+        font-size: 8px;
+        color: #828282;
+        font-family: 'roboto-light';
+    }
+    .img-bed-wrapper h5 {
+        font-size: 12px;
+    }
+    ul.slick-dots {
+        display: none;
+    }
+    .boking-slider-wrapper {
+        height: 240px ! important;  
+    }
+    .august h5 {
+        font-size: 10px;
+    }
+    .btn-bed button.btn1 {
+        font-size: 12px;    
+    }
+}
+@media (max-width: 768px) {
+    .books-detail1 {
+        padding: 30px 24px;
+        width: 92%;
+        margin-top: 114px;
+    }
+    .booking-sec {
+        height: 840px ! important;
+    }
+    .books-detail1 h3 {
+        font-size: 23px;
+        margin-left: 9px;
+    }
+    .booking-sec .form-group input#exampleFormControlInput1 {
+        width: 128px;
+    }
+    .arrival {
+        margin: 10px  0px;
+    }
+    .booking-sec  .form-wrapper {
+        display: inline;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 40px;
+    }
+    .booking-sec .form-group label {
+        width: 100px;
+    }
+    .books-detail1 h3 {
+        font-size: 23px;
+        margin-left: 9px;
+        margin: 10px 0px;
+    }
+    .tabs .nav .nav-item .nav-link {
+        padding: 10px 66px;
+        font-size: 20px;
+    }
+}
+@media (max-width: 575px) {
+    .img-wrapper-slider img {
+        /* width: 238px ! important; */
+        height: 179px;
+    }   
+    .headind-bed h4 {
+        font-size: 10px;
+    }
+    .five-star i {
+        font-size: 10px;
+    }
+    .five-star span {
+        font-size: 15px;
+        margin-left: 10px;
+    }
+    .btn-bed button.btn1 {
+        font-size: 8px;
+    }
+    .para-fivestar p {
+        font-size: 5px;
+    }
+    .august h5 {
+        font-size: 5px;
+    }
+    .slick-next:before {
+        left: 85px;
+        top: -37px;
+    }
+    .slick-prev:before {
+        left: -24px;
+        top: -36px;
+    }
+    .boking-slider-wrapper {
+        height: 180px ! important;
+    }
+    .img-bed-wrapper1 h5 {
+        font-size: 11px;
+    }
+    .img-bed-wrapper1 h6 {
+        font-size: 7px;
+    }
+    .img-bed-wrapper h5 {
+        font-size: 9px;
+    }
+    .img-bed-wrapper h6 {
+        font-size: 8px;
+    }
+    .august h5 span {
+        font-size: 9px;
+    }
+    .img-bed-wrapper2 a .btn12 {
+        padding: 4px 4px;
+        font-size: 10px;
+    } 
+    .books-detail1 h3 {
+        font-size: 12px;
+    }  
+}

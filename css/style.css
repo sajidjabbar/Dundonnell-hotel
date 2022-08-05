@@ -538,6 +538,9 @@ header li.for-contact-brn-header {
     padding-bottom: 162px;
     text-align: center;
 }
+.slide-up a{
+    transition: 1s ease !important;
+}
 .books-detail span {
     font-size: 44px;
 }
@@ -842,6 +845,11 @@ p {
     height: 198px;
     top: 41px;
     left: 44px;
+    visibility: hidden;
+}
+.img-room:hover .img-text{
+visibility: visible;
+
 }
 
 .img-uppertext {

@@ -12,15 +12,38 @@
     color: #26CFA0;
     font-family: "Roboto-Black";
 }
-.faq-card h5 .fa {
-    color: #FFFFFF;
-    margin-right: 20px;
-}
+
 .faq-card {
     border: 0;
     border-radius: 0;
     background: transparent;
 }
+section.faqs-sec .btn-link:hover {
+    text-decoration: none !important;
+}
+section.faqs-sec .card-header {
+    border-bottom: none !important;
+    padding: 0;
+}
+
+section.faqs-sec  .card.faq-card {
+    margin-bottom: 3px;
+}
+section.faqs-sec  .card-body {
+    padding: 0px 13px;
+}
+section.faqs-sec button.btn.btn-link.faq[aria-expanded="true"]::before{
+content: "\f106";
+font-family: "fontawesome";
+color: #FFFFFF;
+margin-right: 20px;
+}
+section.faqs-sec button.btn.btn-link.faq[aria-expanded="false"]::before{
+    content: "\f107";
+    font-family: "fontawesome";
+    color: #FFFFFF;
+    margin-right: 20px;
+    }
 .card-body {
     color: #FFFFFF;
     font-size: 15px;
@@ -55,6 +78,8 @@ h3 {
     font-family: "Roboto-Black";
     color: #FFFFFF;
     font-size: 22px;
+    margin-left: 10px;
+    margin-bottom: 10px;
 }
 .faq-heading {
     padding-top: 245px;
