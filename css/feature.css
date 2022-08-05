@@ -143,24 +143,24 @@ section.feature_section .top_heading.text-center h1 {
     max-width: 255px;
 }
 
-@media (max-width: 1200px){
+@media (max-width: 1250px){
     .featured_start_here .single_feature .featured_post_text {
         padding-right: 45px;
         width: 76%;
         padding-left: 35px;
     }
     .featured_start_here .single_feature .featured_post_text .text p {
-        color: #828282;
-        font-family: 'Roboto-Regular';
+
         font-size: 14px;
     }
     .featured_start_here .single_feature .featured_post_text .text h1 {
-        color: #3F7163;
-        font-family: 'Fashion-Stamp';
         font-size: 34px;
     }
     .icon_facilities {
         margin-top: 34px;
+    }
+    .featured_start_here .single_feature .featured_post_text .text p {
+        font-size: 15px;
     }
 }
 @media (max-width: 991px){

@@ -7,7 +7,7 @@
             <div class="col-md-12">
                 <div class="contact-heading">
                     <h2>Contact Us</h2>
-                    <div class="slide-this">
+                    <div class="bottom-img">
                     <img src="img/slide.png" alt="" class="img-fluid">
                 </div>
                     <h3>Dundonnell Hotel</h3>
