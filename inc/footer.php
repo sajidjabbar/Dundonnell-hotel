@@ -42,6 +42,7 @@
                 </div>
             </div>
             <div class="col-md-8">
+                
                 <div class="footer-form">
                     <form class="form-detail">
                         <div class="form-row">
@@ -58,13 +59,10 @@
                             <label for="exampleFormControlTextarea1">Your Message*</label>
                             <textarea class="form-control mail" id="exampleFormControlTextarea1" rows="3"></textarea>
                         </div>
-
-                    </form>
-                </div>
-                    <div class="send-btn">
-                        <a href="">
+                        <div class="send-btn">
                             <button class="btn btn-primary btns">Send a Message</button>
-                        </a>
+                </div>
+                    </form>
                 </div>
             </div>
         </div>

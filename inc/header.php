@@ -3,8 +3,8 @@
         <div class="row">
             <!-- <div class="col-md-4"></div>
             <div class="col-md-4"></div> -->
-            <div class="col-xl-4 col-lg-5 col-md-0 ml-auto d-none-991">
-                <div class="row">
+            <div class="col-xl-5 col-lg-5 col-md-0 ml-auto d-none-991">
+                <div class="row  align-items-center">
                     <div class="col-md-4">
                         <div class="contact-detail">
                             <div class="phones">
@@ -49,7 +49,7 @@
                     <nav class="nabar">
                         <ul>
                             <li><a href="index.php">home</a></li>
-                            <li><a href="">About us </a></li>
+                            <li><a href="javascript:void(0)">About us </a></li>
                             <li><a href="activities.php">Activities </a></li>
                             <li><a href="feature.php">Features</a></li>
                         </ul>

@@ -57,6 +57,7 @@ span {
     padding: 10px 20px;
     width: 100%;
     border-radius: 8px;
+    height: 140px;
 }
 
 .hotel-weather img {
@@ -141,7 +142,14 @@ h4 {
 .news-box {
     padding-top: 84px;
 }
-
+@media (max-width: 1124px) {
+    h3 {
+        font-size: 21px;
+    }
+    .hotel-weather {
+        height: 131px;
+    }
+}
 @media (max-width: 1024px) {
     h3 {
         font-size: 13px;
@@ -219,6 +227,9 @@ h4 {
         background-color: #ffffff5c;
         border-radius: 17px;
         margin-bottom: 231px;
+    }
+    .hotel-weather img {
+        width: 19%;
     }
 }
 @media (max-width: 590px) {

@@ -91,6 +91,24 @@ h3 {
 section.newsletter-sec {
     padding-top: 86px;
 }
+section.faqs-sec  .card.faq-card {
+    margin-bottom: 3px;
+}
+section.faqs-sec  .card-body {
+    padding: 0px 13px;
+}
+section.faqs-sec button.btn.btn-link.faq[aria-expanded="true"]::before{
+content: "\f106";
+font-family: "fontawesome";
+color: #FFFFFF;
+margin-right: 20px;
+}
+section.faqs-sec button.btn.btn-link.faq[aria-expanded="false"]::before{
+    content: "\f107";
+    font-family: "fontawesome";
+    color: #FFFFFF;
+    margin-right: 20px;
+    }
 @media (max-width: 590px) {
     .faq-card h5 .faq {
         font-size: 7px;
