@@ -49,7 +49,7 @@
                     <nav class="nabar">
                         <ul>
                             <li><a href="index.php">home</a></li>
-                            <li><a href="">About us </a></li>
+                            <li><a href="javascript:void(0)">About us </a></li>
                             <li><a href="activities.php">Activities </a></li>
                             <li><a href="feature.php">Features</a></li>
                         </ul>
