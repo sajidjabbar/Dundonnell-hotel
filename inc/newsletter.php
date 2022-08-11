@@ -9,11 +9,11 @@
 
                         <div class="news-wrapper">
                             <div class="col-md-6">
-                                <h4>Sign-p for newsletters</h4>
+                                <h4>Sign-Up for newsletters</h4>
                             </div>
                             <div class="col-md-6">
                                 <div class="input-group">
-                                    <input type="text" class="form-control" placeholder="Your e-mail" aria-label="Recipient's username" aria-describedby="basic-addon2">
+                                    <input type="text" class="form-control" placeholder="Your Email" aria-label="Recipient's username" aria-describedby="basic-addon2">
                                     <div class="input-group-append">
                                         <button class="btn btn-outline-secondary news-btn" type="button">Subscribe</button>
                                     </div>

@@ -1,0 +1,20 @@
+.about p {
+    font-family: "Roboto-Thin";
+    color: #FFFFFF;
+    font-size: 15px;
+}
+.about-btn {
+    background: #28B100;
+}
+.about-btn:focus, .about-btn:hover {
+    background: #28B100;
+}
+.about-sec-page {
+    background-image: url(../img/about.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 800px ! important;
+}
