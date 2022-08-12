@@ -1026,5 +1026,79 @@ input.qtyminus { width:25px; height:25px;} */
     margin-left: 5px;
 }
 
+/* next-page start */
 
+.boking-slider-wrappers1 {
+    width: 100%;
+    background: #F6F6F6;
+    border-radius: 10px 10px 10px 10px;
+    /* margin-left: 15px; */
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding: 20px 40px;
+}
+.custom-bed-imgbox img {
+    width: 100%;
+    height: 502px;
+    object-fit: cover;
+}
+.heading-booking h3 {
+    color: #3F7163;
+    font-family: "Fashion-Stamp";
+    font-size: 31px;
+    margin-bottom: 13px;
+    margin-top: 27px;
+}
+/* .Booker-Information .form-group {
+    width: 170px;
+} */
+
+/* .form-group {
+    display: block;
+    margin-bottom: 15px;
+  }
+  
+  .form-group input {
+    padding: 0;
+    height: initial;
+    width: initial;
+    margin-bottom: 0;
+    display: none;
+    cursor: pointer;
+  }
+  
+  .form-group label {
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .form-group label:before {
+    content:'';
+    -webkit-appearance: none;
+    background-color: transparent;
+    border: 2px solid #0079bf;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  .form-group input:checked + label:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 2px;
+    left: 9px;
+    width: 6px;
+    height: 14px;
+    border: solid #0079bf;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+  } */
+
+
+/* next-page end */
 /* booking-customize  end here */
