@@ -685,7 +685,9 @@ button.slick-next.slick-arrow {
     margin-left: 15px;
     margin-bottom: 30px;
     margin-top: 20px;
-    padding: 0 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 60px;
 }
 
 .discount-box {
@@ -777,16 +779,6 @@ button.slick-next.slick-arrow {
     padding-top: 10px;
 }
 
-/* #myform {
-    text-align: center;
-}
-.qty {
-    width: 40px;
-    height: 25px;
-    text-align: center;
-}
-input.qtyplus { width:25px; height:25px;}
-input.qtyminus { width:25px; height:25px;} */
 .room-name span {
     color: #515151;
     text-transform: uppercase;
@@ -961,8 +953,8 @@ input.qtyminus { width:25px; height:25px;} */
 .dundon-heading h5 {
     color: #3F7163;
     font-family: "Roboto-Regular";
+    font-size: 16px;
 }
-
 .five-star.dundon-star {
     font-size: 15px;
 }
@@ -992,39 +984,104 @@ input.qtyminus { width:25px; height:25px;} */
     padding: 10px;
 }
 
-.amenities-box i {
-    color: #828282;
-    margin-right: 5px;
-}
-
-.amenities-box svg {
-    color: #828282;
-    margin-left: 5px;
-}
 
 .Popular-amenities h4 {
     color: #3F7163;
     font-family: "Roboto-Bold";
 }
-
-
-
+.dundon-heading {
+    padding: 20px 40px;
+}
 .Popular-amenities a {
     display: block;
     color: #828282;
     font-family: "roboto-light";
     padding: 10px;
 }
-
-.Popular-amenities i {
-    color: #828282;
+span img {
     margin-right: 5px;
 }
-
-.Popular-amenities svg {
+.dundon-btn .custom {
+    padding: 9px 33px;
+}
+.amenities-box {
+    margin-left: 35px;
+}
+.internet-heading h4 {
     color: #828282;
-    margin-left: 5px;
+    font-family: "Roboto-Medium";
+    font-size: 20px;
 }
 
+.internet-heading {
+    padding-top: 45px;
+}
 
+.Parking {
+    padding-top: 30px;
+}
+
+.internet-heading li {
+    color: #828282;
+    font-family: "roboto-light";
+}
+.dundon-btn {
+    padding-top: 44px;
+}
+.custom-bed  button.btn1 {
+    padding: 0px 7px;
+    font-size: 11px;
+}
+.custom-bed .five-star i {
+    font-size: 10px;
+}
+
+.custom-bed  span {
+    font-size: 13px;
+    margin-left: 0;
+}
+.custom-bed   {
+    display: flex;
+    padding-bottom: 16px;
+}
+
+.custom-bed   .fa {
+    font-size: 13px !important;
+}
+.custom-card h4 {
+    font-family: "Fashion-Stamp";
+    font-size: 26px;
+    color: #3F7163;
+}
+.custom-card  {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 6px 17px 0px 10px;
+}
+.this-custom-wrapper .img-bed-wrapper2 a .btn12 {
+    padding: 7px 32px;
+    font-size: 12px;
+}
+.boking-slider-wrapper.this-custom-wrapper h5 {
+    font-size: 14px;
+}
+.this-custom-wrapper .slick-next:before {
+    left: 173px;
+}
+.boking-slider-wrapper.this-custom-wrapper .img-wrapper-slider img {
+    height: 274px;
+}
+.this-custom-wrapper{
+    background: #E2E2E2;
+    height: 273px ! important;
+}
+@media (max-width: 540px) {
+    .discount-box {
+        flex-direction: column;
+    }
+    .custom-heading h3 {
+        font-size: 17px;
+    }
+}
 /* booking-customize  end here */
