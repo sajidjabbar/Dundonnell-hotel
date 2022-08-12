@@ -1560,7 +1560,9 @@ button.news-btn:hover {
     background-color: #FFFFFF;
     border-color: #FFFFFF;
 }
-
+.book-btn {
+    text-align: right;
+}
 @media (max-width:590px) {
     .news-wrapper {
         flex-direction: column;
