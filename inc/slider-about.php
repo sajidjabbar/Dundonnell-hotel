@@ -69,10 +69,12 @@
         text-align: center;
         z-index: 5;
     }
+
     i.fas {
-    font-size: 36px;
-    color: #BCBCBC;
-}
+        font-size: 36px;
+        color: #BCBCBC;
+    }
+
     .cascade-slider_dot {
         display: inline-block;
         width: 1em;
@@ -145,6 +147,6 @@
 <script src="js/cascade-slider.js"></script>
 <script>
     $('#cascade-slider').cascadeSlider({
-
+        responsive: true,
     });
 </script>

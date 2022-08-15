@@ -16,7 +16,7 @@
     position: relative;
     top: 0;
     width: 100%;
-    height: 800px ! important;
+    height: 860px ! important;
 }
 .custom {
     background: #ffffff;
@@ -53,4 +53,14 @@ h4 {
 }
 section.newsletter-sec {
     padding-top: 110px;
+}
+.inner-banner.about.text-center {
+    width: 70%;
+}
+.inner-banner h2 {
+    font-size: 71px;
+    margin-bottom: 0;
+}
+.wester-sec .wester-heading {
+    padding-top: 296px;
 }

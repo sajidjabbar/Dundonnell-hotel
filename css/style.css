@@ -1858,14 +1858,14 @@ label {
 }
 
 /* slick styling */
-.slick-prev:before {
+.slide-thisss .slick-prev:before {
     content: "\f104";
     font-family: 'FontAwesome';
     color: white;
     opacity: 3 !important;
 }
 
-button.slick-prev.slick-arrow {
+.slide-thisss button.slick-prev.slick-arrow {
     position: absolute;
     bottom: 0px !important;
     top: 97%;
@@ -1873,13 +1873,13 @@ button.slick-prev.slick-arrow {
     ;
 }
 
-button.slick-next {
+.slide-thisss button.slick-next {
     left: 18px;
     bottom: 3px;
     top: 97%;
 }
 
-.slick-next:before {
+.slide-thisss .slick-next:before {
     content: "\f105";
     font-family: 'FontAwesome';
     color: white;

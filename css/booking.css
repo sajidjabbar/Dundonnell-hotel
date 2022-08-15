@@ -186,7 +186,7 @@ input.empt {
     font-family: 'fontawesome';
     padding: 6px 9px;
     position: absolute;
-    left: 226px;
+    opacity: 3;
 }
 
 .slick-prev:before {
@@ -196,7 +196,7 @@ input.empt {
     font-family: 'fontawesome';
     padding: 6px 9px;
     position: absolute;
-    left: -24px;
+    opacity: 3 !important;
 }
 
 button.slick-prev.slick-arrow {
@@ -209,7 +209,7 @@ button.slick-prev.slick-arrow {
 
 button.slick-next.slick-arrow {
     position: absolute;
-    right: -16px;
+    right: 5px;
     top: 110px;
     z-index: 1;
     opacity: 1;
@@ -358,7 +358,16 @@ button.slick-next.slick-arrow {
     font-size: 14px;
     font-family: "BebasNeue-Regular";
 }
-
+.img-bed-wrapper2  .btn12 {
+    padding: 7px 50px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    background: #3F7163;
+    color: #fff;
+    font-size: 14px;
+    font-family: "BebasNeue-Regular";
+}
 .img-bed-rest img {
     width: 15%;
 }
@@ -431,10 +440,6 @@ button.slick-next.slick-arrow {
         height: 268px;
     }
 
-    .slick-next:before {
-        left: 181px;
-    }
-
     .img-bed-wrapper2 a .btn12 {
         padding: 7px 32px;
     }
@@ -480,9 +485,7 @@ button.slick-next.slick-arrow {
         height: 239px;
     }
 
-    .slick-next:before {
-        left: 121px;
-    }
+
 
     .img-bed-wrapper2 a .btn12 {
         padding: 7px 12px;
@@ -593,10 +596,6 @@ button.slick-next.slick-arrow {
         font-size: 5px;
     }
 
-    .slick-next:before {
-        left: 85px;
-        top: -37px;
-    }
 
     .slick-prev:before {
         left: -24px;
@@ -1066,9 +1065,7 @@ span img {
 .boking-slider-wrapper.this-custom-wrapper h5 {
     font-size: 14px;
 }
-.this-custom-wrapper .slick-next:before {
-    left: 173px;
-}
+
 .boking-slider-wrapper.this-custom-wrapper .img-wrapper-slider img {
     height: 274px;
 }
@@ -1082,6 +1079,151 @@ span img {
     }
     .custom-heading h3 {
         font-size: 17px;
+    }
+    .customize-heading h3 {
+        font-size: 18px;
+    }
+    
+    .five-star.stars {
+        justify-content: center;
+    }
+    
+    a.btn.btn-primary.custom {
+        margin: 10px 0;
+    }
+    
+    .customize-heading {
+        text-align: center;
+    }
+    
+    .adult h2 {
+        font-size: 14px;
+    }
+    
+    .custom-room {
+        flex-direction: column;
+    }
+    
+    .custom-room h4 {
+        font-size: 14px;
+    }
+    
+    .book-summary h1 {
+        font-size: 14px;
+    }
+    
+    .book-summary p {
+        font-size: 11px;
+    }
+    
+    .book-summary h4 {
+        font-size: 13px;
+    }
+    
+    .extra-bedroom-dv.summary_same {
+        max-width: 100%;
+        margin: 0;
+        padding: 0 10px;
+    }
+    
+    .extras.summary_same {
+        max-width: 100%;
+        margin: 0;
+        padding: 0 10px;
+    }
+    
+    .dundon-heading h3 {
+        font-size: 20px;
+    }
+    
+    .dundon-heading span {
+        font-size: 12px;
+    }
+    
+    .dundon-heading {
+        padding: 20px 0;
+    }
+    
+    .dundon-heading a {
+        font-size: 12px;
+    }
+    
+    .dundon-btn {
+        padding-top: 0;
+    }
+    
+    .amenities-box {
+        margin: 0;
+    }
+    .boking-slider-wrapper.this-custom-wrapper {
+        height: auto! important;
+        margin: 20px 0;
+        padding: 0 15px;
+        text-align: center;
+    }
+    .custom-card h4 {
+        font-size: 19px;
+    }
+    
+    .btn-bed.custom-bed {
+        flex-direction: column;
+        /* padding: 10px 0; */
+        justify-content: center;
+        width: 100%;
+    }
+    
+    
+    .custom-bed button.btn1 {
+        margin-left: 0;
+        margin-top: 10px;
+        width: 140px;
+        padding: 4px 5px;
+    }
+    
+    .five-star {
+        margin-top: 10px;
+    }
+    
+    .boking-slider-wrapper.this-custom-wrapper h5 {
+        font-size: 15px;
+    }
+    
+    .this-custom-wrapper .slick-next:before {
+        top: 50%;
+    }
+    
+    .img-bed-wrapper1 h6 {
+        font-size: 15px;
+    }
+    .this-custom-wrapper .slick-prev:before {
+        left: -24px;
+        top: 50%;
+    }
+    .custom-bed {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    .img-bed-wrapper2 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .this-custom-wrapper .img-bed-wrapper2  .btn12 {
+        padding: 2px 48px;
+        font-size: 12px;
+        margin: 0;
+    }
+    .tabs .nav .nav-item .nav-link {
+        padding: 10px 28px;
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 400px) {
+    button.slick-next.slick-arrow {
+        right: 17px;
     }
 }
 /* booking-customize  end here */
