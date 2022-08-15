@@ -1300,10 +1300,10 @@
                                                 <p>If you have a discount code, please enter it here</p>
                                             </div>
                                         </div>
-                                        <div class="col-md-5">
+                                        <div class="col-md-5 p-0">
                                             <div class="discount">
                                                 <form class="form-inline">
-                                                    <div class="form-group mx-sm-3 mb-2">
+                                                    <div class="form-group ">
                                                         <input type="" class="form-control" id="inputvocher2" placeholder="Discount Code">
                                                         <div class="input-group">
                                                             <button class="btn btn-primary  discount-btn  custom" type="button">Apply Code</button>
