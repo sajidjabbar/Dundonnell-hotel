@@ -1315,7 +1315,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-6 p-0">
-                                        <div class="custom-bed-imgbox">
+                                        <div class="custom-rest-bed-imgbox">
                                             <img src="img/custombed.png" alt="" class="img-fluid">
                                         </div>
                                     </div>
