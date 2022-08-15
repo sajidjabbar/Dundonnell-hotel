@@ -196,12 +196,13 @@ input.empt {
     font-family: 'fontawesome';
     padding: 6px 9px;
     position: absolute;
+    left: 0;
     opacity: 3 !important;
 }
 
 button.slick-prev.slick-arrow {
     position: absolute;
-    left: 24px;
+    left: 0;
     top: 110px;
     z-index: 1;
     opacity: 1;
@@ -209,7 +210,7 @@ button.slick-prev.slick-arrow {
 
 button.slick-next.slick-arrow {
     position: absolute;
-    right: 5px;
+    right: 16px;
     top: 110px;
     z-index: 1;
     opacity: 1;
@@ -359,12 +360,11 @@ button.slick-next.slick-arrow {
     font-family: "BebasNeue-Regular";
 }
 .img-bed-wrapper2  .btn12 {
-    padding: 7px 50px;
+    padding: 7px 25px;
     border: none;
-    border-radius: 5px;
-    margin-left: 10px;
     background: #3F7163;
     color: #fff;
+    border-radius: 7px;
     font-size: 14px;
     font-family: "BebasNeue-Regular";
 }
@@ -982,7 +982,9 @@ button.slick-next.slick-arrow {
     font-family: "roboto-light";
     padding: 10px;
 }
-
+.custom-rest-bed-imgbox img {
+    height: 334px;
+}
 
 .Popular-amenities h4 {
     color: #3F7163;
