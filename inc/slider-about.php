@@ -143,10 +143,3 @@
         <span class="cascade-slider_arrow cascade-slider_arrow-right" data-action="next"><i class="fas fa-chevron-circle-right"></i></span>
     </div>
 </section>
-<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="js/cascade-slider.js"></script>
-<script>
-    $('#cascade-slider').cascadeSlider({
-        responsive: true,
-    });
-</script>

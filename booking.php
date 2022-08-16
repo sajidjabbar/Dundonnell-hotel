@@ -165,7 +165,7 @@
                             aria-labelledby="pills-home-tab">
                             <div class="boking-slider-wrapper">
                                 <div class="row">
-                                    <div class="col-md-3 col-3 p-0">
+                                    <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
                                             <img src="./img/path11.png" class="img-fluid" alt="">
                                             <img src="./img/path3.png" class="img-fluid" alt="">
@@ -177,7 +177,7 @@
                                             <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-9 col-9 p-0">
+                                    <div class="col-md-9 col-12 p-0">
                                         <div class="save-content">
                                             <div class="bed-text-wrapper">
                                                 <div class="headind-bed">
@@ -202,7 +202,7 @@
                                             </button>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-8 col-8">
+                                            <div class="col-md-8 col-12">
                                                 <div class="para-fivestar">
                                                     <p>Fully pre-paid once booking has been received, non-refundable and
                                                         non-transferable. A credit or debit card is required to
@@ -215,7 +215,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4 col-4">
+                                            <div class="col-md-4 col-12">
                                                 <div class="august">
                                                     <h5>Mon, 15 August, 2 nights <br>
                                                         <span> <i class="fa-regular fa-user"></i> 1 adult</span>
@@ -223,7 +223,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row mb-2">
+                                        <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group1.png" alt="">
@@ -245,7 +245,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -276,7 +276,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -289,10 +289,10 @@
                             </div>
                             <div class="boking-slider-wrapper">
                                 <div class="row">
-                                    <div class="col-md-3 col-3 p-0">
+                                    <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
                                             <img src="./img/path11.png" class="img-fluid" alt="">
+                                            <img src="./img/path3.png" class="img-fluid" alt="">
                                             <img src="./img/path4.png" class="img-fluid" alt="">
                                             <img src="./img/path5.png" class="img-fluid" alt="">
                                             <img src="./img/path6.png" class="img-fluid" alt="">
@@ -301,7 +301,7 @@
                                             <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-9 col-9 p-0">
+                                    <div class="col-md-9 col-12 p-0">
                                         <div class="save-content">
                                             <div class="bed-text-wrapper">
                                                 <div class="headind-bed">
@@ -326,7 +326,7 @@
                                             </button>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-8 col-8">
+                                            <div class="col-md-8 col-12">
                                                 <div class="para-fivestar">
                                                     <p>Fully pre-paid once booking has been received, non-refundable and
                                                         non-transferable. A credit or debit card is required to
@@ -339,7 +339,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4 col-4">
+                                            <div class="col-md-4 col-12">
                                                 <div class="august">
                                                     <h5>Mon, 15 August, 2 nights <br>
                                                         <span> <i class="fa-regular fa-user"></i> 1 adult</span>
@@ -347,7 +347,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row mb-2">
+                                        <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group1.png" alt="">
@@ -369,7 +369,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -400,7 +400,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -413,11 +413,11 @@
                             </div>
                             <div class="boking-slider-wrapper">
                                 <div class="row">
-                                    <div class="col-md-3 col-3 p-0">
+                                    <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
                                             <img src="./img/path11.png" class="img-fluid" alt="">
+                                            <img src="./img/path3.png" class="img-fluid" alt="">
+                                            <img src="./img/path4.png" class="img-fluid" alt="">
                                             <img src="./img/path5.png" class="img-fluid" alt="">
                                             <img src="./img/path6.png" class="img-fluid" alt="">
                                             <img src="./img/path7.png" class="img-fluid" alt="">
@@ -425,7 +425,7 @@
                                             <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-9 col-9 p-0">
+                                    <div class="col-md-9 col-12 p-0">
                                         <div class="save-content">
                                             <div class="bed-text-wrapper">
                                                 <div class="headind-bed">
@@ -450,7 +450,7 @@
                                             </button>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-8 col-8">
+                                            <div class="col-md-8 col-12">
                                                 <div class="para-fivestar">
                                                     <p>Fully pre-paid once booking has been received, non-refundable and
                                                         non-transferable. A credit or debit card is required to
@@ -463,7 +463,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4 col-4">
+                                            <div class="col-md-4 col-12">
                                                 <div class="august">
                                                     <h5>Mon, 15 August, 2 nights <br>
                                                         <span> <i class="fa-regular fa-user"></i> 1 adult</span>
@@ -471,7 +471,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row mb-2">
+                                        <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group1.png" alt="">
@@ -493,7 +493,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -524,7 +524,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -537,19 +537,19 @@
                             </div>
                             <div class="boking-slider-wrapper">
                                 <div class="row">
-                                    <div class="col-md-3 col-3 p-0">
+                                    <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
+                                            <img src="./img/path11.png" class="img-fluid" alt="">
                                             <img src="./img/path3.png" class="img-fluid" alt="">
                                             <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
+                                            <img src="./img/path5.png" class="img-fluid" alt="">
                                             <img src="./img/path6.png" class="img-fluid" alt="">
                                             <img src="./img/path7.png" class="img-fluid" alt="">
                                             <img src="./img/path8.png" class="img-fluid" alt="">
                                             <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-9 col-9 p-0">
+                                    <div class="col-md-9 col-12 p-0">
                                         <div class="save-content">
                                             <div class="bed-text-wrapper">
                                                 <div class="headind-bed">
@@ -574,7 +574,7 @@
                                             </button>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-8 col-8">
+                                            <div class="col-md-8 col-12">
                                                 <div class="para-fivestar">
                                                     <p>Fully pre-paid once booking has been received, non-refundable and
                                                         non-transferable. A credit or debit card is required to
@@ -587,7 +587,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4 col-4">
+                                            <div class="col-md-4 col-12">
                                                 <div class="august">
                                                     <h5>Mon, 15 August, 2 nights <br>
                                                         <span> <i class="fa-regular fa-user"></i> 1 adult</span>
@@ -595,7 +595,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row mb-2">
+                                        <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group1.png" alt="">
@@ -617,7 +617,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -648,7 +648,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -661,19 +661,19 @@
                             </div>
                             <div class="boking-slider-wrapper">
                                 <div class="row">
-                                    <div class="col-md-3 col-3 p-0">
+                                    <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path11.png" class="img-fluid" alt="">
                                             <img src="./img/path3.png" class="img-fluid" alt="">
                                             <img src="./img/path4.png" class="img-fluid" alt="">
                                             <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
                                             <img src="./img/path7.png" class="img-fluid" alt="">
                                             <img src="./img/path8.png" class="img-fluid" alt="">
                                             <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-9 col-9 p-0">
+                                    <div class="col-md-9 col-12 p-0">
                                         <div class="save-content">
                                             <div class="bed-text-wrapper">
                                                 <div class="headind-bed">
@@ -698,7 +698,7 @@
                                             </button>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-8 col-8">
+                                            <div class="col-md-8 col-12">
                                                 <div class="para-fivestar">
                                                     <p>Fully pre-paid once booking has been received, non-refundable and
                                                         non-transferable. A credit or debit card is required to
@@ -711,7 +711,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4 col-4">
+                                            <div class="col-md-4 col-12">
                                                 <div class="august">
                                                     <h5>Mon, 15 August, 2 nights <br>
                                                         <span> <i class="fa-regular fa-user"></i> 1 adult</span>
@@ -719,7 +719,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row mb-2">
+                                        <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group1.png" alt="">
@@ -741,7 +741,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -772,7 +772,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -785,19 +785,19 @@
                             </div>
                             <div class="boking-slider-wrapper">
                                 <div class="row">
-                                    <div class="col-md-3 col-3 p-0">
+                                    <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path11.png" class="img-fluid" alt="">
                                             <img src="./img/path3.png" class="img-fluid" alt="">
                                             <img src="./img/path4.png" class="img-fluid" alt="">
                                             <img src="./img/path5.png" class="img-fluid" alt="">
                                             <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
                                             <img src="./img/path8.png" class="img-fluid" alt="">
                                             <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-9 col-9 p-0">
+                                    <div class="col-md-9 col-12 p-0">
                                         <div class="save-content">
                                             <div class="bed-text-wrapper">
                                                 <div class="headind-bed">
@@ -822,7 +822,7 @@
                                             </button>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-8 col-8">
+                                            <div class="col-md-8 col-12">
                                                 <div class="para-fivestar">
                                                     <p>Fully pre-paid once booking has been received, non-refundable and
                                                         non-transferable. A credit or debit card is required to
@@ -835,7 +835,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4 col-4">
+                                            <div class="col-md-4 col-12">
                                                 <div class="august">
                                                     <h5>Mon, 15 August, 2 nights <br>
                                                         <span> <i class="fa-regular fa-user"></i> 1 adult</span>
@@ -843,7 +843,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row mb-2">
+                                        <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group1.png" alt="">
@@ -865,7 +865,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -896,7 +896,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -909,19 +909,19 @@
                             </div>
                             <div class="boking-slider-wrapper">
                                 <div class="row">
-                                    <div class="col-md-3 col-3 p-0">
+                                    <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path11.png" class="img-fluid" alt="">
                                             <img src="./img/path3.png" class="img-fluid" alt="">
                                             <img src="./img/path4.png" class="img-fluid" alt="">
                                             <img src="./img/path5.png" class="img-fluid" alt="">
                                             <img src="./img/path6.png" class="img-fluid" alt="">
                                             <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
                                             <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-9 col-9 p-0">
+                                    <div class="col-md-9 col-12 p-0">
                                         <div class="save-content">
                                             <div class="bed-text-wrapper">
                                                 <div class="headind-bed">
@@ -946,7 +946,7 @@
                                             </button>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-8 col-8">
+                                            <div class="col-md-8 col-12">
                                                 <div class="para-fivestar">
                                                     <p>Fully pre-paid once booking has been received, non-refundable and
                                                         non-transferable. A credit or debit card is required to
@@ -959,7 +959,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4 col-4">
+                                            <div class="col-md-4 col-12">
                                                 <div class="august">
                                                     <h5>Mon, 15 August, 2 nights <br>
                                                         <span> <i class="fa-regular fa-user"></i> 1 adult</span>
@@ -967,7 +967,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row mb-2">
+                                        <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group1.png" alt="">
@@ -989,7 +989,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -1020,7 +1020,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -1033,19 +1033,19 @@
                             </div>
                             <div class="boking-slider-wrapper">
                                 <div class="row">
-                                    <div class="col-md-3 col-3 p-0">
+                                    <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="./img/path11.png" class="img-fluid" alt="">
                                             <img src="./img/path3.png" class="img-fluid" alt="">
                                             <img src="./img/path4.png" class="img-fluid" alt="">
                                             <img src="./img/path5.png" class="img-fluid" alt="">
                                             <img src="./img/path6.png" class="img-fluid" alt="">
                                             <img src="./img/path7.png" class="img-fluid" alt="">
                                             <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-9 col-9 p-0">
+                                    <div class="col-md-9 col-12 p-0">
                                         <div class="save-content">
                                             <div class="bed-text-wrapper">
                                                 <div class="headind-bed">
@@ -1070,7 +1070,7 @@
                                             </button>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-8 col-8">
+                                            <div class="col-md-8 col-12">
                                                 <div class="para-fivestar">
                                                     <p>Fully pre-paid once booking has been received, non-refundable and
                                                         non-transferable. A credit or debit card is required to
@@ -1083,7 +1083,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4 col-4">
+                                            <div class="col-md-4 col-12">
                                                 <div class="august">
                                                     <h5>Mon, 15 August, 2 nights <br>
                                                         <span> <i class="fa-regular fa-user"></i> 1 adult</span>
@@ -1091,7 +1091,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row mb-2">
+                                        <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group1.png" alt="">
@@ -1113,7 +1113,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -1144,7 +1144,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -1157,7 +1157,7 @@
                             </div>
                             <div class="boking-slider-wrapper">
                                 <div class="row">
-                                    <div class="col-md-3 col-3 p-0">
+                                    <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
                                             <img src="./img/path11.png" class="img-fluid" alt="">
                                             <img src="./img/path3.png" class="img-fluid" alt="">
@@ -1169,7 +1169,7 @@
                                             <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-9 col-9 p-0">
+                                    <div class="col-md-9 col-12 p-0">
                                         <div class="save-content">
                                             <div class="bed-text-wrapper">
                                                 <div class="headind-bed">
@@ -1194,7 +1194,7 @@
                                             </button>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-8 col-8">
+                                            <div class="col-md-8 col-12">
                                                 <div class="para-fivestar">
                                                     <p>Fully pre-paid once booking has been received, non-refundable and
                                                         non-transferable. A credit or debit card is required to
@@ -1207,7 +1207,7 @@
                                                     </p>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4 col-4">
+                                            <div class="col-md-4 col-12">
                                                 <div class="august">
                                                     <h5>Mon, 15 August, 2 nights <br>
                                                         <span> <i class="fa-regular fa-user"></i> 1 adult</span>
@@ -1215,7 +1215,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row mb-2">
+                                        <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group1.png" alt="">
@@ -1237,7 +1237,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now
@@ -1268,7 +1268,7 @@
                                                     <h6> <strike> £330.50 </strike></h6>
                                                 </div>
                                             </div>
-                                            <div class="col-md-3 col-3">
+                                            <div class="col-md-3 col-12">
                                                 <div class="img-bed-wrapper2">
                                                     <a href=""><button class="btn12">
                                                             Book now

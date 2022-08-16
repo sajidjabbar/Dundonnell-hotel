@@ -364,7 +364,8 @@ button.slick-next.slick-arrow {
     font-size: 14px;
     font-family: "BebasNeue-Regular";
 }
-.img-bed-wrapper2  .btn12 {
+
+.img-bed-wrapper2 .btn12 {
     padding: 7px 25px;
     border: none;
     background: #3F7163;
@@ -373,6 +374,7 @@ button.slick-next.slick-arrow {
     font-size: 14px;
     font-family: "BebasNeue-Regular";
 }
+
 .img-bed-rest img {
     width: 15%;
 }
@@ -491,7 +493,6 @@ button.slick-next.slick-arrow {
     }
 
 
-
     .img-bed-wrapper2 a .btn12 {
         padding: 7px 12px;
     }
@@ -572,20 +573,38 @@ button.slick-next.slick-arrow {
 
 @media (max-width: 575px) {
     .img-wrapper-slider img {
-        /* width: 238px ! important; */
+        width: 100%;
         height: 179px;
+    }
+    .boking-slider-wrapper .img-wrapper-slider.slick-initialized.slick-slider button.slick-next.slick-arrow {
+        right: 30px;
+    }
+    .boking-slider-wrapper {
+        height: auto ! important;
+        padding: 0 15px;
     }
 
     .headind-bed h4 {
         font-size: 10px;
     }
 
+    .boking-slider-wrapper .five-star i {
+        font-size: 5px;
+    }
+
     .five-star i {
         font-size: 10px;
     }
-
+   .btn-bed {
+        text-align: center;
+    }
+    .img-bed-wrapper2 a .btn12 {
+        padding: 0px 22px;
+        font-size: 13px;
+        margin-bottom: 6px;
+    }
     .five-star span {
-        font-size: 15px;
+        font-size: 9px;
         margin-left: 10px;
     }
 
@@ -594,23 +613,16 @@ button.slick-next.slick-arrow {
     }
 
     .para-fivestar p {
-        font-size: 5px;
+        font-size: 8px;
     }
 
     .august h5 {
-        font-size: 5px;
+        font-size: 10px;
     }
 
-
-    .slick-prev:before {
-        left: -24px;
-        top: -36px;
+    .august {
+        text-align: center;
     }
-
-    .boking-slider-wrapper {
-        height: 180px ! important;
-    }
-
     .img-bed-wrapper1 h5 {
         font-size: 11px;
     }
@@ -624,16 +636,11 @@ button.slick-next.slick-arrow {
     }
 
     .img-bed-wrapper h6 {
-        font-size: 8px;
+        font-size: 11px;
     }
 
     .august h5 span {
         font-size: 9px;
-    }
-
-    .img-bed-wrapper2 a .btn12 {
-        padding: 4px 4px;
-        font-size: 10px;
     }
 
     .books-detail1 h3 {
@@ -959,6 +966,7 @@ button.slick-next.slick-arrow {
     font-family: "Roboto-Regular";
     font-size: 16px;
 }
+
 .five-star.dundon-star {
     font-size: 15px;
 }
@@ -987,6 +995,7 @@ button.slick-next.slick-arrow {
     font-family: "roboto-light";
     padding: 10px;
 }
+
 .custom-rest-bed-imgbox img {
     height: 334px;
 }
@@ -995,24 +1004,30 @@ button.slick-next.slick-arrow {
     color: #3F7163;
     font-family: "Roboto-Bold";
 }
+
 .dundon-heading {
     padding: 20px 40px;
 }
+
 .Popular-amenities a {
     display: block;
     color: #828282;
     font-family: "roboto-light";
     padding: 10px;
 }
+
 span img {
     margin-right: 5px;
 }
+
 .dundon-btn .custom {
     padding: 9px 33px;
 }
+
 .amenities-box {
     margin-left: 35px;
 }
+
 .internet-heading h4 {
     color: #828282;
     font-family: "Roboto-Medium";
@@ -1031,11 +1046,13 @@ span img {
     margin-top: 20px;
     padding: 20px 40px;
 }
+
 .custom-bed-imgbox img {
     width: 100%;
     height: 502px;
     object-fit: cover;
 }
+
 .heading-booking h3 {
     color: #3F7163;
     font-family: "Fashion-Stamp";
@@ -1043,6 +1060,7 @@ span img {
     margin-bottom: 13px;
     margin-top: 27px;
 }
+
 /* .Booker-Information .form-group {
     width: 170px;
 } */
@@ -1107,44 +1125,52 @@ span img {
     color: #828282;
     font-family: "roboto-light";
 }
+
 .dundon-btn {
     padding-top: 44px;
 }
-.custom-bed  button.btn1 {
+
+.custom-bed button.btn1 {
     padding: 0px 7px;
     font-size: 11px;
 }
+
 .custom-bed .five-star i {
     font-size: 10px;
 }
 
-.custom-bed  span {
+.custom-bed span {
     font-size: 13px;
     margin-left: 0;
 }
-.custom-bed   {
+
+.custom-bed {
     display: flex;
     padding-bottom: 16px;
 }
 
-.custom-bed   .fa {
+.custom-bed .fa {
     font-size: 13px !important;
 }
+
 .custom-card h4 {
     font-family: "Fashion-Stamp";
     font-size: 26px;
     color: #3F7163;
 }
-.custom-card  {
+
+.custom-card {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
     padding: 6px 17px 0px 10px;
 }
+
 .this-custom-wrapper .img-bed-wrapper2 a .btn12 {
     padding: 7px 32px;
     font-size: 12px;
 }
+
 .boking-slider-wrapper.this-custom-wrapper h5 {
     font-size: 14px;
 }
@@ -1152,12 +1178,13 @@ span img {
 .boking-slider-wrapper.this-custom-wrapper .img-wrapper-slider img {
     height: 274px;
 }
-.this-custom-wrapper{
+
+.this-custom-wrapper {
     background: #E2E2E2;
     height: 273px ! important;
 }
-.table-responsive table tbody{
-}
+
+
 .table-responsive table {
     width: 100%;
     border: 1px solid #828282 ;
@@ -1396,76 +1423,94 @@ button.btn9 a{
     font-weight: 600;
 }
 @media (max-width: 1024px) {
-.custom-room {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 20px;
+    .custom-room {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 20px;
+    }
+
+    .custom-card h4 {
+        font-family: "Fashion-Stamp";
+        font-size: 21px;
+        color: #3F7163;
+    }
+
+    .custom-bed .five-star i {
+        font-size: 5px;
+    }
+
+    .boking-slider-wrapper.this-custom-wrapper h5 {
+        font-size: 12px;
+    }
 }
-.custom-card h4 {
-    font-family: "Fashion-Stamp";
-    font-size: 21px;
-    color: #3F7163;
-}
-.custom-bed .five-star i {
-    font-size: 5px;
-}
-.boking-slider-wrapper.this-custom-wrapper h5 {
-    font-size: 12px;
-}
-}
+
 @media (max-width: 990px) {
     .adult h2 {
         font-size: 19px;
     }
+
     .custom-room h4 {
         font-size: 14px;
     }
+
     .custom-room {
         padding-right: 57px;
     }
-    .img-bed-wrapper2  .btn12 {
+
+    .img-bed-wrapper2 .btn12 {
         padding: 5px 11px;
         font-size: 10px;
     }
+
     .custom-card h4 {
         font-size: 14px;
     }
+
     .boking-slider-wrapper.this-custom-wrapper h5 {
         font-size: 10px;
     }
+
     .boking-slider-wrapper.this-custom-wrapper h5 {
         font-size: 9px;
     }
+
     .custom-bed {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
-    .custom-bed  button.btn1 {
+
+    .custom-bed button.btn1 {
 
         margin-bottom: 5px;
     }
+
     .discount-btn {
         padding: 10px 11px;
         font-size: 12px;
     }
+
     .discount-box {
         padding-right: 87px;
     }
+
     .custom-rest-bed-imgbox img {
         height: 185px;
         margin-top: 29px;
     }
+
     .quality-heading {
         padding: 10px 14px;
     }
 }
+
 @media (max-width: 768px) {
     .custom-rest-bed-imgbox img {
         height: 185px;
         margin-top: 29px;
     }
+
     .custom-room {
         padding-right: 87px;
     }
@@ -1476,159 +1521,166 @@ button.btn9 a{
         margin-top: 40px;
     }
 }
+
 @media (max-width: 540px) {
     .discount-box {
         flex-direction: column;
     }
+
     .custom-heading h3 {
         font-size: 17px;
     }
+
     .customize-heading h3 {
         font-size: 18px;
     }
-    
+
     .five-star.stars {
         justify-content: center;
     }
-    
+
     a.btn.btn-primary.custom {
         margin: 10px 0;
     }
-    
+
     .customize-heading {
         text-align: center;
     }
-    
+
     .adult h2 {
         font-size: 14px;
     }
-    
+
     .custom-room {
         flex-direction: column;
     }
-    
+
     .custom-room h4 {
         font-size: 14px;
     }
-    
+
     .book-summary h1 {
         font-size: 14px;
     }
-    
+
     .book-summary p {
         font-size: 11px;
     }
-    
+
     .book-summary h4 {
         font-size: 13px;
     }
-    
+
     .extra-bedroom-dv.summary_same {
         max-width: 100%;
         margin: 0;
         padding: 0 10px;
     }
-    
+
     .extras.summary_same {
         max-width: 100%;
         margin: 0;
         padding: 0 10px;
     }
-    
+
     .dundon-heading h3 {
         font-size: 20px;
     }
-    
+
     .dundon-heading span {
         font-size: 12px;
     }
-    
+
     .dundon-heading {
         padding: 20px 0;
     }
-    
+
     .dundon-heading a {
         font-size: 12px;
     }
-    
+
     .dundon-btn {
         padding-top: 0;
     }
-    
+
     .amenities-box {
         margin: 0;
     }
+
     .boking-slider-wrapper.this-custom-wrapper {
-        height: auto! important;
+        height: auto ! important;
         margin: 20px 0;
         padding: 0 15px;
         text-align: center;
     }
+
     .custom-card h4 {
         font-size: 19px;
     }
-    
+
     .btn-bed.custom-bed {
         flex-direction: column;
         /* padding: 10px 0; */
         justify-content: center;
         width: 100%;
     }
-    
-    
+
+
     .custom-bed button.btn1 {
         margin-left: 0;
         margin-top: 10px;
         width: 140px;
         padding: 4px 5px;
     }
-    
+
     .five-star {
         margin-top: 10px;
     }
-    
+
     .boking-slider-wrapper.this-custom-wrapper h5 {
         font-size: 15px;
     }
-    
+
     .this-custom-wrapper .slick-next:before {
         top: 50%;
     }
-    
-    .img-bed-wrapper1 h6 {
+
+    .this-custom-wrapper  .img-bed-wrapper1 h6 {
         font-size: 15px;
     }
+
     .this-custom-wrapper .slick-prev:before {
         left: -24px;
         top: 50%;
     }
+
     .custom-bed {
         flex-direction: column;
         justify-content: center;
         align-items: center;
         width: 100%;
     }
+
     .img-bed-wrapper2 {
         display: flex;
         align-items: center;
         justify-content: center;
     }
-    .this-custom-wrapper .img-bed-wrapper2  .btn12 {
+
+    .this-custom-wrapper .img-bed-wrapper2 .btn12 {
         padding: 2px 48px;
         font-size: 12px;
         margin: 0;
     }
+
     .tabs .nav .nav-item .nav-link {
-        padding: 10px 28px;
+        padding: 10px 23px;
         font-size: 20px;
     }
 }
 
-@media (max-width: 400px) {
-    button.slick-next.slick-arrow {
-        right: 17px;
-    }
-}
+
+
 @media (max-width: 375px) {
     button.slick-next.slick-arrow {
         right: 17px;
@@ -1677,5 +1729,6 @@ button.btn9 a{
         font-size: 7px;
     }
 }
+
 
 /* booking-customize  end here */
