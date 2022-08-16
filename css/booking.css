@@ -1,8 +1,13 @@
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}
 section.booking-form-sec {
     margin: 100px 0px;
     overflow: hidden;
 }
-
 .booking-sec {
     background-image: url(../img/booking.png);
     background-repeat: no-repeat;
@@ -1151,7 +1156,245 @@ span img {
     background: #E2E2E2;
     height: 273px ! important;
 }
+.table-responsive table tbody{
+}
+.table-responsive table {
+    width: 100%;
+    border: 1px solid #828282 ;
+}
+.table-responsive table tr th {
+    border: none;
+}
+.table{
+    border: 1px solid #828282 ;
+}
+/* .table-responsive table tbody .th-class :nth-child(1) {
+    width: 8%;
+} */
+.table-responsive table tbody tr td {
+    border: none;
+    border: 1px solid #828282;
+    padding: 3px;
+}   
+.table-responsive table tbody tr td  span {
+    float: right;
+}
+.table-responsive table tbody  tr {
+    border: 1px solid #828282 ;
+}
+.table-responsive table thead tr span{
+    float: right;
+}
+.table-responsive table thead tr th {
+    background: #ECECEC;
+    font-size: 16px ! important;
+    font-family: "roboto";
+    font-weight: 400;
+    padding: 6px;
+}
+.border-none {
+    border: none ! important;
+}
 
+.boking-slider-wrappers2 {
+    width: 100%;
+    background: #F6F6F6;
+    border-radius: 10px 10px 10px 10px;
+    /* margin-left: 15px; */
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding: 20px 40px;
+}
+.Booker-Information {
+    padding: 32px;
+    background: #ffffff;
+    margin-top: 40px;
+}
+.information-heading h3{
+    color: #3F7163;
+    font-family: "Fashion-Stamp";
+    font-size: 41px;
+    margin-bottom: 0;
+    margin-top: 10px;
+
+}
+.information-heading1 h3 {
+    color: #3F7163;
+    font-family: "Fashion-Stamp";
+    font-size: 28px;
+    margin-bottom: 0;
+    margin-top: 28px;
+}
+
+.icon-sign-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-top: 23px;
+}
+.icon-sign-wrapper a i{
+    color: #828282 ;
+    font-size: 18px ;
+    font-weight: 400;
+
+}
+.icon-sign-wrapper a span{
+    color: #828282 ;
+    font-size: 18px ;
+    font-family: "roboto";
+    font-weight: 400;
+
+}
+.information-heading h5{
+    color: #828282 ;
+    font-size: 18px ;
+    font-family: "roboto";
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+.information-heading1 h5{
+    color: #828282 ;
+    font-size: 14px ;
+    font-family: "roboto";
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+.form-group4 label {
+    color: #515151;
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: 400;
+    margin: 0;
+    margin-top: 10px;
+}
+.form-group4 input::placeholder{
+    color: #828282;
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: 400;
+}
+.titles {
+    visibility: hidden;
+}
+.form-group4 select.selt {
+    width: 100%;
+    height: 37px;
+    margin-top: 34px;
+    display: flex;
+    border-radius: 5px;
+    border: 1px solid #A1A1A1;
+    color: #828282;
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: 400;
+    padding: 1px 7px;
+}
+.form-group4 select#selt {
+    width: 100%;
+    height: 37px;
+    margin-top: 1px;
+    display: flex;
+    border-radius: 5px;
+    border: 1px solid #A1A1A1;
+    color: #828282;
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: 400;
+    padding: 1px 7px;
+}
+.form-group5 select.selt {
+    width: 100%;
+    height: 37px;
+    margin-top: -5px;
+    display: flex;
+    border-radius: 5px;
+    border: 1px solid #A1A1A1;
+    color: #828282;
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: 400;
+    padding: 1px 7px;
+}
+.form-group5 {
+    margin-top: 30px;
+}
+.form-group5 label{
+    color: #515151;
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: 400;
+}
+.head-erapper h4{
+    color: #515151;
+    font-size: 22px;
+    font-family: "roboto";
+    font-weight: 400;
+    margin-top: 50px;
+}
+.head-erapper{
+    border-bottom: 1px solid #C0C0C0;
+}
+.form-group7 label {
+    color: #515151;
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: 400;
+    margin-top: 39px;
+    margin-left: 4px;
+}
+.checkbox {
+    margin-top: 10px;
+}
+.table-responsive {
+    border-top: 1px solid  #C0C0C0;
+    padding-top: 20px;
+}
+.form-group8 label {
+    color: #515151;
+    font-size: 14px;
+    font-family: "roboto";
+    font-weight: 400;
+    /* margin-top: 39px; */
+    margin-left: 4px;
+    line-height: 3;
+}
+.button-table {
+    float: right;
+}
+button.btn9 {
+    background: #3F7163;
+    padding: 4px 20px;
+    border: none;
+    border-radius: 7px;
+    width: 224px;
+}
+button.btn9 a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: 600;
+}
+.termsiconditions h4 {
+    color: #3F7163;
+    font-family: "Fashion-Stamp";
+    font-size: 41px;
+    margin-bottom: 40px;
+}
+.para-wrapper p{
+    color:#828282;
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: 300;
+}
+.para-wrapper h4{
+    color:#828282;
+    font-size: 18px;
+    font-family: "roboto";
+    font-weight: 600;
+}
 @media (max-width: 1024px) {
 .custom-room {
     padding-top: 10px;
@@ -1225,6 +1468,12 @@ span img {
     }
     .custom-room {
         padding-right: 87px;
+    }
+    .booking-sec .form-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 40px;
     }
 }
 @media (max-width: 540px) {
@@ -1378,6 +1627,54 @@ span img {
 @media (max-width: 400px) {
     button.slick-next.slick-arrow {
         right: 17px;
+    }
+}
+@media (max-width: 375px) {
+    button.slick-next.slick-arrow {
+        right: 17px;
+    }
+    .custom-bed-imgbox img {
+        width: 94%;
+        height: 502px;
+        object-fit: cover;
+    }
+}
+@media (max-width: 320px) {
+    section.booking-form-sec {
+        margin: -50px 0px;
+        overflow: hidden;
+    }
+    .tabs .nav .nav-item .nav-link {
+        padding: 7px 24px;
+        font-size: 20px;
+    }
+    .headind-bed h4 {
+        font-size: 6px;
+    }
+    .para-fivestar p {
+        font-size: 5px;
+    }
+    .august {
+        text-align: end;
+        margin-right: 30px;
+        margin-top: 5px;
+    }
+    button.slick-next.slick-arrow {
+        right: 18px;
+        top: 69px;
+    }
+    button.slick-prev.slick-arrow {
+        position: absolute;
+        left: 24px;
+        top: 117px;
+        z-index: 1;
+        opacity: 1;
+    }
+    .img-bed-wrapper1 h5 {
+        font-size: 10px;
+    }
+    .img-bed-wrapper1 h6 {
+        font-size: 7px;
     }
 }
 
