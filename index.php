@@ -90,13 +90,10 @@
                         <div class="bottom-img">
                             <img src="img/slide.png" alt="" class="img-fluid">
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum
-                            passages, and more recently with desktop
-                            publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        <p>We offer warm and comfortable en suite accommodation, with a friendly and relaxed family run service. Please note: We are closed on Wednesdays from 10am and reopen at 3pm on Thursdays. We are sorry if this causes you any inconvenience.
+                            Our Broombeg Bar opens every evening, except Wednesdays, and offers a wide range of exciting dishes, locally sourced produce and regular "specials"
+                            Regular folk music sessions are held in The Broombeg Bar and hosted by local musicians. If you sing, play (we have a small number of spare instruments which you are welcome to use) or just want to come along and listen, you will be made very welcome.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -143,13 +140,16 @@
                     <div class="bottom-img">
                         <img src="img/slide.png" alt="" class="img-fluid">
                     </div>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                        of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                        but also the leap into electronic typesetting, remaining essentially unchanged. It was
-                        popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                        and more recently with desktop
-                        publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>en suite rooms all with tea & coffee facilities and complimentary toiletries. All of our rooms have stunning views of either Little Loch Broom or the surrounding mountains.WiFi is available in both rooms and public areas
+                        and a variety of books, brochures, maps and games for our guests.
+
+                        We have a range of types of rooms: single, twin, double and family rooms. We do not charge a single supplement. All of our rooms are en-suite.
+
+
+                        All our beds are topped with 3 inches of luxury memory foam, to enhance our guests' comfort. We have a range of types of rooms: single, twin, double and family rooms.
+                        ** Ocassionally, guests ask about the slight discolouration in our water supply. It is known as "Peaty Water", as flowing through peat soil provides a level of natural filtration. Beyond this natural filtration, we also put our water through many filters and checks, once it runs into our supply. Our water is safe to drink and bathe in. What we don't do is add chlorine, or any other chemicals.
+                        en-suite.
+                    </p>
                 </div>
             </div>
             <div class="col-md-6 p-0">
@@ -438,13 +438,18 @@
                             </h2>
 
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum
-                            passages, and more recently
-                            with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        <p>As well as comfortable, well furnished rooms, we also have limited space for tents and motor homes on the land surrounding our hotel for a small fee.
+                            Tent pitches £5.00
+                            Campervans (small) £5.00
+                            Med Caravans £10.00
+                            Motor homes £20.00
+                            There is also the added bonus of enjoying our extensive menu - some of which we can provide as take away food, if you prefer.
+                            Overnight fees give access to hotel facilities including toilets,
+                            charging of mobile devices and WiFi.
+                            Shower facility on the ground floor of the hotel -  £3.00 per person
+                            (includes shower gel, shampoo and towels).
+                            BBQs or open fires are not permitted anywhere on hotel grounds.
+                        </p>
 
                         <div class="this-event">
                             <span class="info">

@@ -7,13 +7,18 @@
             <div class="bottom-img">
                 <img src="img/slide.png" alt="" class="img-fluid">
             </div>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
-                into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
-                release of Letraset sheets containing Lorem Ipsum passages,
-                and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem
-                Ipsum.</p>
+            <p>The Broombeg Bar is a wonderful place,
+                not only for our food and drink but also
+                to meet other travellers from
+                around the world.
+                Enjoy our local Scottish beers, or sample some of our wide range of Malt Whiskies.
+                We offer a range of dishes on our Dinner Menu, supplemented by our ever changing specials board    .
+
+                Along with all the food and drink, you can enjoy regular live music sessions hosted by local musicians.
+
+                ** Ocassionally, guests ask about the slight discolouration of water in our hotel. Please see the full details of this on our "Accommodation" page. What we can recommend is a tiny droplet or two of our natural, filtered water in one of our many fine Malt Whiskies. You may find yourself asking to take some of our purified, filtered, no chemicals water away with you in your water bottles. We're happy to do this for you.
+
+            </p>
         </div>
         <div class="slider_box">
             <div class="row align-items-center">

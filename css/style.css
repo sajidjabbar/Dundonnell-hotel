@@ -1897,3 +1897,7 @@ label {
     color: white;
     opacity: 3;
 }
+.schedule li {
+    color: #fff;
+    list-style: none;
+}
