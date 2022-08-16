@@ -47,16 +47,16 @@
                     <form class="form-detail">
                         <div class="form-row">
                             <div class="col-md-6">
-                                <label for="exampleInputEmail1">First Name*</label>
+                                <label for="exampleInputEmail1">First Name<sup>*</sup></label>
                                 <input type="text" class="form-control mail">
                             </div>
                             <div class="col-md-6">
-                                <label for="exampleInputEmail1">Your Email*</label>
+                                <label for="exampleInputEmail1">Your Email<sup>*</sup></label>
                                 <input type="text" class="form-control mail">
                             </div>
                         </div>
                         <div class="form-groupss">
-                            <label for="exampleFormControlTextarea1">Your Message*</label>
+                            <label for="exampleFormControlTextarea1">Your Message <sup>*</sup></label>
                             <textarea class="form-control mail" id="exampleFormControlTextarea1" rows="3"></textarea>
                         </div>
                         <div class="send-btn">

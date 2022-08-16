@@ -1,3 +1,5 @@
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 <script async src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.6.1/dist/lazyload.min.js"></script>
 <!-- Jquery JS-->
@@ -13,9 +15,16 @@
 </script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous">
 </script>
+
+<script src="js/cascade-slider.js"></script>
 <!-- boostrap -->
-
-
+<!-- about slider js -->
+<script>
+    $('#cascade-slider').cascadeSlider({
+        responsive: true,
+    });
+</script>
+<!-- about slider js -->
 <script>
     $(document).ready(function() {
         $(window).on('load', function() {
