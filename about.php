@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="wester-heading">
-                    <div class="inner-banner about text-center w-50">
+                    <div class="inner-banner about text-center ">
                         <h2 class="text-center">Your Imagination Turns Into Reality</h2>
                         <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
                         <a href="contactus.php" class="btn btn-primary about-btn">BOOK NOW</a>

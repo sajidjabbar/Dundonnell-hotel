@@ -1,7 +1,7 @@
 <style>
     .cascade-slider_container {
         position: relative;
-        width: 1000px;
+        width: 809px;
         height: 500px;
         margin: 0 auto;
     }
@@ -21,6 +21,10 @@
         transform: translateY(-50%) translateX(-150%) scale(0.6);
         opacity: 1;
         z-index: 1;
+        background: #3F7163;
+        padding: 25px 0;
+        background: #3F7163;
+        padding: 25px 0;
     }
 
     .cascade-slider_item.prev {
@@ -28,6 +32,8 @@
         transform: translateY(-50%) translateX(50%) scale(0.6);
         opacity: 1;
         z-index: 1;
+        background: #3F7163;
+        padding: 25px 0;
     }
 
     .cascade-slider_item.now {
@@ -36,7 +42,10 @@
         transform: translateY(-50%) translateX(-50%) scale(1);
         opacity: 1;
         z-index: 5;
+        background: #3F7163;
+        padding: 25px 0;
     }
+
     .cascade-slider_arrow {
         display: inline-block;
         position: absolute;
@@ -45,9 +54,13 @@
         z-index: 5;
     }
 
-    .cascade-slider_arrow-left { left: 0; }
+    .cascade-slider_arrow-left {
+        left: -191px;
+    }
 
-    .cascade-slider_arrow-right { right: 0; }
+    .cascade-slider_arrow-right {
+        right: -180px;
+    }
 
     .cascade-slider_nav {
         position: absolute;
@@ -55,6 +68,11 @@
         width: 100%;
         text-align: center;
         z-index: 5;
+    }
+
+    i.fas {
+        font-size: 36px;
+        color: #BCBCBC;
     }
 
     .cascade-slider_dot {
@@ -67,47 +85,61 @@
         cursor: pointer;
     }
 
-    .cascade-slider_dot:hover { background: #555; }
+    .cascade-slider_dot:hover {
+        background: #555;
+    }
 
-    .cascade-slider_dot.cur { background: #555; }
+    .cascade-slider_dot.cur {
+        background: #555;
+    }
 </style>
 <section>
     <div class="cascade-slider_container" id="cascade-slider">
         <div class="cascade-slider_slides">
-            <div class="cascade-slider_item">
+            <div class="cascade-slider_item this-about-slide">
                 <h4>Standard Room</h4>
-                <img src="https://placeimg.com/329/280/animals" alt="">
-                <a href="javascript:void(0);">Book Now</a>
+                <img src="img/custombedroom.png" alt="">
+                <p> Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <a href="javascript:void(0);" class="custom">Book Now</a>
+
             </div>
-            <div class="cascade-slider_item">
-                <h3>Pic 2</h3>
-                <img src="https://placeimg.com/329/280/arch" alt="">
+            <div class="cascade-slider_item this-about-slide">
+                <h4>Standard Room</h4>
+                <img src="img/room1.png" alt="">
+                <p> Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <a href="javascript:void(0);" class="custom">Book Now</a>
+
             </div>
-            <div class="cascade-slider_item">
-                <h3>Pic 3</h3>
-                <img src="https://placeimg.com/329/280/nature" alt="">
+            <div class="cascade-slider_item this-about-slide">
+                <h4>Standard Room</h4>
+                <img src="img/last-bed.png" alt="">
+                <p> Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <a href="javascript:void(0);" class="custom">Book Now</a>
+
             </div>
-            <div class="cascade-slider_item">
-                <h3>Pic 4</h3>
-                <img src="https://placeimg.com/329/280/people" alt="">
+            <div class="cascade-slider_item this-about-slide">
+                <h4>Standard Room</h4>
+                <img src="img/custombedroom.png" alt="">
+                <p> Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <a href="javascript:void(0);" class="custom">Book Now</a>
+
             </div>
-            <div class="cascade-slider_item">
-                <h3>Pic 5</h3>
-                <img src="https://placeimg.com/329/280/tech" alt="">
+            <div class="cascade-slider_item this-about-slide">
+                <h4>Standard Room</h4>
+                <img src="img/room1.png" alt="">
+                <p> Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <a href="javascript:void(0);" class="custom">Book Now</a>
+
             </div>
-            <div class="cascade-slider_item">
-                <h3>Pic 6</h3>
-                <img src="https://placeimg.com/329/280/sepia" alt="">
+            <div class="cascade-slider_item this-about-slide">
+                <h4>Standard Room</h4>
+                <img src="img/last-bed.png" alt="">
+                <p> Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <a href="javascript:void(0);" class="custom">Book Now</a>
+
             </div>
         </div>
-        <span class="cascade-slider_arrow cascade-slider_arrow-left" data-action="prev">Prev</span>
-        <span class="cascade-slider_arrow cascade-slider_arrow-right" data-action="next">Next</span>
+        <span class="cascade-slider_arrow cascade-slider_arrow-left" data-action="prev"><i class="fas fa-chevron-circle-left"></i></span>
+        <span class="cascade-slider_arrow cascade-slider_arrow-right" data-action="next"><i class="fas fa-chevron-circle-right"></i></span>
     </div>
 </section>
-<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="js/cascade-slider.js"></script>
-<script>
-    $('#cascade-slider').cascadeSlider({
-
-    });
-</script>

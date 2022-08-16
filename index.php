@@ -213,7 +213,7 @@
                         </div>
                         <div class="col-md-6 p-0">
                             <div class="album__details">
-                                <h2>Quad Sharing Room</h2>
+                                <h2>Single Room</h2>
                                 <p class="album__desc">Lorem Ipsum is simply dummy text of the printing and typesetting
                                     industry.
                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
@@ -222,7 +222,7 @@
                                     It has survived not only five centuries, but also the leap into electronic
                                     typesetting,</p>
                                 <div class="price">
-                                    <h4>150$</h4>
+                                    <h4>180$</h4>
                                     <span>four Person<br>
                                         per night</span>
                                 </div>

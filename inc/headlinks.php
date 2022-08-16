@@ -15,6 +15,7 @@
 <!-- slickslider -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
 <!-- slickslider -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 <!-- Bootstrap CSS -->
 <!--    Custom CSS-->
 <link rel="stylesheet" href="css/style.css">

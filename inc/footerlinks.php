@@ -1,3 +1,5 @@
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 <script async src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.6.1/dist/lazyload.min.js"></script>
 <!-- Jquery JS-->
@@ -15,9 +17,16 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
     integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous">
 </script>
+
+<script src="js/cascade-slider.js"></script>
 <!-- boostrap -->
-
-
+<!-- about slider js -->
+<script>
+    $('#cascade-slider').cascadeSlider({
+        responsive: true,
+    });
+</script>
+<!-- about slider js -->
 <script>
 $(document).ready(function() {
     $(window).on('load', function() {
@@ -79,7 +88,7 @@ $('.img-wrapper-slider').slick({
                 slidesToShow: 1,
                 slidesToScroll: 1,
                 infinite: true,
-                dots: true
+                dots: false
             }
         },
         {
@@ -187,5 +196,50 @@ $(function() {
         return false;
     });
 });
+</script>
+<script>
+$(".increment-quantity,.decrement-quantity").on("click", function(ev) {
+    var currentQty = $('input[name="quantity"]').val();
+    var qtyDirection = $(this).data("direction");
+    var newQty = 0;
 
+    if (qtyDirection == "1") {
+        newQty = parseInt(currentQty) + 1;
+    } else if (qtyDirection == "-1") {
+        newQty = parseInt(currentQty) - 1;
+    }
+
+    // make decrement disabled at 1
+    if (newQty == 1) {
+        $(".decrement-quantity").attr("disabled", "disabled");
+    }
+
+    // remove disabled attribute on subtract
+    if (newQty > 1) {
+        $(".decrement-quantity").removeAttr("disabled");
+    }
+
+    if (newQty > 0) {
+        newQty = newQty.toString();
+        $('input[name="quantity"]').val(newQty);
+    } else {
+        $('input[name="quantity"]').val("1");
+    }
+});
+</script>
+<script>
+// $(".dundon-btn").click(function() {
+//     $("section.booking-form-sec").css("display", "none");
+//     $("section.booking-form-sec").css("display", "none");
+// });
+// $(".dundon-btn").click(function() {
+//     $("section.booking-page-main").css("display", "block");
+//     $("section.booking-form-sec").this(".m");
+// });
+$('document').ready(function() {
+    $('.dundon-btn').click(function() {
+        $(".booking-page-main").removeClass('hide')
+        $('.boking-slider-wrappers').addClass('hide')
+    });
+});
 </script>
