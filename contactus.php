@@ -18,6 +18,16 @@
                     <h5>Tel: 01854 633204</h5>
                     <h5>Fax:01854 633204</h5>
                     <h5>WhatsApp : 01854 633204</h5>
+                    <p>Opening hours:</p>
+                    <ul class="schedule">
+                        <li>Monday 5.00pm - 11pm</li>
+                        <li>Tuesday 5.00pm - 11pm</li>
+                        <li>Wednesday 5.00pm - 11pm</li>
+                        <li>Thursday 5.00pm - 11pm</li>
+                        <li>Friday 5.00pm - 11pm</li>
+                        <li>Saturday 5.00pm - 11pm</li>
+                        <li>Sunday 5.00pm - 10pm</li>
+                    </ul>
                 </div>
                 <div class="address-detail">
                     <h6>Customer Care</h6>

@@ -11,22 +11,23 @@
                     <img src="img/slide.png" alt="" class="img-fluid">
                 </div>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
-                    a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
-                    remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
-                    Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
-                    of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                    the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                    scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into
-                    electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                    Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus
-                    PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting
-                    industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer
-                    took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-                    but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the
-                    1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-                    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    Dark Nights
+                    From the end of October when the nights are long we are lucky enough to  experience a wonderful show of the Aurora Borealis ( Northern Lights ) – a magical sight, you can link to an App that gives alerts as to when they may be visible. With very little light pollution the night sky is a glorious sight to behold even when the Northern Lights are reluctant to show!
+
+                    Winter Opening
+                    2022
+                    We are open until December 15th  we reopen on January 10th 2023
+
+                    Rates
+                    Autumn /Winter  from £120 per room B&B per night
+                    Spring/Summer    from £145 per room per night B&B
+
+                    Events
+                    April and October – Music Weekends – A gathering of acoustic musicians or, folk who enjoy listening,  of all levels who create a full weekend of session style musical evenings. Everyone is welcome to join in with the singing, playing stomping of feet – a great weekend for making new friendships and hearing traditional and modern acoustic folk music.
+
+                    Mondays and Fridays
+                    An informal twice weekly music session, hosted by local musicians is held in The Broombeg Bar from 8pm till 10pm . Everyone welcome to join in!
+
                 </p>
             </div>
         </div>
