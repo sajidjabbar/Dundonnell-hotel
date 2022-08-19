@@ -123,10 +123,12 @@
                 </div>
             </div>
             <div class="col-md-12">
-                <div class="about-btn">
-                    <a href="">
-                        <button class="btn btn-primary abt-btn">More About us</button>
-                    </a>
+                <div class="about-btn-detail">
+                    <div class="about-btn">
+                        <a href="javascript:void(0)" class="btn  abt-btn">
+                            More About us
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -371,15 +373,13 @@
                                 the 1914 translation by H. Rackham.
                             </p>
                             <div class="read">
-                                <a href="">
-                                    <button>
-                                        read More
-                                    </button>
+                            <a href="" class="btton">        
+                                        read More 
                                 </a>
                             </div>
                             <div class="page">
-                                <span> <i class="fa fa-angle-left" aria-hidden="true"></i> 4/6
-                                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                <span>  4/6
+                                    
                                 </span>
                             </div>
                         </div>
@@ -424,15 +424,13 @@
                                 the 1914 translation by H. Rackham.
                             </p>
                             <div class="read">
-                                <a href="">
-                                    <button>
-                                        read More
-                                    </button>
+                            <a href="" class="btton">        
+                                        read More 
                                 </a>
                             </div>
                             <div class="page">
-                                <span> <i class="fa fa-angle-left" aria-hidden="true"></i> 4/6
-                                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                <span>  4/6
+                                    
                                 </span>
                             </div>
                         </div>
@@ -477,15 +475,13 @@
                                 the 1914 translation by H. Rackham.
                             </p>
                             <div class="read">
-                                <a href="">
-                                    <button>
-                                        read More
-                                    </button>
+                            <a href="" class="btton">        
+                                        read More 
                                 </a>
                             </div>
                             <div class="page">
-                                <span> <i class="fa fa-angle-left" aria-hidden="true"></i> 4/6
-                                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                                <span>  4/6
+                                    
                                 </span>
                             </div>
                         </div>
@@ -557,9 +553,11 @@
             </div>
             <div class="col-md-12">
                 <div class="abouts-gallery">
-                    <a href="">
-                        <button class="btn btn-primary gallery-btn">View gallery</button>
+                    <div class="life-style-gallery-btn">
+                    <a href="" class="gallery-btn">
+                       View gallery
                     </a>
+                    </div>
                 </div>
             </div>
         </div>

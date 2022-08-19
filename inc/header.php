@@ -52,6 +52,7 @@
                             <li><a href="about.php">About us </a></li>
                             <li><a href="activities.php">Activities </a></li>
                             <li><a href="feature.php">Features</a></li>
+                            <li><a href="blog.php">Blog</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -102,6 +103,8 @@
             <li class="normal-nav-items nav-link"><a href="faqs.php">FAQ's </a></li>
             <li class="normal-nav-items nav-link"><a href="contactus.php">Contact us</a></li>
             <li class="normal-nav-items nav-link"><a href="booking.php"> booking</a></li>
+            <li class="normal-nav-items nav-link"><a href="blog.php">Blog</a></li>
+            
         </ul>
     </div>
 </header>
