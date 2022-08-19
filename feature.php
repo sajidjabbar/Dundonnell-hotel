@@ -95,9 +95,15 @@
             <!-- single featured Box -->
             <div class="single_feature">
                 <figure class="featured_image">
-                    <img src="img/feature2.png" class="img-fluid" alt="">
+                    <div class="feature-mountain">
+                    <img src="img/feature2.png" class="img-fluid mountain-feature" alt="">
+                    </div>
+                    <div class="this-mountain">
+                    <img src="img/side-leave2.png" class="img-fluid" alt="">
+                    </div>
                 </figure>
-                <div class="featured_post_text">
+                <div class="featured_post_text ">
+                <div class=" feature-mountain-text">
                     <div class="text">
                         <h1>Mountains</h1>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
@@ -111,6 +117,7 @@
                             PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the
                             printing and typesetting industry.
                         </p>
+                    </div>
                     </div>
                     <div class="icon_facilities">
                         <div class="sinle_facility">
@@ -198,19 +205,19 @@
                     <div class="icon_facilities">
                         <div class="sinle_facility">
                             <img src="img/facility_icon12.png" class="img-fluid" alt="">
-                            <span class="text_icon">Food</span>
+                            <span class="text_icon">Live Music</span>
                         </div>
                         <div class="sinle_facility">
                             <img src="img/facility_icon13.png" class="img-fluid" alt="">
-                            <span class="text_icon">Dream View</span>
+                            <span class="text_icon">Outdoor movie</span>
                         </div>
                         <div class="sinle_facility">
                             <img src="img/facility_icon14.png" class="img-fluid" alt="">
-                            <span class="text_icon">Wifi</span>
+                            <span class="text_icon">Bonfire</span>
                         </div>
                         <div class="sinle_facility">
                             <img src="img/facility_icon5.png" class="img-fluid" alt="">
-                            <span class="text_icon">Hygien</span>
+                            <span class="text_icon">Camping</span>
                         </div>
                     </div>
                 </div>
@@ -237,7 +244,7 @@
                     </div>
                     <div class="icon_facilities">
                         <div class="sinle_facility">
-                            <img src="img/facility_icon8.png" class="img-fluid" alt="">
+                            <img src="img/facility_icon8.png" class="img-fluid swim" alt="">
                             <span class="text_icon">Swimming</span>
                         </div>
                         <div class="sinle_facility">

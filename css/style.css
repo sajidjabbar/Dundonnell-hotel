@@ -1532,7 +1532,9 @@ section.events-sec {
     height: 106px;
 
 }
-
+.news-letter-group{
+    padding-right: 25px;
+}
 .news-wrapper {
     padding: 0 20px;
     display: flex;
@@ -1612,6 +1614,7 @@ button.news-btn:hover {
 
 .banner-wrapper {
     padding: 30px 30px;
+    width: 100%;
 }
 
 .book-slot-banner {
@@ -1821,7 +1824,7 @@ footer p {
     resize: none;
 }
 
-label {
+footer label {
     color: #FFFFFF;
     font-family: "roboto-light";
     font-size: 13px;

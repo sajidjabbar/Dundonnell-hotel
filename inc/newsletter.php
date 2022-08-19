@@ -6,19 +6,20 @@
             <div class="col-md-7 p-0">
                 <div class="news-box">
                     <div class="newsletter">
-
+                    <div class="container">
                         <div class="news-wrapper">
-                            <div class="col-md-6">
+                            <div class="col-md-5">
                                 <h4>Sign-p for newsletters</h4>
                             </div>
-                            <div class="col-md-6">
-                                <div class="input-group">
+                            <div class="col-md-7">
+                                <div class="input-group news-letter-group">
                                     <input type="text" class="form-control" placeholder="Your E-mail" aria-label="Recipient's username" aria-describedby="basic-addon2">
                                     <div class="input-group-append">
                                         <button class="btn btn-outline-secondary news-btn" type="button">Subscribe</button>
                                     </div>
                                 </div>
                             </div>
+                        </div>
                         </div>
                     </div>
                 </div>

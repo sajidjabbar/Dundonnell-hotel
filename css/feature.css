@@ -54,10 +54,14 @@ section.feature_section .top_heading.text-center h1 {
 .icon_facilities {
     display: flex;
     gap: 24px;
+    align-items: baseline;
     flex-wrap: wrap;
-    margin-top: 92px;
+    margin-top: 85px;
 }
-
+.sinle_facility .swim {
+    max-width: 67px;
+    max-height: 41px;
+}
 .icon_facilities .sinle_facility img {
     display: block;
     max-width: 54px;
@@ -142,7 +146,19 @@ section.feature_section .top_heading.text-center h1 {
 .for_leaf5 img {
     max-width: 255px;
 }
-
+section.feature_section {
+    width: 100%;
+    overflow-x: hidden;
+}
+.this-mountain {
+    position: absolute;
+    top: -80px;
+}
+.feature-mountain-text{
+    background-image: url(../img/f2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 @media (max-width: 1250px){
     .featured_start_here .single_feature .featured_post_text {
         padding-right: 45px;
@@ -177,6 +193,18 @@ section.feature_section .top_heading.text-center h1 {
     .for_leaf4,
     .for_leaf5{
         display: none;
+    }
+}
+@media (max-width: 1024px){
+    .icon_facilities .sinle_facility img {
+        max-width: 40px;
+        max-height: 27px;
+    }
+    .icon_facilities {
+        margin-top: 0;
+    }
+    .header li {
+        padding: 10px 8px;
     }
 }
 @media (max-width: 768px){

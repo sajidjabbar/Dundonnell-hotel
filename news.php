@@ -132,7 +132,7 @@
                     <div class="col-md-12">
                         <div class="abouts-music-text">
                             <a href="">
-                                <button class="btn btn-primary music-btn">View gallery</button>
+                                <button class="btn btn-primary music-btn">read more</button>
                             </a>
                         </div>
                     </div>
@@ -162,7 +162,7 @@
                         <div class="col-md-12">
                             <div class="abouts-music-text">
                                 <a href="">
-                                    <button class="btn btn-primary music-btn">View gallery</button>
+                                    <button class="btn btn-primary music-btn">read more</button>
                                 </a>
                             </div>
                         </div>
@@ -204,7 +204,7 @@
                     <div class="col-md-12">
                         <div class="abouts-music-text">
                             <a href="">
-                                <button class="btn btn-primary music-btn">View gallery</button>
+                                <button class="btn btn-primary music-btn">read more</button>
                             </a>
                         </div>
                     </div>
@@ -237,7 +237,7 @@
                         <div class="col-md-12">
                             <div class="abouts-music-text">
                                 <a href="">
-                                    <button class="btn btn-primary music-btn">View gallery</button>
+                                    <button class="btn btn-primary music-btn">read more</button>
                                 </a>
                             </div>
                         </div>
@@ -279,7 +279,7 @@
                     <div class="col-md-12">
                         <div class="abouts-music-text">
                             <a href="">
-                                <button class="btn btn-primary music-btn">View gallery</button>
+                                <button class="btn btn-primary music-btn">read more</button>
                             </a>
                         </div>
                     </div>
@@ -309,7 +309,7 @@
                         <div class="col-md-12">
                             <div class="abouts-music-text">
                                 <a href="">
-                                    <button class="btn btn-primary music-btn">View gallery</button>
+                                    <button class="btn btn-primary music-btn">read more</button>
                                 </a>
                             </div>
                         </div>
@@ -351,7 +351,7 @@
                     <div class="col-md-12">
                         <div class="abouts-music-text">
                             <a href="">
-                                <button class="btn btn-primary music-btn">View gallery</button>
+                                <button class="btn btn-primary music-btn">read more</button>
                             </a>
                         </div>
                     </div>

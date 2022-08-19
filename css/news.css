@@ -160,6 +160,12 @@ h4 {
     .news-leave-sec p {
         font-size: 9px;
     }
+    .music-text {
+        padding: 0px 20px;
+    }
+    .abouts-music-text {
+        margin-bottom: 20px;
+    }
 }
 @media (max-width: 880px) {
     .hotel-weather {

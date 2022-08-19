@@ -50,8 +50,8 @@
                     <p>Can't find what you're looking for? Our customer care team are here to help</p>
                 </div>
                 <div class="book-heading">
-                        <a href="">
-                            <button class="btn btn-primary reserve-btn">Contact Customer Care</button>
+                        <a href=""  class=" reservez-btn">
+                           Contact Customer Care
                         </a>
                     </div>
             </div>

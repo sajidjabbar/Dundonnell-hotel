@@ -65,7 +65,7 @@
                     <div class="col-md-2">
                         <div class="book-heading">
                             <a href="">
-                                <button class="btn btn-primary reserve-btn">Check availibity</button>
+                                <button class="btn btn-primary reserve-btn">Check Availability</button>
                             </a>
                         </div>
                     </div>
@@ -2479,7 +2479,7 @@
                                                                         <label for="selt">Expiry Month *</label>
                                                                         <select id="selt"
                                                                             placeholder=" --  please select country ">
-                                                                            <option>No of Persons</option>
+                                                                            <option> --  please select </option>
                                                                             <option>No of Persons</option>
                                                                             <option>No of Persons</option>
                                                                         </select>
@@ -2490,7 +2490,7 @@
                                                                         <label for="selt">Expiry year *</label>
                                                                         <select id="selt"
                                                                             placeholder=" --  please select country ">
-                                                                            <option>No of Persons</option>
+                                                                            <option>--  please select</option>
                                                                             <option>No of Persons</option>
                                                                             <option>No of Persons</option>
                                                                         </select>
