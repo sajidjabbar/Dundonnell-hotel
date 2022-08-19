@@ -1,5 +1,5 @@
 .contact-us-sec {
-    background-image: url(../img/gallery-backg1.png);
+    background-image: url(../img/contact-back.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -31,14 +31,17 @@ span{
     color: #FFFFFF;
     font-size: 13px;
 }
-h4{
+h4 {
     font-family: "Roboto-Regular";
     color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 30px;
 }
 h3 {
     font-family: "Roboto-Black";
     color: #FFFFFF;
     font-size: 30px;
+    text-transform: uppercase;
 }
 h2 {
     font-family: "Fashion-Stamp";

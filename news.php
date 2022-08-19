@@ -45,19 +45,31 @@
                     </div>
                 </div>
                 <div class="col-md-2">
+                   
                     <div class="hotel-weather">
+                    <div class="weathr">
+                    <h4>Tuesday</h4>
+                    
+                    <div class="weather-new-image">
                         <img src="img/sun.png" alt="" class="img-fluid">
-                        <h4>Tuesday</h4>
+                    </div>
+                    </div>
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
                             <span class="right-text">mist</span>
                         </div>
                     </div>
-                </div>
+                    </div>
+                <!-- </div> -->
                 <div class="col-md-2">
                     <div class="hotel-weather">
+                    <div class="weathr">
+                    <h4>Wednesday</h4>
+                    <div class="weather-new-image">
                         <img src="img/moon.png" alt="" class="img-fluid">
-                        <h4>Wednesday</h4>
+                    </div>
+                    </div>
+                        
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
                             <span class="right-text">mist</span>
@@ -66,8 +78,13 @@
                 </div>
                 <div class="col-md-2">
                     <div class="hotel-weather">
+                    <div class="weathr">
+                    <h4>thursday</h4>
+                    <div class="weather-new-image">
                         <img src="img/cloud.png" alt="" class="img-fluid">
-                        <h4>thursday</h4>
+                    </div>
+                    </div>
+                       
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
                             <span class="right-text">mist</span>
@@ -76,8 +93,13 @@
                 </div>
                 <div class="col-md-2">
                     <div class="hotel-weather">
+                    <div class="weathr">
+                    <h4>Friday</h4>
+                    <div class="weather-new-image">
                         <img src="img/rain.png" alt="" class="img-fluid">
-                        <h4>Friday</h4>
+                    </div>
+                    </div>
+                      
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
                             <span class="right-text">mist</span>
@@ -86,8 +108,12 @@
                 </div>
                 <div class="col-md-2">
                     <div class="hotel-weather">
+                    <div class="weathr">
+                    <h4>Saturday</h4>
+                    <div class="weather-new-image">
                         <img src="img/sun.png" alt="" class="img-fluid">
-                        <h4>Saturday</h4>
+                    </div>
+                    </div>
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
                             <span class="right-text">mist</span>

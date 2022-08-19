@@ -64,8 +64,42 @@ section.newsletter-sec {
 .wester-sec .wester-heading {
     padding-top: 296px;
 }
+.whale-img img {
+    height: 492px;
+}
+.short-left-image {
+    position: absolute;
+    top: 87px;
+    right: -110px;
+}
+.left-left-image {
+    position: absolute;
+    left: -145px;
+    top: 60%;
+}
+.right-left-image {
+    position: absolute;
+    right: -134px;
+    top: 72%;
+}
+.side-left-image {
+    position: absolute;
+    left: -140px;
+    top: -14px;
+}
 @media (max-width: 768px) {
     .inner-banner h2 {
         font-size: 48px;
     }
+}
+@media (max-width: 540px) {
+.short-left-image {
+    display: none;
+}
+.left-left-image {
+    display: none;
+}
+.right-left-image {
+display: none;
+}
 }

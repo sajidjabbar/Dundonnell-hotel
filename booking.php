@@ -259,7 +259,7 @@
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group2.png" alt="">
                                                     <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
+                                                        <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
                                                     </div>
                                                 </div>
@@ -383,7 +383,7 @@
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group2.png" alt="">
                                                     <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
+                                                        <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
                                                     </div>
                                                 </div>
@@ -507,7 +507,7 @@
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group2.png" alt="">
                                                     <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
+                                                        <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
                                                     </div>
                                                 </div>
@@ -631,7 +631,7 @@
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group2.png" alt="">
                                                     <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
+                                                        <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
                                                     </div>
                                                 </div>
@@ -755,7 +755,7 @@
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group2.png" alt="">
                                                     <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
+                                                        <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
                                                     </div>
                                                 </div>
@@ -879,7 +879,7 @@
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group2.png" alt="">
                                                     <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
+                                                        <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
                                                     </div>
                                                 </div>
@@ -1003,7 +1003,7 @@
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group2.png" alt="">
                                                     <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
+                                                        <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
                                                     </div>
                                                 </div>
@@ -1127,7 +1127,7 @@
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group2.png" alt="">
                                                     <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
+                                                        <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
                                                     </div>
                                                 </div>
@@ -1251,7 +1251,7 @@
                                                 <div class="img-bed-rest">
                                                     <img src="./img/group2.png" alt="">
                                                     <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
+                                                        <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
                                                     </div>
                                                 </div>

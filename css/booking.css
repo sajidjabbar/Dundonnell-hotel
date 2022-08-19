@@ -250,9 +250,9 @@ button.slick-next.slick-arrow {
 }
 
 .headind-bed h4 {
-    font-family: 'roboto-medium';
     font-size: 25px;
     color: #3F7163;
+    font-family: "Fashion-Stamp";
 }
 
 .five-star i {
@@ -436,7 +436,11 @@ button.slick-next.slick-arrow {
 .tab-content>.tab-pane.active {
     height: auto;
 }
-
+@media (max-width: 1200px) { 
+    .gallery-back {
+        padding-bottom: 306px;
+    }
+}
 @media (max-width: 1024px) {
     .tabs .nav .nav-item .nav-link {
         padding: 10px 120px;

@@ -56,7 +56,9 @@ section.feature_section .top_heading.text-center h1 {
     gap: 24px;
     align-items: baseline;
     flex-wrap: wrap;
-    margin-top: 85px;
+    position: absolute;
+    /* margin-top: 85px; */
+    bottom: 83px;
 }
 .sinle_facility .swim {
     max-width: 67px;
