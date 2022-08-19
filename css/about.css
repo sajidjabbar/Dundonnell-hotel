@@ -58,9 +58,14 @@ section.newsletter-sec {
     width: 70%;
 }
 .inner-banner h2 {
-    font-size: 71px;
+    font-size: 83px;
     margin-bottom: 0;
 }
 .wester-sec .wester-heading {
     padding-top: 296px;
+}
+@media (max-width: 768px) {
+    .inner-banner h2 {
+        font-size: 48px;
+    }
 }

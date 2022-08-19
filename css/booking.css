@@ -1110,12 +1110,18 @@ span img {
 /* next-page end */
 .internet-heading {
     padding-top: 45px;
+    padding-left: 37px;
 }
 
 .Parking {
     padding-top: 30px;
 }
-
+::marker {
+    font-size: 6px;
+}
+.Parking span {
+    margin-left: 10px;
+}
 .internet-heading li {
     color: #828282;
     font-family: "roboto-light";

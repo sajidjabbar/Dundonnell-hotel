@@ -1431,7 +1431,9 @@ section.events-sec {
     height: 360px;
     padding: 10px 20px;
 }
-
+.event-info {
+    text-transform: uppercase;
+}
 .event-info span {
     border-bottom: 1px solid #FFFFFF;
     margin-bottom: 10px;
@@ -1685,6 +1687,7 @@ button.news-btn:hover {
     font-family: "roboto-light";
     border: 0;
     border-radius: 0;
+    text-transform: uppercase;
     padding: 7px 25px;
     font-size: 10px;
 }

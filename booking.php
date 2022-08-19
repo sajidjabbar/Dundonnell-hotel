@@ -1505,69 +1505,70 @@
                                     <div class="col-md-6">
                                         <div class="internet-heading">
                                             <h4>Internet</h4>
-                                            <li>Available in all rooms: Free Wi-Fi and wired Internet</li>
-                                            <li> Available in some public areas: Free Wi-Fi</li>
+                                            <li> <span>Available in all rooms: Free Wi-Fi and wired Internet </span></li>
+                                            <li><span> Available in some public areas: Free Wi-Fi </span></li>
                                             <div class="Parking">
                                                 <h4>Parking and transportation</h4>
-                                                <li>Free self-parking on site</li>
-                                                <li> Free valet parking on site</li>
-                                                <li> Limited onsite parking</li>
-                                                <li> Wheelchair-accessible parking and van parking are available</li>
-                                                <li> 24-hour roundtrip airport shuttle (surcharge)</li>
-                                                <li> Airport shuttle on request</li>
+                                                <li> <span> Free self-parking on site</span>
+                                                    </li>
+                                                <li><span> Free valet parking on site </span></li>
+                                                <li> <span> Limited onsite parking </span></li>
+                                                <li> <span> Wheelchair-accessible parking and van parking are available </span></li>
+                                                <li> <span> 24-hour roundtrip airport shuttle (surcharge) </span> </li>
+                                                <li> <span> Airport shuttle on request </span></li>
                                             </div>
                                             <div class="Parking">
                                                 <h4>Food and drink</h4>
-                                                <li> Buffet breakfast available for a fee daily 6:00 AM–10:30 AM: EUR 15 per person</li>
-                                                <li> 1 restaurant and 1 coffee shop/café</li>
-                                                <li> 1 bar</li>
-                                                <li> 24-hour room service</li>
-                                                <li> Coffee/tea in common area(s)</li>
-                                                <li> Airport shuttle on request</li>
+                                                <li> <span> Buffet breakfast available for a fee daily 6:00 AM–10:30 AM: EUR 15 per person </span></li>
+                                                <li> <span> 1 restaurant and 1 coffee shop/café </span></li>
+                                                <li><span> 1 bar </span></li>
+                                                <li> <span> 24-hour room service </span></li>
+                                                <li>  <span> Coffee/tea in common area(s) </span></li>
+                                                <li>  <span>Airport shuttle on request </span></li>
                                             </div>
                                             <div class="Parking">
                                                 <h4>Family-friendly</h4>
-                                                <li> Babysitting (surcharge)</li>
-                                                <li> Free cribs/infant beds</li>
-                                                <li> Highchair</li>
-                                                <li> In-room child care (surcharge)</li>
-                                                <li> Laundry facilities</li>
-                                                <li> Snack bar/deli</li>
-                                                <li> Soundproofed rooms</li>
+                                                <li><span> Babysitting (surcharge) </span></li>
+                                                <li><span> Free cribs/infant beds</span></li>
+                                                <li><span> Highchair </span></li>
+                                                <li> <span>In-room child care (surcharge)</span></li>
+                                                <li> <span> Laundry facilities </span></li>
+                                                <li><span> Snack bar/deli </span></li>
+                                                <li><span> Soundproofed rooms </span></li>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="internet-heading">
                                             <h4>Conveniences</h4>
-                                            <li> Elevator</li>
-                                            <li> Free newspapers in lobby</li>
-                                            <li> Front-desk safe</li>
+                                            <li><span> Elevator </span></li>
+                                            <li> <span>Free newspapers in lobby </span></li>
+                                            <li><span> Front-desk safe </span></li>
                                             <div class="Parking">
                                                 <h4>Guest services</h4>
-                                                <li>24-hour front desk</li>
-                                                <li> Concierge services</li>
-                                                <li> Daily housekeeping</li>
-                                                <li> Dry cleaning service</li>
-                                                <li> Laundry facilities</li>
-                                                <li> Luggage storage</li>
-                                                <li> Multilingual staff</li>
-                                                <li> Porter/bellhop</li>
-                                                <li> Tour/ticket assistance</li>
-                                                <li>Turndown service</li>
+                                                <li><span>24-hour front desk </span></li>
+                                                <li><span> Concierge services </span></li>
+                                                <li><span> Daily housekeeping </span></li>
+                                                <li><span> Dry cleaning service </span></li>
+                                                <li> <span>Laundry facilities </span></li>
+                                                <li><span> Luggage storage </span></li>
+                                                <li><span> Multilingual staff </span></li>
+                                                <li> <span>Porter/bellhop </span></li>
+                                                <li><span> Tour/ticket assistance </span></li>
+                                                <li><span>Turndown service </span></li>
                                             </div>
                                             <div class="Parking">
                                                 <h4>Business services</h4>
-                                                <li> 24-hour business center</li>
-                                                <li> Computer station</li>
-                                                <li> Conference space (67 square feet)</li>
-                                                <li> Coworking space</li>
-                                                <li> Meeting rooms - 2</li>
+                                                <li> <span>24-hour business center </span></li>
+                                                <li><span> Computer station</span></li>
+                                                <li><span> Conference space (67 square feet)</span></li>
+                                                <li><span> Coworking space</span></li>
+                                                <li><span> Meeting rooms - 2 </span></li>
 
                                             </div>
                                             <div class="Parking">
                                                 <h4>Outdoors</h4>
-                                                <li> Terrace</li>
+                                                <li> <span> Terrace </span></li>
 
                                             </div>
                                         </div>
