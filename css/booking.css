@@ -8,6 +8,12 @@ section.booking-form-sec {
     margin: 100px 0px;
     overflow: hidden;
 }
+.leave-wrapper6 img {
+    position: absolute;
+    left: -15px;
+    overflow: hidden;
+    top: 1680px;
+}
 .booking-sec {
     background-image: url(../img/booking.png);
     background-repeat: no-repeat;
@@ -415,7 +421,7 @@ button.slick-next.slick-arrow {
 
 .leave-wrapper4 img {
     position: absolute;
-    right: 80px;
+    right: 23px;
     overflow: hidden;
     top: 1230px;
 }

@@ -108,16 +108,16 @@
                 </div>
             </div>
             <div class="col-md-8 p-0">
-                <div class="col-md-12 ">
+                <div class="col-md-12 p-0 ">
                     <img src="img/champing.png" alt="" class="img-fluid champ-img">
                 </div>
-                <div class="col-md-12 ">
+                <div class="col-md-12  p-0">
                     <img src="img/paraglading.png" alt="" class="img-fluid champ-img">
                 </div>
             </div>
             <div class="col-md-12 p-0">
                 <div class="sea-img">
-                    <img src="img/sea.png" alt="" class="img-fluid">
+                    <img src="img/blog-sea.png" alt="" class="img-fluid">
 
                     <div class="this-img"></div>
                 </div>
@@ -171,7 +171,18 @@
                 <div class="albums">
                     <div class="album">
                         <div class="col-md-6 p-0">
+                        <div class="img-room">
                             <img class="album__artwork" src="img/blog-bed.png">
+                            <div class="img-text">
+                                    <div class="img-uppertext">
+                                        <a href="">
+                                            <button class="btn btn-primary room-btn">
+                                                Book Now
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                        </div>
                         </div>
                         <div class="col-md-6 p-0">
                             <div class="album__details">
@@ -224,7 +235,18 @@
                             </div>
                         </div>
                         <div class="col-md-6 p-0">
+                        <div class="img-room">
                             <img class="album__artwork" src="img/room3.png">
+                            <div class="img-text">
+                                    <div class="img-uppertext">
+                                        <a href="">
+                                            <button class="btn btn-primary room-btn">
+                                                Book Now
+                                            </button>
+                                        </a>
+                                    </div>
+                            </div>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -298,7 +320,18 @@
                             </div>
                         </div>
                         <div class="col-md-6 p-0">
+                        <div class="img-room">
                             <img class="album__artwork" src="img/room4.png">
+                            <div class="img-text">
+                                    <div class="img-uppertext">
+                                        <a href="">
+                                            <button class="btn btn-primary room-btn">
+                                                Book Now
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -315,13 +348,13 @@
             <div class="bottom-img">
                 <img src="img/slide.png" alt="" class="img-fluid">
             </div>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
-                into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
-                release of Letraset sheets containing Lorem Ipsum passages,
-                and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem
-                Ipsum.</p>
+            <div class="col-md-12">
+                <div class="detail-blog-gallery">
+                <div class="this-blog-gallery">
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        </div>
+            </div>
+            </div>
         </div>
         <div class="slider_box">
             <div class="row align-items-center">
@@ -490,7 +523,6 @@
                 </div>
             </div>
         </div>
-        <div class="row">
             <div class="gallery-sec">
                 <div class="gallery-heading">
                     <h2>Lifestyle at <br>
@@ -498,57 +530,80 @@
                     <div class="bottom-img">
                         <img src="img/slide.png" alt="" class="img-fluid">
                     </div>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                    <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
                         the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
                         of type and scrambled it to make a type specimen book. It has survived not only five centuries,
                         but also the leap into electronic typesetting, remaining essentially unchanged. It was
                         popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
                         and more recently with desktop publishing software like Aldus PageMaker including versions of
-                        Lorem Ipsum.</p>
+                        Lorem Ipsum.</p> -->
                 </div>
             </div>
         </div>
-    </div>
     <div class="conatainer-fluid gallery">
         <div class="row">
-            <div class="col-md-3 p-0">
+            <div class="col-md-6 p-0">
                 <div class="gallery-image">
                     <img src="img/image1.png" alt="" class="img-fluid">
+                    <div class="for_overlay">
+                        <span>View More</span>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-3 p-0">
+            <div class="col-md-6 p-0">
                 <div class="gallery-image">
                     <img src="img/img2.png" alt="" class="img-fluid">
+                    <div class="for_overlay">
+                        <span>View More</span>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-3 p-0">
+            <div class="col-md-6 p-0">
                 <div class="gallery-image">
                     <img src="img/image3.png" alt="" class="img-fluid">
+                    <div class="for_overlay">
+                        <span>View More</span>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-3 p-0">
+            <div class="col-md-6 p-0">
                 <div class="gallery-image">
                     <img src="img/img4.png" alt="" class="img-fluid">
+                    <div class="for_overlay">
+                        <span>View More</span>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-3 p-0">
+            <div class="col-md-6 p-0">
                 <div class="gallery-image">
                     <img src="img/img5.png" alt="" class="img-fluid">
+                    <div class="for_overlay">
+                        <span>View More</span>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-3 p-0">
+            <div class="col-md-6 p-0">
                 <div class="gallery-image">
                     <img src="img/img6.png" alt="" class="img-fluid">
+                    <div class="for_overlay">
+                        <span>View More</span>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-3 p-0">
+            <div class="col-md-6 p-0">
                 <div class="gallery-image">
                     <img src="img/img7.png" alt="" class="img-fluid">
+                    <div class="for_overlay">
+                        <span>View More</span>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-3 p-0">
+            <div class="col-md-6 p-0">
                 <div class="gallery-image">
                     <img src="img/img8.png" alt="" class="img-fluid">
+                    <div class="for_overlay">
+                        <span>View More</span>
+                    </div>
                 </div>
             </div>
             <div class="col-md-12">

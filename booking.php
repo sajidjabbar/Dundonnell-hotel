@@ -138,6 +138,9 @@
         <div class="leave-wrapper5 box up-down">
             <img src="./img/path16.png" class="img-fluid" alt="">
         </div>
+        <div class="leave-wrapper6 box up-down">
+            <img src="./img/side-leave-about.png" class="img-fluid" alt="">
+        </div>
     </div>
     <div class="container">
         <div class="row">

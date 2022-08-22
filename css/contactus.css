@@ -1,20 +1,20 @@
 .contact-us-sec {
-    background-image: url(../img/contact-back.png);
+    background-image: url(../img/lifestyle1.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
     margin: 0;
-    padding-bottom: 161px;
+    padding-bottom: 264px;
 }
 .contact-heading {
-    padding-top: 196px;
+    padding-top: 303px;
     text-align: center;
 }
 .address-detail {
     text-align: center;
     padding-bottom: 30px;
     border-bottom: 1px solid #FFFFFF;
-    padding-top: 33px;
+    padding-top: 56px;
 }
 h5{
     font-family: "roboto-light";
@@ -59,7 +59,7 @@ h2 {
     padding-bottom: 29px;
 }
 .map {
-    padding-top: 29px;
+    padding-top: 94px;
     padding-bottom: 40px;
 }
 

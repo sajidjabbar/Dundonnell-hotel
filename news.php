@@ -56,7 +56,7 @@
                     </div>
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
-                            <span class="right-text">mist</span>
+                            <span class="right-text">70°f</span>
                         </div>
                     </div>
                     </div>
@@ -72,7 +72,7 @@
                         
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
-                            <span class="right-text">mist</span>
+                            <span class="right-text">70°f</span>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                        
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
-                            <span class="right-text">mist</span>
+                            <span class="right-text">70°f</span>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                       
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
-                            <span class="right-text">mist</span>
+                            <span class="right-text">70°f</span>
                         </div>
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                     </div>
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
-                            <span class="right-text">mist</span>
+                            <span class="right-text">70°f</span>
                         </div>
                     </div>
                 </div>
