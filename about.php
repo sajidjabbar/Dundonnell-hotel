@@ -64,7 +64,10 @@
                         <div class="right-left-image">
                         <img src="img/right-leave-about.png" alt="" class="img-fluid">
                         </div>
+                
                     </div>
+
+                    
                 </div>
             </div>
         </div>

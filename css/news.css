@@ -39,7 +39,7 @@ h3 {
 }
 
 .right-text {
-    font-size: 15px;
+    font-size: 18px;
 }
 
 span {
@@ -50,8 +50,20 @@ span {
 .weather-text {
     display: flex;
     justify-content: space-between;
+    align-items: baseline;
 }
-
+.weather-text-two {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.weather-new-image img {
+    height: 51px;
+    margin-bottom: 10px;
+}
+.hotel-weathes h3 {
+    font-size: 25px;
+}
 .hotel-weather {
     background: #ffffff1f;
     padding: 10px 20px;
@@ -70,9 +82,10 @@ span {
 
 .hotel-weathes {
     background: #ffffff1f;
-    padding: 14px 20px;
+    padding: 10px 16px;
     width: 100%;
     border-radius: 8px;
+    height: 140px;
 }
 
 .hotel-weathes img {

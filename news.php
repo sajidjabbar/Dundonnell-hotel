@@ -38,7 +38,7 @@
                         <img src="img/metro.png" alt="" class="img-fluid">
                         <h3>Dundonnell Hotel
                             Weather</h3>
-                        <div class="weather-text">
+                        <div class="weather-text-two">
                             <span class="left-text">66°f</span>
                             <span class="right-text">mist</span>
                         </div>

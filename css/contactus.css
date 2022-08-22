@@ -1,11 +1,28 @@
-.contact-us-sec {
+/* .contact-us-sec {
     background-image: url(../img/lifestyle1.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
     margin: 0;
     padding-bottom: 264px;
+} */
+body{
+    background-image: url(../img/body.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0;
 }
+/* .contact-us-sec {
+    background-image: url(../img/lifestyle1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0;
+    padding-bottom: 264px;
+    z-index: 99999;
+    top: 229px;
+} */
 .contact-heading {
     padding-top: 303px;
     text-align: center;
