@@ -1483,7 +1483,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="book-summary">
-                                                            <h1>Booking Summery</h1>
+                                                            <h1>Booking Summary</h1>
                                                             <p>Mon, 15 august 2022 (2 night)</p>
                                                             <h4>Executive Bedroom</h4>
                                                         </div>
@@ -2243,7 +2243,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="book-summary">
-                                                                    <h1>Booking Summery</h1>
+                                                                    <h1>Booking Summary</h1>
                                                                     <p>Mon, 15 august 2022 (2 night)</p>
                                                                     <h4>Executive Bedroom</h4>
                                                                 </div>
