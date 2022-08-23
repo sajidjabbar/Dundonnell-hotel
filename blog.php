@@ -760,4 +760,4 @@
 <!--book-your-slot end Here -->
 <!-- End Here -->
 
-<?php include 'inc/footer.php'; ?>
+<?php include 'inc/footer-blog.php'; ?>

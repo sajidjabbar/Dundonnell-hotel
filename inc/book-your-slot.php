@@ -68,4 +68,5 @@
         </div>
     </div>
 </section>
+<?php include 'footerlinks.php'; ?>
 <!--book-your-slot end Here -->

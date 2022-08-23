@@ -273,3 +273,43 @@ img.album__artwork {
     color: #FFFFFF;
     padding-left: 21px;
 }
+.footer {
+    background-image: url(../img/blog-footer.png);
+}
+.contactus-detail {
+    width: 26%;
+}
+.number {
+    justify-content: center;
+}
+
+.email {
+    justify-content: center;
+}
+.all-deatil-about-footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.footer-form {
+    padding-top: 33px;
+}
+.footer-detail {
+    text-align: center;
+    padding-top: 198px;
+}
+.footer-logo img {
+    width: 156px;
+}
+.sea-img img {
+    position: relative;
+    top: -10px;
+}
+.champ-img {
+    margin-left: 4px;
+    margin-bottom: 0;
+    margin-top: 2px;
+}
+.whale-img img {
+    height: 586px;
+}

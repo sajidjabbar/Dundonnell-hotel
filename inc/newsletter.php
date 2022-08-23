@@ -9,7 +9,7 @@
                     <div class="container">
                         <div class="news-wrapper">
                             <div class="col-md-5">
-                                <h4>Sign-p for newsletters</h4>
+                                <h4>Sign-up for newsletters</h4>
                             </div>
                             <div class="col-md-7">
                                 <div class="input-group news-letter-group">
