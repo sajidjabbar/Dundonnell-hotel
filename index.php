@@ -91,7 +91,7 @@
                             <img src="img/slide.png" alt="" class="img-fluid">
                         </div>
                         <p>We offer warm and comfortable en suite accommodation, with a friendly and relaxed family run service. Please note: We are closed on Wednesdays from 10am and reopen at 3pm on Thursdays. We are sorry if this causes you any inconvenience.
-                            Our Broombeg Bar opens every evening, except Wednesdays, and offers a wide range of exciting dishes, locally sourced produce and regular "specials"
+                            <br>Our Broombeg Bar opens every evening, except Wednesdays, and offers a wide range of exciting dishes, locally sourced produce and regular "specials"
                             Regular folk music sessions are held in The Broombeg Bar and hosted by local musicians. If you sing, play (we have a small number of spare instruments which you are welcome to use) or just want to come along and listen, you will be made very welcome.
                         </p>
                     </div>
@@ -103,17 +103,24 @@
                 </div>
             </div>
             <div class="col-md-8 p-0">
-                <div class="col-md-12 ">
+                <div class="col-md-12 p-0 ">
                     <img src="img/champing.png" alt="" class="img-fluid champ-img">
                 </div>
-                <div class="col-md-12 ">
+                <div class="col-md-12  p-0">
                     <img src="img/paraglading.png" alt="" class="img-fluid champ-img">
                 </div>
             </div>
             <div class="col-md-12 p-0">
                 <div class="sea-img">
-                    <img src="img/sea.png" alt="" class="img-fluid">
-
+                    <img src="img/blog-sea.png" alt="" class="img-fluid">
+                       <div class="sea-blog">
+                        <h4>75$</h4>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+                             and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                       </div>
+                       <div class="sea-blog-book read">
+                        <a href="javascript:void(0)" class="btton">book now <i class='fas fa-long-arrow-alt-right'></i></a>
+                       </div>
                     <div class="this-img"></div>
                 </div>
             </div>
@@ -145,7 +152,7 @@
 
                         We have a range of types of rooms: single, twin, double and family rooms. We do not charge a single supplement. All of our rooms are en-suite.
 
-
+<br>
                         All our beds are topped with 3 inches of luxury memory foam, to enhance our guests' comfort. We have a range of types of rooms: single, twin, double and family rooms.
                         ** Ocassionally, guests ask about the slight discolouration in our water supply. It is known as "Peaty Water", as flowing through peat soil provides a level of natural filtration. Beyond this natural filtration, we also put our water through many filters and checks, once it runs into our supply. Our water is safe to drink and bathe in. What we don't do is add chlorine, or any other chemicals.
                         en-suite.
@@ -438,7 +445,7 @@
                             </h2>
 
                         </div>
-                        <p>As well as comfortable, well furnished rooms, we also have limited space for tents and motor homes on the land surrounding our hotel for a small fee.
+                        <p>As well as comfortable, well furnished rooms, we also have limited space for tents and motor homes on the land surrounding our hotel for a small fee. <br>
                             Tent pitches £5.00
                             Campervans (small) £5.00
                             Med Caravans £10.00

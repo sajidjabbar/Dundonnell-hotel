@@ -118,7 +118,14 @@
             <div class="col-md-12 p-0">
                 <div class="sea-img">
                     <img src="img/blog-sea.png" alt="" class="img-fluid">
-
+                       <div class="sea-blog">
+                        <h4>75$</h4>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+                             and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                       </div>
+                       <div class="sea-blog-book read">
+                        <a href="javascript:void(0)" class="btton">book now <i class='fas fa-long-arrow-alt-right'></i></a>
+                       </div>
                     <div class="this-img"></div>
                 </div>
             </div>
@@ -643,12 +650,14 @@
                         Events</h3>
                 </div>
             </div>
+        </div>
+    </div>
             <div class="col-md-12 ">
                 <div class="events-card-details">
-                    <div class="col-md-5 movie-card">
+                    <div class="col-md-12 movie-card">
                         <button class="accordion ">
                             <div class="this-card">
-                                <div class="col-lg-4 p-0">
+                                <div class="col-lg-2 p-0">
                                     <div class="lefts-text">
                                         <h2>
                                             25 <br>
@@ -663,7 +672,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-lg-2 col-sm-1 p-0">
+                                <div class="col-lg-4 col-sm-1 p-0">
                                     <div class="arrowss">
                                         <i class='fas fa-angle-down'></i>
                                     </div>
@@ -678,7 +687,7 @@
 
                         <button class="accordiontwo">
                             <div class=" this-card">
-                                <div class="col-lg-4 col-sm-4  p-0">
+                                <div class="col-lg-2 col-sm-4  p-0">
                                     <div class="lefts-text">
                                         <h2>
                                             26 <br>
@@ -693,7 +702,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-lg-2  col-sm-1 p-0">
+                                <div class="col-lg-3  col-sm-1 p-0">
                                     <div class="arrowss">
                                         <i class='fas fa-angle-right'></i>
                                     </div>
@@ -708,7 +717,7 @@
 
                         <button class="accordion">
                             <div class=" this-card">
-                                <div class="col-lg-4  p-0">
+                                <div class="col-lg-2  p-0">
                                     <div class="lefts-text">
                                         <h2>
                                             27 <br>
@@ -723,7 +732,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-lg-2 col-sm-1 p-0">
+                                <div class="col-lg-4 col-sm-1 p-0">
                                     <div class="arrowss">
                                         <i class='fas fa-angle-down'></i>
                                     </div>
@@ -738,8 +747,7 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
+
 </section>
 <!--events-sec end Here -->
 <!--newsletter-sec start Here -->

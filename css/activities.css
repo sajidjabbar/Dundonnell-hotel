@@ -3,7 +3,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding-bottom: 175px;
+    padding-bottom: 275px;
 }
 
 .activities-heading {
@@ -21,7 +21,7 @@
 .activities-heading p {
     font-family: "Roboto-Thin";
     color: #FFFFFF;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .whale-watching {

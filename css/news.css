@@ -8,7 +8,7 @@
 }
 
 .news-heading {
-    padding-top: 271px;
+    padding-top: 251px;
     text-align: center;
 }
 
@@ -52,24 +52,28 @@ span {
     justify-content: space-between;
     align-items: baseline;
 }
-.weather-text-two {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+
+span.right-text.right-two {
+    margin-left: 13px;
 }
+
 .weather-new-image img {
-    height: 51px;
+    height: 48px;
     margin-bottom: 10px;
 }
+
 .hotel-weathes h3 {
     font-size: 25px;
 }
+
 .hotel-weather {
-    background: #ffffff1f;
-    padding: 10px 20px;
-    width: 100%;
+    background: #ffffff08;
+    padding: 17px 20px;
+    width: 214px;
     border-radius: 8px;
-    height: 140px;
+    height: 155px;
+    backdrop-filter: blur(1px)opacity(0.4);
+    /* opacity: 0.8; */
 }
 
 /* .hotel-weather img {
@@ -81,11 +85,12 @@ span {
 }
 
 .hotel-weathes {
-    background: #ffffff1f;
+    /* background: #ffffff1f; */
     padding: 10px 16px;
-    width: 100%;
+    width: 90%;
     border-radius: 8px;
     height: 140px;
+    padding-left: 36px;
 }
 
 .hotel-weathes img {
@@ -93,18 +98,29 @@ span {
 }
 
 .weather-wrapper {
-    background-color: #ffffff5c;
-    border-radius: 17px;
+    background-color: #ffffff26;
+    border-radius: 11px;
+    margin: 0 28px;
+    backdrop-filter: blur(2px);
 }
+
+.day-week-weather {
+    background-color: transparent !important;
+    border: transparent;
+    backdrop-filter: none;
+}
+
 .weathr {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
 h4 {
     font-family: "BebasNeue-Regular";
     color: #FFFFFF;
 }
+
 .news-leave {
     background-image: url(../img/news-back-leave.png);
     background-repeat: no-repeat;
@@ -114,25 +130,30 @@ h4 {
     height: 276px;
     z-index: 1;
 }
+
 .news-leave-sec h4 {
     color: #515151;
     font-family: "Roboto-Bold";
     font-size: 15px;
 }
-.news-leave-sec h3{
+
+.news-leave-sec h3 {
     font-family: "Roboto-Black";
     color: #515151;
 }
-.news-leave-sec h6{
+
+.news-leave-sec h6 {
     color: #515151;
     font-family: "Roboto-Medium";
 }
-.news-leave-sec p{
+
+.news-leave-sec p {
     color: #515151;
     font-family: "Roboto-Medium";
     font-size: 10px;
 }
-.music-btn{
+
+.music-btn {
     padding: 5px 54px;
     background-color: transparent;
     color: #FFFFFF;
@@ -150,83 +171,122 @@ h4 {
     background-color: transparent !important;
     border-color: transparent;
 }
+
 .music {
     background: #E8E8E8;
 }
+
 .music-text {
     padding: 15px 20px;
 }
+
 .news-box {
     padding-top: 84px;
 }
+
+.wed-hotel {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.thurs-hotel {
+    margin-left: 0px;
+}
+
+.about-new-weather-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 @media (max-width: 1124px) {
     h3 {
         font-size: 21px;
     }
+
     .hotel-weather {
         height: 131px;
     }
 }
+
 @media (max-width: 1024px) {
     h3 {
         font-size: 13px;
     }
+
     .news-leave-sec h3 {
         font-size: 13px;
     }
+
     .news-leave-sec p {
         font-size: 9px;
     }
+
     .music-text {
         padding: 0px 20px;
     }
+
     .abouts-music-text {
         margin-bottom: 20px;
     }
 }
+
 @media (max-width: 880px) {
     .hotel-weather {
         padding: 23px 20px;
     }
+
     h4 {
         font-size: 16px;
     }
+
     .music-news-img img {
         height: 391px;
     }
-    }
+}
+
 @media (max-width: 768px) {
     .news-leave-sec h4 {
         font-size: 10px;
     }
+
     .news-leave-sec h6 {
         font-size: 9px;
     }
+
     .music-news-img {
         padding-top: 34px;
     }
+
     .news-leave-sec p {
-      margin-bottom: 2px;
+        margin-bottom: 2px;
         font-size: 7px;
     }
+
     .abouts-music-text {
         padding: 10px 0;
     }
+
     .news-leave {
         height: 164px;
     }
+
     button.news-btn {
         padding: 10px 6px;
     }
+
     .news-wrapper h4 {
         font-size: 11px;
     }
+
     h4 {
         font-size: 17px;
     }
+
     h3 {
         font-size: 10px;
     }
+
     .music-news-img img {
         height: 285px;
     }
@@ -234,54 +294,79 @@ h4 {
 
 @media (max-width: 690px) {
     .hotel-weather {
-        width: 56%;
+        width: 200px;
         margin: 10px 0;
         text-align: center;
+    }
+    .hotel-weather img {
+        width: 100%;
+        height: auto;
+    }
+    .hotel-weather.day-week-weather img {
+        width: auto;
+    }
+    .day-week-weather {
+        background-color: #ffffff08 !important;
+    }
+    .about-new-weather-info {
+        flex-direction: column;
     }
     .hotel-weathes {
         width: 54%;
         margin: 10px;
         text-align: center;
     }
-    .about-new-weather-info{
+
+    .about-new-weather-info {
         text-align: -webkit-center;
     }
+
     .weather-wrapper {
         background-color: #ffffff5c;
         border-radius: 17px;
         margin-bottom: 231px;
     }
+
     .hotel-weather img {
         width: 19%;
     }
 }
+
 @media (max-width: 590px) {
     .weather-wrapper {
         background-color: transparent;
         border-radius: 17px;
     }
+
     .hotel-weathes {
         margin: 10px 0;
     }
+
     .hotel-weather {
         margin: 10px 0;
     }
+
     .weather-wrapper {
         padding-bottom: 226px;
     }
+
     p {
         font-size: 9px;
     }
+
     .music-news-img {
         margin: 10px 0;
     }
+
     .abouts-music-text {
         padding: 12px;
         text-align: center;
     }
+
     .news-leave-sec h3 {
         font-size: 15px;
     }
+
     .news-leave-sec h6 {
         font-size: 13px;
     }

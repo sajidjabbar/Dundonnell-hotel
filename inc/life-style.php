@@ -10,7 +10,7 @@
             <p>The Broombeg Bar is a wonderful place,
                 not only for our food and drink but also
                 to meet other travellers from
-                around the world.
+                around the world.<br>
                 Enjoy our local Scottish beers, or sample some of our wide range of Malt Whiskies.
                 We offer a range of dishes on our Dinner Menu, supplemented by our ever changing specials board    .
 

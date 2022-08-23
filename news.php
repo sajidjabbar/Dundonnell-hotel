@@ -32,88 +32,86 @@
     </div>
     <div class="container-fluid">
         <div class="weather-wrapper">
-            <div class="row about-new-weather-info">
-                <div class="col-md-2">
-                    <div class="hotel-weathes">
+            <div class=" about-new-weather-info">
+                <div class="day-week">
+                    <div class="hotel-weather day-week-weather">
                         <img src="img/metro.png" alt="" class="img-fluid">
                         <h3>Dundonnell Hotel
                             Weather</h3>
                         <div class="weather-text-two">
                             <span class="left-text">66°f</span>
-                            <span class="right-text">mist</span>
+                            <span class="right-text right-two">mist</span>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-2">
-                   
+                <div class="day-week">
                     <div class="hotel-weather">
-                    <div class="weathr">
-                    <h4>Tuesday</h4>
-                    
-                    <div class="weather-new-image">
-                        <img src="img/sun.png" alt="" class="img-fluid">
-                    </div>
-                    </div>
-                        <div class="weather-text">
-                            <span class="left-text">66°f</span>
-                            <span class="right-text">70°f</span>
+                        <div class="weathr">
+                            <h4>Tuesday</h4>
+
+                            <div class="weather-new-image">
+                                <img src="img/sun.png" alt="" class="img-fluid">
+                            </div>
                         </div>
-                    </div>
-                    </div>
-                <!-- </div> -->
-                <div class="col-md-2">
-                    <div class="hotel-weather">
-                    <div class="weathr">
-                    <h4>Wednesday</h4>
-                    <div class="weather-new-image">
-                        <img src="img/moon.png" alt="" class="img-fluid">
-                    </div>
-                    </div>
-                        
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
                             <span class="right-text">70°f</span>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-2">
-                    <div class="hotel-weather">
-                    <div class="weathr">
-                    <h4>thursday</h4>
-                    <div class="weather-new-image">
-                        <img src="img/cloud.png" alt="" class="img-fluid">
-                    </div>
-                    </div>
-                       
+                <div class="day-week ">
+                    <div class="hotel-weather wed-hotel">
+                        <div class="weathr">
+                            <h4>Wednesday</h4>
+                            <div class="weather-new-image">
+                                <img src="img/moon.png" alt="" class="img-fluid">
+                            </div>
+                        </div>
+
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
                             <span class="right-text">70°f</span>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-2">
-                    <div class="hotel-weather">
-                    <div class="weathr">
-                    <h4>Friday</h4>
-                    <div class="weather-new-image">
-                        <img src="img/rain.png" alt="" class="img-fluid">
-                    </div>
-                    </div>
-                      
+                <div class="day-week">
+                    <div class="hotel-weather thurs-hotel">
+                        <div class="weathr">
+                            <h4>thursday</h4>
+                            <div class="weather-new-image">
+                                <img src="img/cloud.png" alt="" class="img-fluid">
+                            </div>
+                        </div>
+
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
                             <span class="right-text">70°f</span>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-2">
-                    <div class="hotel-weather">
-                    <div class="weathr">
-                    <h4>Saturday</h4>
-                    <div class="weather-new-image">
-                        <img src="img/sun.png" alt="" class="img-fluid">
+                <div class="day-week">
+                    <div class="hotel-weather wed-hotel">
+                        <div class="weathr">
+                            <h4>Friday</h4>
+                            <div class="weather-new-image">
+                                <img src="img/rain.png" alt="" class="img-fluid">
+                            </div>
+                        </div>
+
+                        <div class="weather-text">
+                            <span class="left-text">66°f</span>
+                            <span class="right-text">70°f</span>
+                        </div>
                     </div>
-                    </div>
+                </div>
+                <div class="day-week">
+                    <div class="hotel-weather thurs-hotel">
+                        <div class="weathr">
+                            <h4>Saturday</h4>
+                            <div class="weather-new-image">
+                                <img src="img/sun.png" alt="" class="img-fluid">
+                            </div>
+                        </div>
                         <div class="weather-text">
                             <span class="left-text">66°f</span>
                             <span class="right-text">70°f</span>
@@ -126,9 +124,9 @@
 </section>
 
 <section class="news-leave-sec">
-        <div class="news-leave">
-        </div>
-        <div class="container-fluid px-0">
+    <div class="news-leave">
+    </div>
+    <div class="container-fluid px-0">
         <div class="music">
             <div class="row">
                 <div class="col-md-6">
@@ -153,7 +151,7 @@
                             typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
                             sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
                             including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-</p>
+                        </p>
                     </div>
                     <div class="col-md-12">
                         <div class="abouts-music-text">
@@ -184,7 +182,7 @@
                             typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
                             sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
                             including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- </p>
+                        </p>
                         <div class="col-md-12">
                             <div class="abouts-music-text">
                                 <a href="">
@@ -225,7 +223,7 @@
                             typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
                             sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
                             including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-</p>
+                        </p>
                     </div>
                     <div class="col-md-12">
                         <div class="abouts-music-text">
@@ -300,7 +298,7 @@
                             typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
                             sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
                             including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- </p>
+                        </p>
                     </div>
                     <div class="col-md-12">
                         <div class="abouts-music-text">
@@ -331,7 +329,7 @@
                             typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
                             sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
                             including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                           </p>
+                        </p>
                         <div class="col-md-12">
                             <div class="abouts-music-text">
                                 <a href="">
@@ -372,7 +370,7 @@
                             typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
                             sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
                             including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                            </p>
+                        </p>
                     </div>
                     <div class="col-md-12">
                         <div class="abouts-music-text">

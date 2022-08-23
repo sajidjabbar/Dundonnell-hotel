@@ -1,9 +1,9 @@
 .gallery-back {
-    background-image: url(../img/lifestyle1.png);
+    background-image: url(../img/gallery-page.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding-bottom: 206px;
+    padding-bottom: 279px;
 }
 .gallery-sec {
     padding-top: 263px;
@@ -28,6 +28,10 @@
 }
 section.newsletter-sec {
     padding-top: 100px;
+}
+.gallery-image img {
+    width: 100%;
+    height: 400px;
 }
 @media (max-width: 590px) {
     .gallery-heading p {

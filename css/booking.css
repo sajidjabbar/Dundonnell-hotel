@@ -14,6 +14,12 @@ section.booking-form-sec {
     overflow: hidden;
     top: 1680px;
 }
+.leave-wrapper7 img {
+    position: absolute;
+    right: 1px;
+    overflow: hidden;
+    top: 1680px;
+}
 .booking-sec {
     background-image: url(../img/booking.png);
     background-repeat: no-repeat;
@@ -407,7 +413,7 @@ button.slick-next.slick-arrow {
 
 .leave-wrapper2 img {
     position: absolute;
-    left: -150px;
+    left: -91px;
     overflow: hidden;
     top: 760px;
 }
@@ -701,7 +707,7 @@ button.slick-next.slick-arrow {
 
 .boking-slider-wrappers {
     width: 100%;
-    background: #F6F6F6;
+    background: #f8f8f8c2;
     border-radius: 10px 10px 10px 10px;
     margin-left: 15px;
     margin-bottom: 30px;
@@ -1174,7 +1180,7 @@ span img {
 
 .custom-card h4 {
     font-family: "Fashion-Stamp";
-    font-size: 26px;
+    font-size: 23px;
     color: #3F7163;
 }
 
@@ -1191,7 +1197,7 @@ span img {
 }
 
 .boking-slider-wrapper.this-custom-wrapper h5 {
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .boking-slider-wrapper.this-custom-wrapper .img-wrapper-slider img {

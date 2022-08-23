@@ -3,7 +3,7 @@
 <!--  Start Here -->
 <!-- wester-sec Start Here -->
 <section class="booking-sec">
-    <div class="container">
+    <div class="container ">
         <div class="books-detail1">
             <form action="">
                 <div class="row">
@@ -127,7 +127,7 @@
             <img src="./img/path14.png" class="img-fluid" alt="">
         </div>
         <div class="leave-wrapper2 box up-down">
-            <img src="./img/left1.png" class="img-fluid" alt="">
+            <img src="./img/book-leave.png" class="img-fluid" alt="">
         </div>
         <div class="leave-wrapper3 box up-down">
             <img src="./img/left1.png" class="img-fluid" alt="">
@@ -139,12 +139,15 @@
             <img src="./img/path16.png" class="img-fluid" alt="">
         </div>
         <div class="leave-wrapper6 box up-down">
-            <img src="./img/side-leave-about.png" class="img-fluid" alt="">
+            <img src="./img/book-leave-left.png" class="img-fluid" alt="">
+        </div>
+        <div class="leave-wrapper7 box up-down">
+            <img src="./img/book-leave-right.png" class="img-fluid" alt="">
         </div>
     </div>
-    <div class="container">
+    <div class="container p-0">
         <div class="row">
-            <div class="col-md-12 col-12">
+            <div class="col-md-12 col-12 p-0">
                 <div class="tabs">
                     <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                         <li class="nav-item " role="presentation">
