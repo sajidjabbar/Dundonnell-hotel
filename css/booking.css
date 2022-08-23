@@ -266,10 +266,9 @@ button.slick-next.slick-arrow {
     color: #3F7163;
     font-family: "Fashion-Stamp";
 }
-
 .five-star i {
     color: #FFB300;
-    margin: 0 4px;
+    margin: 0 2px;
     font-family: "fontawesome";
 }
 
@@ -1157,7 +1156,7 @@ span img {
 
 .custom-bed button.btn1 {
     padding: 0px 7px;
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .custom-bed .five-star i {
@@ -1458,6 +1457,17 @@ button.btn9 a{
     font-size: 18px;
     font-family: "Roboto-Regular";
     font-weight: 600;
+}
+@media (max-width: 1424px) {
+.books-detail1 {
+    margin-top: 274px;
+}
+.booking-sec {
+    height: 628px ! important;
+}
+.booking-heading {
+    padding-bottom: 15px;
+}
 }
 @media (max-width: 1024px) {
     .custom-room {

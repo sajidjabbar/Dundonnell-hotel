@@ -2,7 +2,10 @@ body{
     overflow-x: hidden;
 }
 
+h3 {
 
+    text-transform: uppercase;
+}
 section.about-sec {
     width: 100%;
     background-image: unset;
@@ -67,12 +70,9 @@ button.btn.btn-primary.room-btn {
     text-align: center;
 }
 .events-heading {
-    width: 100%;
-    margin-left: 40px;
-    text-align: center;
-    border: transparent;
+    border-bottom: 1px solid #3F7163;
+    width: 9%;
 }
-
 .events-card-details {
     width: 100%;
     display: flex;
@@ -81,6 +81,10 @@ button.btn.btn-primary.room-btn {
 }
 .books-detail {
     margin-bottom: 30px;
+}
+button.accordiontwo h6 {
+    text-align: left;
+    margin-left: 111px;
 }
 .slide-up {
     padding-bottom: 162px;
@@ -138,6 +142,11 @@ button.btn.btn-primary.room-btn {
 .gallery-sec {
     padding-top: 190px;
     padding-bottom: 77px;
+}
+@media (max-width: 1450px) {
+    .life-style {
+        height: auto;
+    }
 }
 @media (max-width: 1024px) {
 .price h4 {
@@ -234,7 +243,7 @@ img.album__artwork {
     background-position: 100% 0%;
     background-size: cover;
     background-image: url(../img/blog-live-event.png);
-
+    margin: 42px 0;
 }
 .events-sec h2 {
     font-family: "Roboto-Medium";
@@ -280,11 +289,16 @@ img.album__artwork {
     width: 26%;
 }
 .number {
+    display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .email {
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 .all-deatil-about-footer {
     width: 100%;
@@ -312,4 +326,10 @@ img.album__artwork {
 }
 .whale-img img {
     height: 586px;
+}
+.footer h3 {
+    font-family: "BebasNeue-Regular";
+    color: #FFFFFF;
+    font-size: 46px;
+    margin-bottom: 25px;
 }

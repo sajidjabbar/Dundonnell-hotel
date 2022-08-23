@@ -22,6 +22,7 @@
 .gallery {
     padding: 17px 0;
     overflow-x: hidden;
+    margin-top: 55px;
 }
 .book-your-slot {
     padding-bottom: 113px;
@@ -32,6 +33,12 @@ section.newsletter-sec {
 .gallery-image img {
     width: 100%;
     height: 400px;
+}
+@media (max-width: 1450px) {
+    .gallery-back {
+
+        padding-bottom: 461px;
+    }
 }
 @media (max-width: 590px) {
     .gallery-heading p {
