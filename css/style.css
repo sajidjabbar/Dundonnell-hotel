@@ -1148,7 +1148,7 @@ visibility: visible;
 .life-style p {
     font-family: "Roboto-Thin";
     color: #FFFFFF;
-    font-size: 11px;
+    font-size: 12px;
 }
 .lifestyle-heading p {
     font-size: 13px;
@@ -1463,8 +1463,8 @@ section.events-sec {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 360px;
-    padding: 10px 20px;
+    height: 480px;
+    padding: 20px 20px;
 }
 .event-info {
     text-transform: uppercase;

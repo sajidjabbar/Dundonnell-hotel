@@ -10,24 +10,29 @@
                 <div class="bottom-img">
                     <img src="img/slide.png" alt="" class="img-fluid">
                 </div>
+                <p>We ask that while you are touring and camping in Scotland you protect our beautiful, yet fragile, environment. Please dispose of all litter/ waste responsibly, and take care not to start any fires which might cause damage.</p>
                 <p>
                     Dark Nights
                     From the end of October when the nights are long we are lucky enough to  experience a wonderful show of the Aurora Borealis ( Northern Lights ) – a magical sight, you can link to an App that gives alerts as to when they may be visible. With very little light pollution the night sky is a glorious sight to behold even when the Northern Lights are reluctant to show!
+<br>
 <br>
                     Winter Opening
                     2022
                     We are open until December 15th  we reopen on January 10th 2023
                     <br>
+                    <br>
                     Rates
                     Autumn /Winter  from £120 per room B&B per night
                     Spring/Summer    from £145 per room per night B&B
                     <br>
+                    <br>
                     Events
                     April and October – Music Weekends – A gathering of acoustic musicians or, folk who enjoy listening,  of all levels who create a full weekend of session style musical evenings. Everyone is welcome to join in with the singing, playing stomping of feet – a great weekend for making new friendships and hearing traditional and modern acoustic folk music.
                     <br>
+                    <br>
                     Mondays and Fridays
                     An informal twice weekly music session, hosted by local musicians is held in The Broombeg Bar from 8pm till 10pm . Everyone welcome to join in!
-                    <br>
+                
                 </p>
             </div>
         </div>
