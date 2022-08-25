@@ -19,11 +19,18 @@
 }
 
 .activities-heading p {
-    font-family: "Roboto-Thin";
+    font-family: "Roboto-regular";
     color: #FFFFFF;
     font-size: 14px;
 }
-
+.activities-heading h3 {
+    color: #fff;
+}
+.activities-heading a {
+    color: #fff;
+    text-decoration: underline;
+    font-size: 14px;
+}
 .whale-watching {
     background-image: url(../img/activ.png);
     background-repeat: no-repeat;
