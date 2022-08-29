@@ -554,7 +554,7 @@ header li.for-contact-brn-header {
 /* wester-sec start here */
 
 .wester-sec {
-    background-image: url(../img/homebanner.png);
+    background-image: url(../img/homebanner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -1119,7 +1119,7 @@ visibility: visible;
 /* pricing-sec End Here  */
 /* Lifestyle-sec start here */
 .life-style {
-    background-image: url(../img/lifestyle.png);
+    background-image: url(../img/lifestyle.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -1810,7 +1810,7 @@ button.news-btn:hover {
 /* book-your-slot end Here */
 /* footer start here */
 .footer {
-    background-image: url(../img/footer-back.png);
+    background-image: url(../img/footer-back.webp);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;

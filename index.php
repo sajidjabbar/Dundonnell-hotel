@@ -99,15 +99,15 @@
             </div>
             <div class="col-md-4 p-0">
                 <div class="whale-img">
-                    <img src="img/whale.png" alt="" class="img-fluid">
+                    <img src="img/whale.webp" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-8 p-0">
                 <div class="col-md-12 p-0 ">
-                    <img src="img/champing.png" alt="" class="img-fluid champ-img">
+                    <img src="img/champing.webp" alt="" class="img-fluid champ-img">
                 </div>
                 <div class="col-md-12  p-0">
-                    <img src="img/paraglading.png" alt="" class="img-fluid champ-img">
+                    <img src="img/paraglading.webp" alt="" class="img-fluid champ-img">
                 </div>
             </div>
             <div class="col-md-12 p-0">
