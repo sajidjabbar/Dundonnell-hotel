@@ -5,7 +5,7 @@
 <!-- Jquery JS-->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script src="js/script.js"></script>
+<!--<script src="js/script.js"></script>-->
 <!-- slick slider js -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 <!-- slick slider js -->
@@ -244,10 +244,10 @@
             $('.boking-slider-wrappers').addClass('hide')
         });
     });
-    var glide = new Glide('.glide-slie .glide', {
-  type: 'carousel',
-  perView: 3
-})
-
-glide.mount()
+//     var glide = new Glide('.glide-slie .glide', {
+//   type: 'carousel',
+//   perView: 3
+// })
+//
+// glide.mount()
 </script>
