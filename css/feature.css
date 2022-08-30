@@ -3,7 +3,7 @@ body{
     overflow-x: hidden;
 }
 .activities-sec {
-    background-image: url(../img/feature.png);
+    background-image: url(../img/feature.webp);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;

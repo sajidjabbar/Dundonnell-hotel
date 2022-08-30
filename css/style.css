@@ -1407,7 +1407,7 @@ visibility: visible;
 
 .accordion {
     width: 100%;
-    background-image: url(../img/new-back.png);
+    background-image: url(../img/new-back.webp);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -1429,7 +1429,7 @@ visibility: visible;
 
 .accordiontwo {
     width: 100%;
-    background-image: url(../img/event-back.png);
+    background-image: url(../img/event-back.webp);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -1479,7 +1479,7 @@ section.events-sec {
 }
 
 .events-info-box {
-    background-image: url(../img/events-box.png);
+    background-image: url(../img/events-box.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1508,11 +1508,11 @@ section.events-sec {
     color: #FFFFFF;
     font-family: "Fashion-Stamp";
 }
-
 .events-info-box p {
     font-family: "roboto-light";
     color: #FFFFFF;
     font-size: 12px;
+    margin: 0;
 }
 
 .this-event .info {
@@ -1578,7 +1578,7 @@ section.events-sec {
 /* newsletter-sec start here */
 
 .newsletter {
-    background-image: url(../img/news.png);
+    background-image: url(../img/news.webp);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -1678,11 +1678,6 @@ button.news-btn:hover {
     padding-bottom: 90px;
 }
 
-.book-slot-banner {
-    background-image: url(../img/book-slot.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 .banner-wrapper h2 {
     font-family: "BebasNeue-Regular";
@@ -1695,7 +1690,7 @@ button.news-btn:hover {
 }
 
 .book-slot-banner {
-    background-image: url(../img/book-slot.png);
+    background-image: url(../img/book-slot.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 95%;

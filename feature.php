@@ -52,7 +52,7 @@
             <!-- single featured Box -->
             <div class="single_feature">
                 <figure class="featured_image">
-                    <img src="img/feature1.png" class="img-fluid" alt="">
+                    <img src="img/feature1.webp" class="img-fluid" alt="">
                 </figure>
                 <div class="featured_post_text">
                     <div class="text">
@@ -96,7 +96,7 @@
             <div class="single_feature">
                 <figure class="featured_image">
                     <div class="feature-mountain">
-                    <img src="img/feature2.png" class="img-fluid mountain-feature" alt="">
+                    <img src="img/feature2.webp" class="img-fluid mountain-feature" alt="">
                     </div>
                     <div class="this-mountain">
                     <img src="img/side-leave2.png" class="img-fluid" alt="">
@@ -142,7 +142,7 @@
             <!-- single featured Box -->
             <div class="single_feature">
                 <figure class="featured_image">
-                    <img src="img/feature3.png" class="img-fluid" alt="">
+                    <img src="img/feature3.webp" class="img-fluid" alt="">
                 </figure>
                 <div class="featured_post_text">
                     <div class="text">
@@ -185,7 +185,7 @@
             <!-- single featured Box -->
             <div class="single_feature">
                 <figure class="featured_image">
-                    <img src="img/feature4.png" class="img-fluid" alt="">
+                    <img src="img/feature4.webp" class="img-fluid" alt="">
                 </figure>
                 <div class="featured_post_text">
                     <div class="text">
@@ -225,7 +225,7 @@
             <!-- single featured Box -->
             <div class="single_feature">
                 <figure class="featured_image">
-                    <img src="img/feature5.png" class="img-fluid" alt="">
+                    <img src="img/feature5.webp" class="img-fluid" alt="">
                 </figure>
                 <div class="featured_post_text">
                     <div class="text">

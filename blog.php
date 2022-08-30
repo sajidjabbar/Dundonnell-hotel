@@ -104,20 +104,20 @@
             </div>
             <div class="col-md-4 p-0">
                 <div class="whale-img">
-                    <img src="img/whale.png" alt="" class="img-fluid">
+                    <img src="img/whale.webp" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-8 p-0">
                 <div class="col-md-12 p-0 ">
-                    <img src="img/champing.png" alt="" class="img-fluid champ-img">
+                    <img src="img/champing.webp" alt="" class="img-fluid champ-img">
                 </div>
                 <div class="col-md-12  p-0">
-                    <img src="img/paraglading.png" alt="" class="img-fluid champ-img">
+                    <img src="img/paraglading.webp" alt="" class="img-fluid champ-img">
                 </div>
             </div>
             <div class="col-md-12 p-0">
                 <div class="sea-img">
-                    <img src="img/blog-sea.png" alt="" class="img-fluid">
+                    <img src="img/blog-sea.webp" alt="" class="img-fluid">
                        <div class="sea-blog">
                         <h4>75$</h4>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
@@ -179,7 +179,7 @@
                     <div class="album">
                         <div class="col-md-6 p-0">
                         <div class="img-room">
-                            <img class="album__artwork" src="img/blog-bed.png">
+                            <img class="album__artwork" src="img/bed.webp">
                             <div class="img-text">
                                     <div class="img-uppertext">
                                         <a href="">
@@ -243,7 +243,7 @@
                         </div>
                         <div class="col-md-6 p-0">
                         <div class="img-room">
-                            <img class="album__artwork" src="img/room3.png">
+                            <img class="album__artwork" src="img/room3.webp">
                             <div class="img-text">
                                     <div class="img-uppertext">
                                         <a href="">
@@ -263,7 +263,7 @@
                     <div class="album">
                         <div class="col-md-6 p-0">
                             <div class="img-room">
-                                <img class="album__artwork" src="img/room2.png">
+                                <img class="album__artwork" src="img/room2.webp">
                                 <div class="img-text">
                                     <div class="img-uppertext">
                                         <a href="">
@@ -328,7 +328,7 @@
                         </div>
                         <div class="col-md-6 p-0">
                         <div class="img-room">
-                            <img class="album__artwork" src="img/room4.png">
+                            <img class="album__artwork" src="img/room4.webp">
                             <div class="img-text">
                                     <div class="img-uppertext">
                                         <a href="">
@@ -367,7 +367,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="life-video">
-                        <img src="img/video-img.png" alt="" class="img-fluid">
+                        <img src="img/video-img.webp" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -551,7 +551,7 @@
         <div class="row">
             <div class="col-md-6 p-0">
                 <div class="gallery-image">
-                    <img src="img/image1.png" alt="" class="img-fluid">
+                    <img src="img/image1.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -559,7 +559,7 @@
             </div>
             <div class="col-md-6 p-0">
                 <div class="gallery-image">
-                    <img src="img/img2.png" alt="" class="img-fluid">
+                    <img src="img/img2.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -567,7 +567,7 @@
             </div>
             <div class="col-md-6 p-0">
                 <div class="gallery-image">
-                    <img src="img/image3.png" alt="" class="img-fluid">
+                    <img src="img/image3.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -575,7 +575,7 @@
             </div>
             <div class="col-md-6 p-0">
                 <div class="gallery-image">
-                    <img src="img/img4.png" alt="" class="img-fluid">
+                    <img src="img/img4.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -583,7 +583,7 @@
             </div>
             <div class="col-md-6 p-0">
                 <div class="gallery-image">
-                    <img src="img/img5.png" alt="" class="img-fluid">
+                    <img src="img/img5.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -591,7 +591,7 @@
             </div>
             <div class="col-md-6 p-0">
                 <div class="gallery-image">
-                    <img src="img/img6.png" alt="" class="img-fluid">
+                    <img src="img/img6.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -599,7 +599,7 @@
             </div>
             <div class="col-md-6 p-0">
                 <div class="gallery-image">
-                    <img src="img/img7.png" alt="" class="img-fluid">
+                    <img src="img/img7.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -607,7 +607,7 @@
             </div>
             <div class="col-md-6 p-0">
                 <div class="gallery-image">
-                    <img src="img/img8.png" alt="" class="img-fluid">
+                    <img src="img/img8.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>

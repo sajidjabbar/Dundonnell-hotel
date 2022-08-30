@@ -173,14 +173,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -297,14 +297,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                        <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -421,14 +421,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                        <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -545,14 +545,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                        <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -669,14 +669,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                        <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -793,14 +793,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                        <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -917,14 +917,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                        <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -1041,14 +1041,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                        <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -1165,14 +1165,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                        <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -1342,29 +1342,29 @@
                                     </div>
                                     <div class="col-md-6 p-0">
                                         <div class="custom-rest-bed-imgbox">
-                                            <img src="img/custombed.png" alt="" class="img-fluid">
+                                            <img src="img/custombed.webp" alt="" class="img-fluid">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="custom-imgbox">
-                                                    <img src="img/custom-1.png" alt="" class="img-fluid">
+                                                    <img src="img/custom-1.webp" alt="" class="img-fluid">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="custom-imgbox">
-                                                    <img src="img/custom2.png" alt="" class="img-fluid">
+                                                    <img src="img/custom2.webp" alt="" class="img-fluid">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="custom-imgbox">
-                                                    <img src="img/custom3.png" alt="" class="img-fluid">
+                                                    <img src="img/custom3.webp" alt="" class="img-fluid">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="custom-imgbox cus-img">
-                                                    <img src="img/custom4.png" alt="" class="img-fluid">
+                                                    <img src="img/custom4.webp" alt="" class="img-fluid">
                                                     <div class="custom-add-img">
                                                         <a href=""><i class="fas fa-images"></i> 25+</a>
                                                     </div>
@@ -1640,14 +1640,14 @@
                                             <div class="row">
                                                 <div class="col-md-5 col-12 p-0">
                                                     <div class="img-wrapper-slider">
-                                                        <img src="./img/path11.png" class="img-fluid" alt="">
-                                                        <img src="./img/path3.png" class="img-fluid" alt="">
-                                                        <img src="./img/path4.png" class="img-fluid" alt="">
-                                                        <img src="./img/path5.png" class="img-fluid" alt="">
-                                                        <img src="./img/path6.png" class="img-fluid" alt="">
-                                                        <img src="./img/path7.png" class="img-fluid" alt="">
-                                                        <img src="./img/path8.png" class="img-fluid" alt="">
-                                                        <img src="./img/path10.png" class="img-fluid" alt="">
+                                                    <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -1748,14 +1748,14 @@
                                             <div class="row">
                                                 <div class="col-md-5 col-12 p-0">
                                                     <div class="img-wrapper-slider">
-                                                        <img src="./img/path11.png" class="img-fluid" alt="">
-                                                        <img src="./img/path3.png" class="img-fluid" alt="">
-                                                        <img src="./img/path4.png" class="img-fluid" alt="">
-                                                        <img src="./img/path5.png" class="img-fluid" alt="">
-                                                        <img src="./img/path6.png" class="img-fluid" alt="">
-                                                        <img src="./img/path7.png" class="img-fluid" alt="">
-                                                        <img src="./img/path8.png" class="img-fluid" alt="">
-                                                        <img src="./img/path10.png" class="img-fluid" alt="">
+                                                    <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -1856,14 +1856,14 @@
                                             <div class="row">
                                                 <div class="col-md-5 col-12 p-0">
                                                     <div class="img-wrapper-slider">
-                                                        <img src="./img/path11.png" class="img-fluid" alt="">
-                                                        <img src="./img/path3.png" class="img-fluid" alt="">
-                                                        <img src="./img/path4.png" class="img-fluid" alt="">
-                                                        <img src="./img/path5.png" class="img-fluid" alt="">
-                                                        <img src="./img/path6.png" class="img-fluid" alt="">
-                                                        <img src="./img/path7.png" class="img-fluid" alt="">
-                                                        <img src="./img/path8.png" class="img-fluid" alt="">
-                                                        <img src="./img/path10.png" class="img-fluid" alt="">
+                                                    <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -1964,14 +1964,14 @@
                                             <div class="row">
                                                 <div class="col-md-5 col-12 p-0">
                                                     <div class="img-wrapper-slider">
-                                                        <img src="./img/path11.png" class="img-fluid" alt="">
-                                                        <img src="./img/path3.png" class="img-fluid" alt="">
-                                                        <img src="./img/path4.png" class="img-fluid" alt="">
-                                                        <img src="./img/path5.png" class="img-fluid" alt="">
-                                                        <img src="./img/path6.png" class="img-fluid" alt="">
-                                                        <img src="./img/path7.png" class="img-fluid" alt="">
-                                                        <img src="./img/path8.png" class="img-fluid" alt="">
-                                                        <img src="./img/path10.png" class="img-fluid" alt="">
+                                                    <img src="./img/path11.webp" class="img-fluid" alt="">
+                                            <img src="./img/path3.webp" class="img-fluid" alt="">
+                                            <img src="./img/path4.webp" class="img-fluid" alt="">
+                                            <img src="./img/path5.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.webp" class="img-fluid" alt="">
+                                            <img src="./img/path7.webp" class="img-fluid" alt="">
+                                            <img src="./img/path8.webp" class="img-fluid" alt="">
+                                            <img src="./img/path10.webp" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -2138,7 +2138,7 @@
                                                 <div class="row">
                                                     <div class="col-md-6 p-0">
                                                         <div class="custom-bed-imgbox">
-                                                            <img src="img/custombed.png" alt="" class="img-fluid">
+                                                            <img src="img/custombed.webp" alt="" class="img-fluid">
                                                         </div>
                                                     </div>
                                                     <div class="col-md-6">

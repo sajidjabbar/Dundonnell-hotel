@@ -35,7 +35,7 @@
             </div>
             <div class="col-md-6">
                 <div class="whale-img">
-                    <img src="img/about-sec.png" alt="" class="img-fluid">
+                    <img src="img/about-sec.webp" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-6">

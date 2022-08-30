@@ -90,7 +90,7 @@
             </div>
             <div class="col-md-6 p-0">
                 <div class="this-whale-img">
-                    <img src="img/whale-img.png" alt="" class="img-fluid">
+                    <img src="img/whale-img.webp" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -101,7 +101,7 @@
         <div class="row">
             <div class="col-md-6 p-0">
                 <div class="this-whale-img">
-                    <img src="img/champ.png" alt="" class="img-fluid">
+                    <img src="img/champ.webp" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-5">
@@ -158,12 +158,12 @@
             </div>
             <div class="col-md-6 p-0">
                 <div class="this-whale-img">
-                    <img src="img/para.png" alt="" class="img-fluid">
+                    <img src="img/para.webp" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-6 p-0 ">
                 <div class="this-whale-img">
-                    <img src="img/sea-advanture.png" alt="" class="img-fluid">
+                    <img src="img/sea-advanture.webp" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-4 p-0">

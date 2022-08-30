@@ -131,7 +131,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="music-news-img">
-                        <img src="img/music.png" alt="" class="img-fluid">
+                        <img src="img/music.webp" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -194,7 +194,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="music-news-img">
-                        <img src="img/women.png" alt="" class="img-fluid">
+                        <img src="img/women.webp" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -203,7 +203,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="music-news-img">
-                        <img src="img/ground.png" alt="" class="img-fluid">
+                        <img src="img/ground.webp" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -269,7 +269,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="music-news-img">
-                        <img src="img/enjoy-music.png" alt="" class="img-fluid">
+                        <img src="img/enjoy-music.webp" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -278,7 +278,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="music-news-img">
-                        <img src="img/persons.png" alt="" class="img-fluid">
+                        <img src="img/persons.webp" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -341,7 +341,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="music-news-img">
-                        <img src="img/sea-music.png" alt="" class="img-fluid">
+                        <img src="img/sea-music.webp" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -350,7 +350,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="music-news-img">
-                        <img src="img/beach.png" alt="" class="img-fluid">
+                        <img src="img/beach.webp" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-6">

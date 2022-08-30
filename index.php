@@ -112,7 +112,7 @@
             </div>
             <div class="col-md-12 p-0">
                 <div class="sea-img">
-                    <img src="img/blog-sea.png" alt="" class="img-fluid">
+                    <img src="img/blog-sea.webp" alt="" class="img-fluid">
                        <div class="sea-blog">
                         <h4>75$</h4>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
@@ -165,7 +165,7 @@
                     <div class="album">
                         <div class="col-md-6 p-0">
                         <div class="img-room">
-                            <img class="album__artwork" src="img/bed.png">
+                            <img class="album__artwork" src="img/bed.webp">
                             <div class="img-text">
                                     <div class="img-uppertext">
                                         <a href="">
@@ -207,7 +207,7 @@
                     <div class="album">
                         <div class="col-md-6 p-0">
                             <div class="img-room">
-                                <img class="album__artwork" src="img/room2.png">
+                                <img class="album__artwork" src="img/room2.webp">
                                 <div class="img-text">
                                     <div class="img-uppertext">
                                         <a href="">
@@ -271,7 +271,7 @@
                         </div>
                         <div class="col-md-6 p-0">
                         <div class="img-room">
-                            <img class="album__artwork" src="img/room3.png">
+                            <img class="album__artwork" src="img/room3.webp">
                             <div class="img-text">
                                     <div class="img-uppertext">
                                         <a href="">
@@ -313,7 +313,7 @@
                         </div>
                         <div class="col-md-6 p-0">
                         <div class="img-room">
-                            <img class="album__artwork" src="img/room4.png">
+                            <img class="album__artwork" src="img/room4.webp">
                             <div class="img-text">
                                     <div class="img-uppertext">
                                         <a href="">
@@ -447,15 +447,15 @@
 
                         </div>
                         <p>As well as comfortable, well furnished rooms, we also have limited space for tents and motor homes on the land surrounding our hotel for a small fee. <br><br>
-                            Tent pitches £5.00 <br>
-                            Campervans (small) £5.00 <br>
-                            Med Caravans £10.00 <br>
-                            Motor homes £20.00 <br>
-                            <br><br>
+                        <p>  Tent pitches £5.00    </p>
+                        <p>  Campervans (small) £5.00  </p>
+                        <p>  Med Caravans £10.00 </p>
+                        <p>  Motor homes £20.00  </p>
+                        <p>
                             There is also the added bonus of enjoying our extensive menu - some of which we can provide as take away food, if you prefer.<br>
                             Overnight fees give access to hotel facilities including toilets,
-                            charging of mobile devices and WiFi.<br><br>
-                            Shower facility on the ground floor of the hotel -  £3.00 per person
+                            charging of mobile devices and WiFi.</p>
+                            <p>    Shower facility on the ground floor of the hotel -  £3.00 per person
                             (includes shower gel, shampoo and towels).
                             BBQs or open fires are not permitted anywhere on hotel grounds.
                         </p>

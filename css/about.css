@@ -13,7 +13,7 @@
   background: #28B100;
 }
 .life-style {
-  background-image: url(../img/about-page-gallery.png);
+  background-image: url(../img/about-page-gallery.webp);
 
 }
 .about-sec-page {
@@ -108,7 +108,9 @@ section.newsletter-sec {
   left: -140px;
   top: -14px;
 }
-
+.this-text-slider h3 {
+  padding-bottom: 56px;
+}
 @media (max-width: 768px) {
   .inner-banner h2 {
     font-size: 48px;
