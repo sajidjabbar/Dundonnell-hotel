@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc3a14b7-22dc-42d5-a596-ba66a45a2c37" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/app.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/react-projects/benefacto" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -61,7 +60,10 @@
       <workItem from="1660055625353" duration="4525000" />
       <workItem from="1660132709850" duration="7607000" />
       <workItem from="1660681204631" duration="2432000" />
-      <workItem from="1660929148175" duration="744000" />
+      <workItem from="1660929148175" duration="1472000" />
+      <workItem from="1661288923303" duration="1168000" />
+      <workItem from="1661343609072" duration="620000" />
+      <workItem from="1661784061475" duration="2608000" />
     </task>
     <servers />
   </component>
@@ -69,13 +71,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1660684662603">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1661352224912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1660684662603" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1660933439865">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1661352224912" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1661785607051">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1660933439865" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1661785607051" />
   </component>
 </project>

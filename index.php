@@ -91,23 +91,23 @@
                             <img src="img/slide.png" alt="" class="img-fluid">
                         </div>
                         <p>We offer warm and comfortable en suite accommodation, with a friendly and relaxed family run service. Please note: We are closed on Wednesdays from 10am and reopen at 3pm on Thursdays. We are sorry if this causes you any inconvenience.
-                            <br>Our Broombeg Bar opens every evening, except Wednesdays, and offers a wide range of exciting dishes, locally sourced produce and regular "specials"
-                            Regular folk music sessions are held in The Broombeg Bar and hosted by local musicians. If you sing, play (we have a small number of spare instruments which you are welcome to use) or just want to come along and listen, you will be made very welcome.
+                            <br><br>Our Broombeg Bar opens every evening, except Wednesdays, and offers a wide range of exciting dishes, locally sourced produce and regular "specials"
+                            <br><br> Regular folk music sessions are held in The Broombeg Bar and hosted by local musicians. If you sing, play (we have a small number of spare instruments which you are welcome to use) or just want to come along and listen, you will be made very welcome.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 p-0">
                 <div class="whale-img">
-                    <img src="img/whale.png" alt="" class="img-fluid">
+                    <img src="img/whale.webp" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-8 p-0">
                 <div class="col-md-12 p-0 ">
-                    <img src="img/champing.png" alt="" class="img-fluid champ-img">
+                    <img src="img/champing.webp" alt="" class="img-fluid champ-img">
                 </div>
                 <div class="col-md-12  p-0">
-                    <img src="img/paraglading.png" alt="" class="img-fluid champ-img">
+                    <img src="img/paraglading.webp" alt="" class="img-fluid champ-img">
                 </div>
             </div>
             <div class="col-md-12 p-0">
@@ -147,14 +147,15 @@
                     <div class="bottom-img">
                         <img src="img/slide.png" alt="" class="img-fluid">
                     </div>
-                    <p>en suite rooms all with tea & coffee facilities and complimentary toiletries. All of our rooms have stunning views of either Little Loch Broom or the surrounding mountains.WiFi is available in both rooms and public areas
+                    <p>En suite rooms all with tea & coffee facilities and complimentary toiletries. All of our rooms have stunning views of either Little Loch Broom or the surrounding mountains. WiFi is available in both rooms and public areas
                         and a variety of books, brochures, maps and games for our guests.
-
+                            <br><br>
                         We have a range of types of rooms: single, twin, double and family rooms. We do not charge a single supplement. All of our rooms are en-suite.
 
 <br>
-                        All our beds are topped with 3 inches of luxury memory foam, to enhance our guests' comfort. We have a range of types of rooms: single, twin, double and family rooms.
-                        ** Ocassionally, guests ask about the slight discolouration in our water supply. It is known as "Peaty Water", as flowing through peat soil provides a level of natural filtration. Beyond this natural filtration, we also put our water through many filters and checks, once it runs into our supply. Our water is safe to drink and bathe in. What we don't do is add chlorine, or any other chemicals.
+<br>
+                        All our beds are topped with 3 inches of luxury memory foam, to enhance our guest's comfort. We have a range of types of rooms: single, twin, double and family rooms. <br> <br>
+                         Ocassionally, guests ask about the slight discolouration in our water supply. It is known as "Peaty Water", as flowing through peat soil provides a level of natural filtration. Beyond this natural filtration, we also put our water through many filters and checks, once it runs into our supply. Our water is safe to drink and bathe in. What we don't do is add chlorine, or any other chemicals.
                         en-suite.
                     </p>
                 </div>
@@ -445,14 +446,15 @@
                             </h2>
 
                         </div>
-                        <p>As well as comfortable, well furnished rooms, we also have limited space for tents and motor homes on the land surrounding our hotel for a small fee. <br>
-                            Tent pitches £5.00
-                            Campervans (small) £5.00
-                            Med Caravans £10.00
-                            Motor homes £20.00
-                            There is also the added bonus of enjoying our extensive menu - some of which we can provide as take away food, if you prefer.
+                        <p>As well as comfortable, well furnished rooms, we also have limited space for tents and motor homes on the land surrounding our hotel for a small fee. <br><br>
+                            Tent pitches £5.00 <br>
+                            Campervans (small) £5.00 <br>
+                            Med Caravans £10.00 <br>
+                            Motor homes £20.00 <br>
+                            <br><br>
+                            There is also the added bonus of enjoying our extensive menu - some of which we can provide as take away food, if you prefer.<br>
                             Overnight fees give access to hotel facilities including toilets,
-                            charging of mobile devices and WiFi.
+                            charging of mobile devices and WiFi.<br><br>
                             Shower facility on the ground floor of the hotel -  £3.00 per person
                             (includes shower gel, shampoo and towels).
                             BBQs or open fires are not permitted anywhere on hotel grounds.
