@@ -103,7 +103,7 @@
         <div class="row">
             <div class="col-md-3 p-0">
                 <div class="gallery-image">
-                    <img src="img/image1.png" alt="" class="img-fluid">
+                    <img src="img/image1.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -111,7 +111,7 @@
             </div>
             <div class="col-md-3 p-0">
                 <div class="gallery-image">
-                    <img src="img/img2.png" alt="" class="img-fluid">
+                    <img src="img/img2.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -127,7 +127,7 @@
             </div>
             <div class="col-md-3 p-0">
                 <div class="gallery-image">
-                    <img src="img/img4.png" alt="" class="img-fluid">
+                    <img src="img/img4.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -135,7 +135,7 @@
             </div>
             <div class="col-md-3 p-0">
                 <div class="gallery-image">
-                    <img src="img/img5.png" alt="" class="img-fluid">
+                    <img src="img/img5.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -143,7 +143,7 @@
             </div>
             <div class="col-md-3 p-0">
                 <div class="gallery-image">
-                    <img src="img/img6.png" alt="" class="img-fluid">
+                    <img src="img/img6.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -151,7 +151,7 @@
             </div>
             <div class="col-md-3 p-0">
                 <div class="gallery-image">
-                    <img src="img/img7.png" alt="" class="img-fluid">
+                    <img src="img/img7.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>
@@ -159,7 +159,7 @@
             </div>
             <div class="col-md-3 p-0">
                 <div class="gallery-image">
-                    <img src="img/img8.png" alt="" class="img-fluid">
+                    <img src="img/img8.webp" alt="" class="img-fluid">
                     <div class="for_overlay">
                         <span>View More</span>
                     </div>

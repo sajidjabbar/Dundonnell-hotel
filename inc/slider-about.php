@@ -34,7 +34,7 @@
           <div class="card__image">
             <div class=" this-about-slide">
               <h4>Standard Room</h4>
-              <img src="img/room1.png" alt="">
+              <img src="img/room1.webp" alt="">
               <p> Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like
                 Aldus PageMaker including versions of Lorem Ipsum.</p>
               <a href="javascript:void(0);" class="custom">Book Now</a>

@@ -100,19 +100,31 @@
             <div class="col-md-4 p-0">
                 <div class="whale-img">
                     <img src="img/whale.webp" alt="" class="img-fluid">
+                    <div class="whale-img-heading">
+                        <h1>Whale Watching</h1>
+                    </div>
                 </div>
             </div>
             <div class="col-md-8 p-0">
                 <div class="col-md-12 p-0 ">
                     <img src="img/champing.webp" alt="" class="img-fluid champ-img">
+                    <div class="champing-img-heaading">
+                        <h1>Camping</h1>
+                    </div>
                 </div>
                 <div class="col-md-12  p-0">
                     <img src="img/paraglading.webp" alt="" class="img-fluid champ-img">
+                    <div class="para-img-heading">
+                    <h1>Paraglading</h1>
+                    </div>
                 </div>
             </div>
             <div class="col-md-12 p-0">
                 <div class="sea-img">
                     <img src="img/blog-sea.webp" alt="" class="img-fluid">
+                    <div class="blog-sea-haeding-img">
+                        <h1>Sea Adventure</h1>
+                    </div>
                        <div class="sea-blog">
                         <h4>75$</h4>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
