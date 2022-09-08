@@ -161,8 +161,7 @@
         ]
     });
 </script>
-<script>
-    var acc = document.getElementsByClassName("accordion");
+<script>    var acc = document.getElementsByClassName("accordion");
     var i;
 
     for (i = 0; i < acc.length; i++) {
@@ -190,6 +189,11 @@
             }
         });
     }
+
+    </script>
+<script>
+
+
     $(function() {
         $('.slide-up a').click(function() {
             $('html, body').animate({

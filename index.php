@@ -359,7 +359,7 @@
                 </div>
             </div>
             <div class="col-md-4 movie-card">
-                <button class="accordion ">
+                <button class="accordion  ">
                     <div class="this-card">
                         <div class="col-lg-4 p-0">
                             <div class="lefts-text">
