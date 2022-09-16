@@ -69,3 +69,5 @@
     </div>
 
 </footer>
+
+<?php include 'inc/footerlinks.php'?>

@@ -1,10 +1,9 @@
-<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-<script async src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.6.1/dist/lazyload.min.js"></script>
 <!-- Jquery JS-->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>-->
+<!--<script async src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.6.1/dist/lazyload.min.js"></script>-->
+
+<!--<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>-->
 <!--<script src="js/script.js"></script>-->
 <!-- slick slider js -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
@@ -18,8 +17,8 @@
 
 <script type="text/javascript" src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/gsap.min.js"></script>
-  <script type="text/javascript" src="script.js"></script>
-<script src="js/cascade-slider.js"></script>
+<!--  <script type="text/javascript" src="script.js"></script>-->
+<!--<script src="js/cascade-slider.js"></script>-->
 <!-- boostrap -->
 <!-- about slider js -->
 <script>
@@ -30,11 +29,10 @@
 <!-- about slider js -->
 
 <script>
-    $(document).ready(function() {
-        $(window).on('load', function() {
-            $("#preloader").fadeOut(1000);
-        });
-    })
+    $(window).on("load", function () {
+        // console.log("test");
+        $("#preloader").fadeOut(1000);
+    });
     $('document').ready(function() {
         $('.nav-icons .canvas-icon i').click(function() {
             $("#header .mobile-header").addClass('show');

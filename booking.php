@@ -136,7 +136,7 @@
             <img src="img/path15.png" class="img-fluid" alt="">
         </div>
         <div class="leave-wrapper5 box up-down">
-            <img src="img/path16.png" class="img-fluid" alt="">
+<!--            <img src="img/path16.png" class="img-fluid" alt="">-->
         </div>
         <div class="leave-wrapper6 box up-down">
             <img src="img/book-leave-left.png" class="img-fluid" alt="">
@@ -177,10 +177,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -301,10 +301,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -425,10 +425,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -549,10 +549,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -673,10 +673,10 @@
                                             <img src="img/path3.webp" class="img-fluid" alt="">
                                             <img src="img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -797,10 +797,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -921,10 +921,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -1045,10 +1045,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -1169,10 +1169,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -1644,10 +1644,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -1752,10 +1752,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -1860,10 +1860,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -1968,10 +1968,10 @@
                                             <img src="./img/path3.webp" class="img-fluid" alt="">
                                             <img src="./img/path4.webp" class="img-fluid" alt="">
                                             <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.webp" class="img-fluid" alt="">
-                                            <img src="./img/path7.webp" class="img-fluid" alt="">
-                                            <img src="./img/path8.webp" class="img-fluid" alt="">
-                                            <img src="./img/path10.webp" class="img-fluid" alt="">
+                                            <img src="./img/path6.png" class="img-fluid" alt="">
+                                            <img src="./img/path7.png" class="img-fluid" alt="">
+                                            <img src="./img/path8.png" class="img-fluid" alt="">
+                                            <img src="./img/path10.png" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
