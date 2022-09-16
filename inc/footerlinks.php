@@ -18,7 +18,7 @@
 <script type="text/javascript" src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/gsap.min.js"></script>
 <!--  <script type="text/javascript" src="script.js"></script>-->
-<!--<script src="js/cascade-slider.js"></script>-->
+<script src="js/cascade-slider.js"></script>
 <!-- boostrap -->
 <!-- about slider js -->
 <script>
