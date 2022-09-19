@@ -159,7 +159,7 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid active" alt="">
                                             <img src="img/path3.webp" class="img-fluid" alt="">
                                             <img src="img/path4.webp" class="img-fluid" alt="">
                                             <img src="img/path5.webp" class="img-fluid" alt="">
@@ -1595,12 +1595,13 @@
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="col-md-6">
                                         <div class="boking-slider-wrapper this-custom-wrapper">
                                             <div class="row">
-                                                <div class="col-md-5 ">
-                                                    <div class="img-wrapper-slider">
-                                                        <img src="img/path11.png" class="img-fluid" alt="">
+                                                <div class="col-md-5 col-12 p-0">
+                                                    <div class="img-wrapper-slider90">
+                                                        <img src="img/path11.webp" class="img-fluid" alt="">
                                                         <img src="img/path3.webp" class="img-fluid" alt="">
                                                         <img src="img/path4.webp" class="img-fluid" alt="">
                                                         <img src="img/path5.webp" class="img-fluid" alt="">
@@ -1610,6 +1611,7 @@
                                                         <img src="img/path10.webp" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
+
                                                 <div class="col-md-7 col-12 p-0">
                                                     <div class="save-content">
                                                         <div class="bed-text-wrapper custom-card">
@@ -1706,8 +1708,8 @@
                                     <div class="col-md-6">
                                         <div class="boking-slider-wrapper this-custom-wrapper">
                                             <div class="row">
-                                                <div class="col-md-5 col-12 p-0">
-                                                    <div class="img-wrapper-slider">
+                                            <div class="col-md-5 col-12 p-0">
+                                                    <div class="img-wrapper-slider90">
                                                         <img src="img/path11.webp" class="img-fluid" alt="">
                                                         <img src="img/path3.webp" class="img-fluid" alt="">
                                                         <img src="img/path4.webp" class="img-fluid" alt="">
@@ -1814,8 +1816,8 @@
                                     <div class="col-md-6">
                                         <div class="boking-slider-wrapper this-custom-wrapper">
                                             <div class="row">
-                                                <div class="col-md-5 col-12 p-0">
-                                                    <div class="img-wrapper-slider">
+                                            <div class="col-md-5 col-12 p-0">
+                                                    <div class="img-wrapper-slider90">
                                                         <img src="img/path11.webp" class="img-fluid" alt="">
                                                         <img src="img/path3.webp" class="img-fluid" alt="">
                                                         <img src="img/path4.webp" class="img-fluid" alt="">
@@ -1922,8 +1924,8 @@
                                     <div class="col-md-6">
                                         <div class="boking-slider-wrapper this-custom-wrapper">
                                             <div class="row">
-                                                <div class="col-md-5 col-12 p-0">
-                                                    <div class="img-wrapper-slider">
+                                            <div class="col-md-5 col-12 p-0">
+                                                    <div class="img-wrapper-slider90">
                                                         <img src="img/path11.webp" class="img-fluid" alt="">
                                                         <img src="img/path3.webp" class="img-fluid" alt="">
                                                         <img src="img/path4.webp" class="img-fluid" alt="">

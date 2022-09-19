@@ -16,7 +16,7 @@
 </script>
 
 <script type="text/javascript" src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/gsap.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/gsap.min.js"></script>
 <!--  <script type="text/javascript" src="script.js"></script>-->
 <script src="js/cascade-slider.js"></script>
 <!-- boostrap -->
@@ -29,7 +29,7 @@
 <!-- about slider js -->
 
 <script>
-    $(window).on("load", function () {
+    $(window).on("load", function() {
         // console.log("test");
         $("#preloader").fadeOut(1000);
     });
@@ -76,6 +76,8 @@
             // instead of a settings object
         ]
     });
+
+
     $('.img-wrapper-slider').slick({
         dots: false,
         infinite: false,
@@ -159,7 +161,8 @@
         ]
     });
 </script>
-<script>    var acc = document.getElementsByClassName("accordion");
+<script>
+    var acc = document.getElementsByClassName("accordion");
     var i;
 
     for (i = 0; i < acc.length; i++) {
@@ -187,11 +190,8 @@
             }
         });
     }
-
-    </script>
+</script>
 <script>
-
-
     $(function() {
         $('.slide-up a').click(function() {
             $('html, body').animate({
@@ -246,11 +246,46 @@
             $('.boking-slider-wrappers').addClass('hide')
         });
     });
-//     var glide = new Glide('.glide-slie .glide', {
-//   type: 'carousel',
-//   perView: 3
-// })
-//
-// glide.mount()
+    //     var glide = new Glide('.glide-slie .glide', {
+    //   type: 'carousel',
+    //   perView: 3
+    // })
+    //
+    // glide.mount()
 </script>
-
+<script>
+        $('.img-wrapper-slider90').slick({
+        dots: false,
+        infinite: false,
+        speed: 300,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        responsive: [{
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: false
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+            // You can unslick at a given breakpoint now by adding:
+            // settings: "unslick"
+            // instead of a settings object
+        ]
+    });
+</script>

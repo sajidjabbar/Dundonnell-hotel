@@ -1,25 +1,30 @@
 .hide {
     display: none;
 }
+
 .show {
     display: block;
 }
+
 section.booking-form-sec {
     margin: 100px 0px;
     overflow: hidden;
 }
+
 .leave-wrapper6 img {
     position: absolute;
     left: -15px;
     overflow: hidden;
     top: 1680px;
 }
+
 .leave-wrapper7 img {
     position: absolute;
     right: 1px;
     overflow: hidden;
     top: 1680px;
 }
+
 .booking-sec {
     background-image: url(../img/booking.webp);
     background-repeat: no-repeat;
@@ -266,6 +271,7 @@ button.slick-next.slick-arrow {
     color: #3F7163;
     font-family: "Fashion-Stamp";
 }
+
 .five-star i {
     color: #FFB300;
     margin: 0 2px;
@@ -438,20 +444,14 @@ button.slick-next.slick-arrow {
     top: 1979px;
 }
 
-.tab-content>.tab-pane {
-    display: block;
-    height: 0;
-    overflow: hidden;
-}
 
-.tab-content>.tab-pane.active {
-    height: auto;
-}
-@media (max-width: 1200px) { 
+
+@media (max-width: 1200px) {
     .gallery-back {
         padding-bottom: 306px;
     }
 }
+
 @media (max-width: 1024px) {
     .tabs .nav .nav-item .nav-link {
         padding: 10px 120px;
@@ -591,9 +591,11 @@ button.slick-next.slick-arrow {
         width: 100%;
         height: 179px;
     }
+
     .boking-slider-wrapper .img-wrapper-slider.slick-initialized.slick-slider button.slick-next.slick-arrow {
         right: 30px;
     }
+
     .boking-slider-wrapper {
         height: auto ! important;
         padding: 0 15px;
@@ -610,14 +612,17 @@ button.slick-next.slick-arrow {
     .five-star i {
         font-size: 10px;
     }
-   .btn-bed {
+
+    .btn-bed {
         text-align: center;
     }
+
     .img-bed-wrapper2 a .btn12 {
         padding: 0px 22px;
         font-size: 13px;
         margin-bottom: 6px;
     }
+
     .five-star span {
         font-size: 9px;
         margin-left: 10px;
@@ -638,6 +643,7 @@ button.slick-next.slick-arrow {
     .august {
         text-align: center;
     }
+
     .img-bed-wrapper1 h5 {
         font-size: 11px;
     }
@@ -1014,6 +1020,7 @@ button.slick-next.slick-arrow {
 .custom-rest-bed-imgbox {
     margin-top: 29px;
 }
+
 .custom-rest-bed-imgbox img {
     height: 312px;
 }
@@ -1139,12 +1146,15 @@ span img {
 .Parking {
     padding-top: 30px;
 }
+
 ::marker {
     font-size: 6px;
 }
+
 .Parking span {
     margin-left: 10px;
 }
+
 .internet-heading li {
     color: #828282;
     font-family: "roboto-light";
@@ -1211,14 +1221,17 @@ span img {
 
 .table-responsive table {
     width: 100%;
-    border: 1px solid #828282 ;
+    border: 1px solid #828282;
 }
+
 .table-responsive table tr th {
     border: none;
 }
-.table{
-    border: 1px solid #828282 ;
+
+.table {
+    border: 1px solid #828282;
 }
+
 /* .table-responsive table tbody .th-class :nth-child(1) {
     width: 8%;
 } */
@@ -1226,16 +1239,20 @@ span img {
     border: none;
     border: 1px solid #828282;
     padding: 3px;
-}   
-.table-responsive table tbody tr td  span {
+}
+
+.table-responsive table tbody tr td span {
     float: right;
 }
-.table-responsive table tbody  tr {
-    border: 1px solid #828282 ;
+
+.table-responsive table tbody tr {
+    border: 1px solid #828282;
 }
-.table-responsive table thead tr span{
+
+.table-responsive table thead tr span {
     float: right;
 }
+
 .table-responsive table thead tr th {
     background: #ececec96;
     font-size: 16px ! important;
@@ -1243,6 +1260,7 @@ span img {
     font-weight: 400;
     padding: 6px;
 }
+
 .border-none {
     border: none ! important;
 }
@@ -1256,12 +1274,14 @@ span img {
     margin-top: 20px;
     padding: 20px 40px;
 }
+
 .Booker-Information {
     padding: 32px;
     background: #ffffff;
     margin-top: 40px;
 }
-.information-heading h3{
+
+.information-heading h3 {
     color: #3F7163;
     font-family: "Fashion-Stamp";
     font-size: 41px;
@@ -1269,6 +1289,7 @@ span img {
     margin-top: 10px;
 
 }
+
 .information-heading1 h3 {
     color: #3F7163;
     font-family: "Fashion-Stamp";
@@ -1283,34 +1304,39 @@ span img {
     justify-content: end;
     margin-top: 18px;
 }
-.icon-sign-wrapper a i{
-    color: #828282 ;
-    font-size: 18px ;
+
+.icon-sign-wrapper a i {
+    color: #828282;
+    font-size: 18px;
     font-weight: 400;
 
 }
+
 .icon-sign-wrapper a span {
     color: #828282;
     font-size: 13px;
     font-family: "roboto";
     font-weight: 400;
 }
-.information-heading h5{
-    color: #828282 ;
-    font-size: 18px ;
+
+.information-heading h5 {
+    color: #828282;
+    font-size: 18px;
     font-family: "roboto";
     font-weight: 400;
     margin-top: 20px;
 
 }
-.information-heading1 h5{
-    color: #828282 ;
-    font-size: 14px ;
+
+.information-heading1 h5 {
+    color: #828282;
+    font-size: 14px;
     font-family: "roboto";
     font-weight: 400;
     margin-top: 20px;
 
 }
+
 .form-group4 label {
     color: #515151;
     font-size: 13px;
@@ -1320,19 +1346,23 @@ span img {
     margin-top: 10px;
     text-transform: capitalize;
 }
-.form-group4 input::placeholder{
+
+.form-group4 input::placeholder {
     color: #828282;
     font-size: 13px;
     font-family: "Roboto-Regular";
     font-weight: 400;
 }
+
 .form-group4 .form-control {
     border-radius: 0;
     border: 1px solid #828282;
 }
+
 .titles {
     visibility: hidden;
 }
+
 .form-group4 select.selt {
     width: 100%;
     height: 37px;
@@ -1346,6 +1376,7 @@ span img {
     font-weight: 400;
     padding: 1px 7px;
 }
+
 .form-group4 select#selt {
     width: 100%;
     height: 37px;
@@ -1359,6 +1390,7 @@ span img {
     font-weight: 400;
     padding: 1px 7px;
 }
+
 .form-group5 select.selt {
     width: 100%;
     height: 37px;
@@ -1372,9 +1404,11 @@ span img {
     font-weight: 400;
     padding: 1px 7px;
 }
+
 .form-group5 {
     margin-top: 30px;
 }
+
 .form-group5 label {
     color: #515151;
     font-size: 14px;
@@ -1382,6 +1416,7 @@ span img {
     font-weight: 400;
     text-transform: capitalize;
 }
+
 .head-erapper h4 {
     color: #515151;
     font-size: 20px;
@@ -1390,9 +1425,11 @@ span img {
     margin-top: 50px;
     margin-bottom: 2px;
 }
-.head-erapper{
+
+.head-erapper {
     border-bottom: 1px solid #C0C0C0;
 }
+
 .form-group7 label {
     color: #515151;
     font-size: 14px;
@@ -1402,13 +1439,16 @@ span img {
     margin-left: 4px;
     text-transform: capitalize;
 }
+
 .checkbox {
     margin-top: 10px;
 }
+
 .table-responsive {
-    border-top: 1px solid  #C0C0C0;
+    border-top: 1px solid #C0C0C0;
     padding-top: 20px;
 }
+
 .form-group8 label {
     color: #515151;
     font-size: 13px;
@@ -1418,14 +1458,17 @@ span img {
     margin-left: 38px;
     line-height: 3;
 }
+
 .form-group8 input#check-id {
     position: absolute;
     top: 22px;
     left: 17px;
 }
+
 .button-table {
     float: right;
 }
+
 button.btn9 {
     background: #3F7163;
     padding: 4px 20px;
@@ -1433,42 +1476,51 @@ button.btn9 {
     border-radius: 7px;
     width: 224px;
 }
-button.btn9 a{
+
+button.btn9 a {
     text-decoration: none;
     color: #ffffff;
     font-size: 16px;
     font-family: "roboto";
     font-weight: 600;
 }
+
 .termsiconditions h4 {
     color: #3F7163;
     font-family: "Fashion-Stamp";
     font-size: 41px;
     margin-bottom: 40px;
 }
-.para-wrapper p{
-    color:#828282;
+
+.para-wrapper p {
+    color: #828282;
     font-size: 16px;
     font-family: "Roboto-Regular";
     font-weight: 300;
 }
-.para-wrapper h4{
-    color:#828282;
+
+.para-wrapper h4 {
+    color: #828282;
     font-size: 18px;
     font-family: "Roboto-Regular";
     font-weight: 600;
 }
+
+
 @media (max-width: 1424px) {
-.books-detail1 {
-    margin-top: 274px;
+    .books-detail1 {
+        margin-top: 274px;
+    }
+
+    .booking-sec {
+        height: 628px ! important;
+    }
+
+    .booking-heading {
+        padding-bottom: 15px;
+    }
 }
-.booking-sec {
-    height: 628px ! important;
-}
-.booking-heading {
-    padding-bottom: 15px;
-}
-}
+
 @media (max-width: 1024px) {
     .custom-room {
         padding-top: 10px;
@@ -1561,6 +1613,7 @@ button.btn9 a{
     .custom-room {
         padding-right: 87px;
     }
+
     .booking-sec .form-wrapper {
         display: flex;
         align-items: center;
@@ -1692,7 +1745,7 @@ button.btn9 a{
         top: 50%;
     }
 
-    .this-custom-wrapper  .img-bed-wrapper1 h6 {
+    .this-custom-wrapper .img-bed-wrapper1 h6 {
         font-size: 15px;
     }
 
@@ -1732,36 +1785,44 @@ button.btn9 a{
     button.slick-next.slick-arrow {
         right: 17px;
     }
+
     .custom-bed-imgbox img {
         width: 94%;
         height: 502px;
         object-fit: cover;
     }
 }
+
 @media (max-width: 320px) {
     section.booking-form-sec {
         margin: -50px 0px;
         overflow: hidden;
     }
+
     .tabs .nav .nav-item .nav-link {
         padding: 7px 24px;
         font-size: 20px;
     }
+
     .headind-bed h4 {
         font-size: 6px;
     }
+
     .para-fivestar p {
         font-size: 5px;
     }
+
     .august {
         text-align: end;
         margin-right: 30px;
         margin-top: 5px;
     }
+
     button.slick-next.slick-arrow {
         right: 18px;
         top: 69px;
     }
+
     button.slick-prev.slick-arrow {
         position: absolute;
         left: 24px;
@@ -1769,9 +1830,11 @@ button.btn9 a{
         z-index: 1;
         opacity: 1;
     }
+
     .img-bed-wrapper1 h5 {
         font-size: 10px;
     }
+
     .img-bed-wrapper1 h6 {
         font-size: 7px;
     }
@@ -1779,8 +1842,8 @@ button.btn9 a{
 
 
 /* booking-customize  end here */
-.this-custom-wrapper .img-wrapper-slider .slick-track {
-    width: auto !important;
+/* .this-custom-wrapper .img-wrapper-slider .slick-track .check-this-img{
+    width: 1856px !important;
 }
 .this-custom-wrapper .img-wrapper-slider .slick-track img.slick-slide.slick-current.slick-active {
     width: 227px !important;
@@ -1791,4 +1854,23 @@ button.btn9 a{
     top: 110px;
     z-index: 1;
     opacity: 1;
+} */
+
+
+/* .slick-slider .slick-track, .slick-slider .slick-list{
+    width: unset !important;
+} */
+/* .this-custom-wrapper .img-wrapper-slider .slick-track {
+    width: unset !important;
+}
+.this-custom-wrapper .img-wrapper-slider .slick-track img.img-fluid.slick-slide.slick-current.slick-active {
+    width: unset !important;
+} */
+.img-wrapper-slider90 img{
+    width: 232px !important;
+    height: 272px ;
+}
+.img-wrapper-slider90 .slick-track {
+    display: flex !important;
+    width: 1856px !important;
 }
