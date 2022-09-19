@@ -2608,10 +2608,10 @@
                             </section>
                         </div>
                         <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-                            <div class="boking-slider-wrapper">
+                            <div class="boking-slider-wrapper three-this">
                                 <div class="row">
                                     <div class="col-md-3 col-3 p-0">
-                                        <div class="img-wrapper-slider">
+                                        <div class="img-wrapper-slider2">
                                             <img src="img/path11.webp" class="img-fluid" alt="">
                                             <img src="img/path3.webp" class="img-fluid" alt="">
                                             <img src="img/path4.webp" class="img-fluid" alt="">
@@ -2735,7 +2735,7 @@
                             <div class="boking-slider-wrapper">
                                 <div class="row">
                                     <div class="col-md-3 col-3 p-0">
-                                        <div class="img-wrapper-slider">
+                                    <div class="img-wrapper-slider2">
                                             <img src="img/path11.webp" class="img-fluid" alt="">
                                             <img src="img/path3.webp" class="img-fluid" alt="">
                                             <img src="img/path4.webp" class="img-fluid" alt="">
@@ -2859,131 +2859,7 @@
                             <div class="boking-slider-wrapper">
                                 <div class="row">
                                     <div class="col-md-3 col-3 p-0">
-                                        <div class="img-wrapper-slider">
-                                            <img src="img/path11.png" class="img-fluid" alt="">
-                                            <img src="img/path3.png" class="img-fluid" alt="">
-                                            <img src="img/path4.png" class="img-fluid" alt="">
-                                            <img src="img/path5.png" class="img-fluid" alt="">
-                                            <img src="img/path6.png" class="img-fluid" alt="">
-                                            <img src="img/path7.png" class="img-fluid" alt="">
-                                            <img src="img/path8.png" class="img-fluid" alt="">
-                                            <img src="img/path10.png" class="img-fluid" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-9 col-9 p-0">
-                                        <div class="save-content">
-                                            <div class="bed-text-wrapper">
-                                                <div class="headind-bed">
-                                                    <h4>BED & BREAKFAST, PAY NOW & SAVE 10%</h4>
-                                                </div>
-                                                <div class="five-star">
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <span>5.0</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="btn-bed">
-                                            <button class="btn1">
-                                                NON refundable
-                                            </button>
-                                            <button class="btn1">
-                                                Breakfast included
-                                            </button>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-8 col-8">
-                                                <div class="para-fivestar">
-                                                    <p>Fully pre-paid once booking has been received, non-refundable and
-                                                        non-transferable. A credit or debit card is required to
-                                                        guarantee your
-                                                        booking, the full cost of the stay will be taken at the time of
-                                                        booking.
-                                                        Please note all guests must present a debit/credit card on check
-                                                        in to
-                                                        validate..... <span> read more</span>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4 col-4">
-                                                <div class="august">
-                                                    <h5>Mon, 15 August, 2 nights <br>
-                                                        <span> <i class="fa-regular fa-user"></i> 1 adult</span>
-                                                    </h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="row mb-2">
-                                            <div class="col-md-6 col-6">
-                                                <div class="img-bed-rest">
-                                                    <img src="img/group1.webp" alt="" class="img-fluid">
-                                                    <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
-                                                        <h6>Only 3 left</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-2 col-2 p-0">
-                                                <div class="img-bed-wrapper">
-                                                    <h5>avg.price per night</h5>
-                                                    <h6>£117.50</h6>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-1 col-1">
-                                                <div class="img-bed-wrapper">
-                                                    <h5>£267.50</h5>
-                                                    <h6> <strike> £330.50 </strike></h6>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-3">
-                                                <div class="img-bed-wrapper2">
-                                                    <a href=""><button class="btn12">
-                                                            Book now
-                                                        </button></a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-6 col-6">
-                                                <div class="img-bed-rest">
-                                                    <img src="img/group2.webp" alt="" class="img-fluid">
-                                                    <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
-                                                        <h6>Last chance! only 1 left</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-2 col-2 p-0">
-                                                <div class="img-bed-wrapper">
-                                                    <h5>avg.price per night</h5>
-                                                    <h6>£117.50</h6>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-1 col-1">
-                                                <div class="img-bed-wrapper">
-                                                    <h5>£267.50</h5>
-                                                    <h6> <strike> £330.50 </strike></h6>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-3 col-3">
-                                                <div class="img-bed-wrapper2">
-                                                    <a href=""><button class="btn12">
-                                                            Book now
-                                                        </button></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="boking-slider-wrapper">
-                                <div class="row">
-                                    <div class="col-md-3 col-3 p-0">
-                                        <div class="img-wrapper-slider">
+                                    <div class="img-wrapper-slider2">
                                             <img src="img/path11.webp" class="img-fluid" alt="">
                                             <img src="img/path3.webp" class="img-fluid" alt="">
                                             <img src="img/path4.webp" class="img-fluid" alt="">
@@ -3107,15 +2983,139 @@
                             <div class="boking-slider-wrapper">
                                 <div class="row">
                                     <div class="col-md-3 col-3 p-0">
-                                        <div class="img-wrapper-slider">
-                                            <img src="img/path11.png" class="img-fluid" alt="">
-                                            <img src="img/path3.png" class="img-fluid" alt="">
-                                            <img src="img/path4.png" class="img-fluid" alt="">
-                                            <img src="img/path5.png" class="img-fluid" alt="">
+                                    <div class="img-wrapper-slider2">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
                                             <img src="img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path7.png" class="img-fluid" alt="">
+                                            <img src="img/path8.png" class="img-fluid" alt="">
+                                            <img src="img/path10.png" class="img-fluid" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9 col-9 p-0">
+                                        <div class="save-content">
+                                            <div class="bed-text-wrapper">
+                                                <div class="headind-bed">
+                                                    <h4>BED & BREAKFAST, PAY NOW & SAVE 10%</h4>
+                                                </div>
+                                                <div class="five-star">
+                                                    <i class="fa-solid fa-star"></i>
+                                                    <i class="fa-solid fa-star"></i>
+                                                    <i class="fa-solid fa-star"></i>
+                                                    <i class="fa-solid fa-star"></i>
+                                                    <i class="fa-solid fa-star"></i>
+                                                    <span>5.0</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="btn-bed">
+                                            <button class="btn1">
+                                                NON refundable
+                                            </button>
+                                            <button class="btn1">
+                                                Breakfast included
+                                            </button>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-8 col-8">
+                                                <div class="para-fivestar">
+                                                    <p>Fully pre-paid once booking has been received, non-refundable and
+                                                        non-transferable. A credit or debit card is required to
+                                                        guarantee your
+                                                        booking, the full cost of the stay will be taken at the time of
+                                                        booking.
+                                                        Please note all guests must present a debit/credit card on check
+                                                        in to
+                                                        validate..... <span> read more</span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4 col-4">
+                                                <div class="august">
+                                                    <h5>Mon, 15 August, 2 nights <br>
+                                                        <span> <i class="fa-regular fa-user"></i> 1 adult</span>
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row mb-2">
+                                            <div class="col-md-6 col-6">
+                                                <div class="img-bed-rest">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
+                                                    <div class="img-bed-wrapper1">
+                                                        <h5>Executive Bedroom</h5>
+                                                        <h6>Only 3 left</h6>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-2 col-2 p-0">
+                                                <div class="img-bed-wrapper">
+                                                    <h5>avg.price per night</h5>
+                                                    <h6>£117.50</h6>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-1 col-1">
+                                                <div class="img-bed-wrapper">
+                                                    <h5>£267.50</h5>
+                                                    <h6> <strike> £330.50 </strike></h6>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3">
+                                                <div class="img-bed-wrapper2">
+                                                    <a href=""><button class="btn12">
+                                                            Book now
+                                                        </button></a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-6">
+                                                <div class="img-bed-rest">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
+                                                    <div class="img-bed-wrapper1">
+                                                        <h5>Executive Bedroom</h5>
+                                                        <h6>Last chance! only 1 left</h6>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-2 col-2 p-0">
+                                                <div class="img-bed-wrapper">
+                                                    <h5>avg.price per night</h5>
+                                                    <h6>£117.50</h6>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-1 col-1">
+                                                <div class="img-bed-wrapper">
+                                                    <h5>£267.50</h5>
+                                                    <h6> <strike> £330.50 </strike></h6>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-3">
+                                                <div class="img-bed-wrapper2">
+                                                    <a href=""><button class="btn12">
+                                                            Book now
+                                                        </button></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="boking-slider-wrapper">
+                                <div class="row">
+                                    <div class="col-md-3 col-3 p-0">
+                                    <div class="img-wrapper-slider2">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.png" class="img-fluid" alt="">
+                                            <img src="img/path7.png" class="img-fluid" alt="">
+                                            <img src="img/path8.png" class="img-fluid" alt="">
+                                            <img src="img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-9 p-0">

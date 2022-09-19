@@ -1874,3 +1874,11 @@ button.btn9 a {
     display: flex !important;
     width: 1856px !important;
 }
+.img-wrapper-slider2 img{
+    width: 300px !important;
+    height: 272px ;
+}
+.img-wrapper-slider2 .slick-track {
+    display: flex !important;
+    width: 1856px !important;
+}
