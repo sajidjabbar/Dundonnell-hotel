@@ -1,5 +1,5 @@
-<?php include 'inc/app.php'; ?>
 <link rel="stylesheet" href="css/booking.css">
+<?php include 'inc/app.php'; ?>
 <!--  Start Here -->
 <!-- wester-sec Start Here -->
 <section class="booking-sec">
@@ -16,10 +16,7 @@
                     </div>
                     <div class="col-md-2 ">
                         <div class="arrival">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                stroke-linejoin="round"
-                                class="feather feather-calendar __web-inspector-hide-shortcut__">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar __web-inspector-hide-shortcut__">
                                 <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
                                 <line x1="16" y1="2" x2="16" y2="6" />
                                 <line x1="8" y1="2" x2="8" y2="6" />
@@ -31,10 +28,7 @@
                     </div>
                     <div class="col-md-2">
                         <div class="arrival">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                stroke-linejoin="round"
-                                class="feather feather-calendar __web-inspector-hide-shortcut__">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar __web-inspector-hide-shortcut__">
                                 <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
                                 <line x1="16" y1="2" x2="16" y2="6" />
                                 <line x1="8" y1="2" x2="8" y2="6" />
@@ -105,8 +99,7 @@
                             <div class="col-md-4">
                                 <div class="form-group">
                                     <label for="exampleFormControlInput1">Promo Code</label>
-                                    <input type="email" class="form-control" id="exampleFormControlInput1"
-                                        placeholder="Type Here">
+                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Type Here">
                                 </div>
                             </div>
                         </div>
@@ -127,22 +120,22 @@
             <img src="img/path14.webp" class="img-fluid" alt="">
         </div>
         <div class="leave-wrapper2 box up-down">
-            <img src="img/book-leave.png" class="img-fluid" alt="">
+            <img src="img/book-leave.webp" class="img-fluid" alt="">
         </div>
         <div class="leave-wrapper3 box up-down">
             <img src="img/left1.png" class="img-fluid" alt="">
         </div>
         <div class="leave-wrapper4 box up-down">
-            <img src="img/path15.png" class="img-fluid" alt="">
+            <img src="img/path15.webp" class="img-fluid" alt="">
         </div>
         <div class="leave-wrapper5 box up-down">
-<!--            <img src="img/path16.png" class="img-fluid" alt="">-->
+            <!--            <img src="img/path16.png" class="img-fluid" alt="">-->
         </div>
         <div class="leave-wrapper6 box up-down">
-            <img src="img/book-leave-left.png" class="img-fluid" alt="">
+            <img src="img/book-leave-left.webp" class="img-fluid" alt="">
         </div>
         <div class="leave-wrapper7 box up-down">
-            <img src="img/book-leave-right.png" class="img-fluid" alt="">
+            <img src="img/book-leave-right.webp" class="img-fluid" alt="">
         </div>
     </div>
     <div class="container p-0">
@@ -151,36 +144,29 @@
                 <div class="tabs">
                     <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                         <li class="nav-item " role="presentation">
-                            <button class="nav-link active show" id="pills-home-tab" data-toggle="pill"
-                                data-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
-                                aria-selected="true">Choose</button>
+                            <button class="nav-link active show" id="pills-home-tab" data-toggle="pill" data-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Choose</button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="pills-profile-tab" data-toggle="pill"
-                                data-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
-                                aria-selected="false">Customize</button>
+                            <button class="nav-link" id="pills-profile-tab" data-toggle="pill" data-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Customize</button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="pills-contact-tab" data-toggle="pill"
-                                data-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
-                                aria-selected="false">Book</button>
+                            <button class="nav-link" id="pills-contact-tab" data-toggle="pill" data-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Book</button>
                         </li>
                     </ul>
                     <div class="tab-content" id="pills-tabContent">
-                        <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
-                            aria-labelledby="pills-home-tab">
+                        <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                             <div class="boking-slider-wrapper">
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.webp" class="img-fluid" alt="">
+                                            <img src="img/path7.webp" class="img-fluid" alt="">
+                                            <img src="img/path8.webp" class="img-fluid" alt="">
+                                            <img src="img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -232,7 +218,8 @@
                                         <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.png" alt="" class="img-fluid">
+
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -263,7 +250,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -297,14 +284,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                        <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.webp" class="img-fluid" alt="">
+                                            <img src="img/path7.webp" class="img-fluid" alt="">
+                                            <img src="img/path8.webp" class="img-fluid" alt="">
+                                            <img src="img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -356,7 +343,7 @@
                                         <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -387,7 +374,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -421,14 +408,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                        <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.webp" class="img-fluid" alt="">
+                                            <img src="img/path7.webp" class="img-fluid" alt="">
+                                            <img src="img/path8.webp" class="img-fluid" alt="">
+                                            <img src="img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -545,138 +532,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                        <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-9 col-12 p-0">
-                                        <div class="save-content">
-                                            <div class="bed-text-wrapper">
-                                                <div class="headind-bed">
-                                                    <h4>BED & BREAKFAST, PAY NOW & SAVE 10%</h4>
-                                                </div>
-                                                <div class="five-star">
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <i class="fa-solid fa-star"></i>
-                                                    <span>5.0</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="btn-bed">
-                                            <button class="btn1">
-                                                NON refundable
-                                            </button>
-                                            <button class="btn1">
-                                                Breakfast included
-                                            </button>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-8 col-12">
-                                                <div class="para-fivestar">
-                                                    <p>Fully pre-paid once booking has been received, non-refundable and
-                                                        non-transferable. A credit or debit card is required to
-                                                        guarantee your
-                                                        booking, the full cost of the stay will be taken at the time of
-                                                        booking.
-                                                        Please note all guests must present a debit/credit card on check
-                                                        in to
-                                                        validate..... <span> read more</span>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4 col-12">
-                                                <div class="august">
-                                                    <h5>Mon, 15 August, 2 nights <br>
-                                                        <span> <i class="fa-regular fa-user"></i> 1 adult</span>
-                                                    </h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="row ">
-                                            <div class="col-md-6 col-6">
-                                                <div class="img-bed-rest">
-                                                    <img src="img/group1.png" alt="">
-                                                    <div class="img-bed-wrapper1">
-                                                        <h5>Executive Bedroom</h5>
-                                                        <h6>Only 3 left</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-2 col-2 p-0">
-                                                <div class="img-bed-wrapper">
-                                                    <h5>avg.price per night</h5>
-                                                    <h6>£117.50</h6>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-1 col-1">
-                                                <div class="img-bed-wrapper">
-                                                    <h5>£267.50</h5>
-                                                    <h6> <strike> £330.50 </strike></h6>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-3 col-12">
-                                                <div class="img-bed-wrapper2">
-                                                    <a href=""><button class="btn12">
-                                                            Book now
-                                                        </button></a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-6 col-6">
-                                                <div class="img-bed-rest">
-                                img/group2.webp" alt="">
-                                                    <div class="img-bed-wrapper1">
-                                                        <h5>Junior Suite</h5>
-                                                        <h6>Last chance! only 1 left</h6>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-2 col-2 p-0">
-                                                <div class="img-bed-wrapper">
-                                                    <h5>avg.price per night</h5>
-                                                    <h6>£117.50</h6>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-1 col-1">
-                                                <div class="img-bed-wrapper">
-                                                    <h5>£267.50</h5>
-                                                    <h6> <strike> £330.50 </strike></h6>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-3 col-12">
-                                                <div class="img-bed-wrapper2">
-                                                    <a href=""><button class="btn12">
-                                                            Book now
-                                                        </button></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="boking-slider-wrapper">
-                                <div class="row">
-                                    <div class="col-md-3 col-12 p-0">
-                                        <div class="img-wrapper-slider">
-                                        <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
                                             <img src="img/path3.webp" class="img-fluid" alt="">
                                             <img src="img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.webp" class="img-fluid" alt="">
+                                            <img src="img/path7.webp" class="img-fluid" alt="">
+                                            <img src="img/path8.webp" class="img-fluid" alt="">
+                                            <img src="img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -728,7 +591,7 @@
                                         <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -759,7 +622,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -793,14 +656,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                        <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.webp" class="img-fluid" alt="">
+                                            <img src="img/path7.webp" class="img-fluid" alt="">
+                                            <img src="img/path8.webp" class="img-fluid" alt="">
+                                            <img src="img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -852,7 +715,7 @@
                                         <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -883,7 +746,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -917,14 +780,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                        <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.webp" class="img-fluid" alt="">
+                                            <img src="img/path7.webp" class="img-fluid" alt="">
+                                            <img src="img/path8.webp" class="img-fluid" alt="">
+                                            <img src="img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -976,7 +839,7 @@
                                         <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -1007,7 +870,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -1041,14 +904,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                        <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.webp" class="img-fluid" alt="">
+                                            <img src="img/path7.webp" class="img-fluid" alt="">
+                                            <img src="img/path8.webp" class="img-fluid" alt="">
+                                            <img src="img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -1100,7 +963,7 @@
                                         <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -1131,7 +994,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -1165,14 +1028,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-12 p-0">
                                         <div class="img-wrapper-slider">
-                                        <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.webp" class="img-fluid" alt="">
+                                            <img src="img/path7.webp" class="img-fluid" alt="">
+                                            <img src="img/path8.webp" class="img-fluid" alt="">
+                                            <img src="img/path10.webp" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-12 p-0">
@@ -1224,7 +1087,7 @@
                                         <div class="row ">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -1255,7 +1118,131 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
+                                                    <div class="img-bed-wrapper1">
+                                                        <h5>Junior Suite</h5>
+                                                        <h6>Last chance! only 1 left</h6>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-2 col-2 p-0">
+                                                <div class="img-bed-wrapper">
+                                                    <h5>avg.price per night</h5>
+                                                    <h6>£117.50</h6>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-1 col-1">
+                                                <div class="img-bed-wrapper">
+                                                    <h5>£267.50</h5>
+                                                    <h6> <strike> £330.50 </strike></h6>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-12">
+                                                <div class="img-bed-wrapper2">
+                                                    <a href=""><button class="btn12">
+                                                            Book now
+                                                        </button></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="boking-slider-wrapper">
+                                <div class="row">
+                                    <div class="col-md-3 col-12 p-0">
+                                        <div class="img-wrapper-slider">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.webp" class="img-fluid" alt="">
+                                            <img src="img/path7.webp" class="img-fluid" alt="">
+                                            <img src="img/path8.webp" class="img-fluid" alt="">
+                                            <img src="img/path10.webp" class="img-fluid" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-9 col-12 p-0">
+                                        <div class="save-content">
+                                            <div class="bed-text-wrapper">
+                                                <div class="headind-bed">
+                                                    <h4>BED & BREAKFAST, PAY NOW & SAVE 10%</h4>
+                                                </div>
+                                                <div class="five-star">
+                                                    <i class="fa-solid fa-star"></i>
+                                                    <i class="fa-solid fa-star"></i>
+                                                    <i class="fa-solid fa-star"></i>
+                                                    <i class="fa-solid fa-star"></i>
+                                                    <i class="fa-solid fa-star"></i>
+                                                    <span>5.0</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="btn-bed">
+                                            <button class="btn1">
+                                                NON refundable
+                                            </button>
+                                            <button class="btn1">
+                                                Breakfast included
+                                            </button>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-8 col-12">
+                                                <div class="para-fivestar">
+                                                    <p>Fully pre-paid once booking has been received, non-refundable and
+                                                        non-transferable. A credit or debit card is required to
+                                                        guarantee your
+                                                        booking, the full cost of the stay will be taken at the time of
+                                                        booking.
+                                                        Please note all guests must present a debit/credit card on check
+                                                        in to
+                                                        validate..... <span> read more</span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4 col-12">
+                                                <div class="august">
+                                                    <h5>Mon, 15 August, 2 nights <br>
+                                                        <span> <i class="fa-regular fa-user"></i> 1 adult</span>
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row ">
+                                            <div class="col-md-6 col-6">
+                                                <div class="img-bed-rest">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
+                                                    <div class="img-bed-wrapper1">
+                                                        <h5>Executive Bedroom</h5>
+                                                        <h6>Only 3 left</h6>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-2 col-2 p-0">
+                                                <div class="img-bed-wrapper">
+                                                    <h5>avg.price per night</h5>
+                                                    <h6>£117.50</h6>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-1 col-1">
+                                                <div class="img-bed-wrapper">
+                                                    <h5>£267.50</h5>
+                                                    <h6> <strike> £330.50 </strike></h6>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-12">
+                                                <div class="img-bed-wrapper2">
+                                                    <a href=""><button class="btn12">
+                                                            Book now
+                                                        </button></a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-6">
+                                                <div class="img-bed-rest">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Junior Suite</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -1287,8 +1274,7 @@
                             </div>
 
                         </div>
-                        <div class="tab-pane fade" id="pills-profile" role="tabpanel"
-                            aria-labelledby="pills-profile-tab">
+                        <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                             <div class="boking-slider-wrappers">
                                 <div class="row">
                                     <div class="col-md-9 p-0">
@@ -1314,8 +1300,7 @@
                                             non-transferable. A credit or debit
                                             card is required to guarantee your booking, the full cost of the stay will
                                             be taken at the time of booking. Please note all
-                                            guests must present a debit/credit card on check in to validate..... <a
-                                                href="javascript:void(0)" class="custom-read"> read more</a></p>
+                                            guests must present a debit/credit card on check in to validate..... <a href="javascript:void(0)" class="custom-read"> read more</a></p>
                                     </div>
                                     <div class="discount-box">
                                         <div class="col-md-7">
@@ -1328,11 +1313,9 @@
                                             <div class="discount">
                                                 <form class="form-inline">
                                                     <div class="form-group ">
-                                                        <input type="" class="form-control" id="inputvocher2"
-                                                            placeholder="Discount Code">
+                                                        <input type="" class="form-control" id="inputvocher2" placeholder="Discount Code">
                                                         <div class="input-group">
-                                                            <button class="btn btn-primary  discount-btn  custom"
-                                                                type="button">Apply Code</button>
+                                                            <button class="btn btn-primary  discount-btn custom" type="button">Apply Code</button>
                                                         </div>
                                                     </div>
                                                 </form>
@@ -1381,8 +1364,7 @@
                                                 cost of the stay
                                                 will be taken at the time of booking. Please note all guests must
                                                 present a debit/credit
-                                                card on check in to validate..... <a href="javascript:void(0)"
-                                                    class="custom-read"> read more</a></p>
+                                                card on check in to validate..... <a href="javascript:void(0)" class="custom-read"> read more</a></p>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
@@ -1399,8 +1381,7 @@
                                                             <div class="col-md-3">
                                                                 <div class="adult-select-this">
                                                                     <div class="form-group">
-                                                                        <select class="form-control"
-                                                                            id="exampleFormControlSelect1">
+                                                                        <select class="form-control" id="exampleFormControlSelect1">
                                                                             <option>1 Adult</option>
                                                                             <option>2</option>
                                                                             <option>3</option>
@@ -1429,20 +1410,11 @@
                                                                     </div>
                                                                     <div class="cart-quality">
                                                                         <div class="product-quantity">
-                                                                            <input data-min="1" data-max="0" type="text"
-                                                                                name="quantity" value="1"
-                                                                                readonly="true">
+                                                                            <input data-min="1" data-max="0" type="text" name="quantity" value="1" readonly="true">
                                                                             <div class="quantity-selectors-container">
                                                                                 <div class="quantity-selectors">
-                                                                                    <button type="button"
-                                                                                        class="increment-quantity"
-                                                                                        aria-label="Add one"
-                                                                                        data-direction="1"><span>&#43;</span></button>
-                                                                                    <button type="button"
-                                                                                        class="decrement-quantity"
-                                                                                        aria-label="Subtract one"
-                                                                                        data-direction="-1"
-                                                                                        disabled="disabled"><span>&#8722;</span></button>
+                                                                                    <button type="button" class="increment-quantity" aria-label="Add one" data-direction="1"><span>&#43;</span></button>
+                                                                                    <button type="button" class="decrement-quantity" aria-label="Subtract one" data-direction="-1" disabled="disabled"><span>&#8722;</span></button>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1461,20 +1433,11 @@
                                                                     </div>
                                                                     <div class="cart-quality">
                                                                         <div class="product-quantity">
-                                                                            <input data-min="1" data-max="0" type="text"
-                                                                                name="quantity" value="1"
-                                                                                readonly="true">
+                                                                            <input data-min="1" data-max="0" type="text" name="quantity" value="1" readonly="true">
                                                                             <div class="quantity-selectors-container">
                                                                                 <div class="quantity-selectors">
-                                                                                    <button type="button"
-                                                                                        class="increment-quantity"
-                                                                                        aria-label="Add one"
-                                                                                        data-direction="1"><span>&#43;</span></button>
-                                                                                    <button type="button"
-                                                                                        class="decrement-quantity"
-                                                                                        aria-label="Subtract one"
-                                                                                        data-direction="-1"
-                                                                                        disabled="disabled"><span>&#8722;</span></button>
+                                                                                    <button type="button" class="increment-quantity" aria-label="Add one" data-direction="1"><span>&#43;</span></button>
+                                                                                    <button type="button" class="decrement-quantity" aria-label="Subtract one" data-direction="-1" disabled="disabled"><span>&#8722;</span></button>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1549,16 +1512,13 @@
                                     <div class="col-md-4">
                                         <div class="Popular-amenities">
                                             <h4>Popular Amenities</h4>
-                                            <a href="javascript:void(0)"><span><img src="img/breakfast.png"
-                                                        alt=""></span> <span>Breakfast available</span></a>
+                                            <a href="javascript:void(0)"><span><img src="img/breakfast.png" alt=""></span> <span>Breakfast available</span></a>
                                             <a href="javascript:void(0)"><span><img src="img/bar.png" alt=""></span>
                                                 <span>bar</span></a>
                                             <a href="javascript:void(0)"><span><img src="img/food.png" alt=""></span>
                                                 <span>Room service</span></a>
-                                            <a href="javascript:void(0)"><span><img src="img/hourglass-end.png"
-                                                        alt=""></span> <span>24/7 front desk</span></a>
-                                            <a href="javascript:void(0)"><span><img
-                                                        src="img/material-business-center.png" alt=""></span>
+                                            <a href="javascript:void(0)"><span><img src="img/hourglass-end.png" alt=""></span> <span>24/7 front desk</span></a>
+                                            <a href="javascript:void(0)"><span><img src="img/material-business-center.png" alt=""></span>
                                                 <span>Business services</span></a>
 
                                         </div>
@@ -1571,7 +1531,7 @@
                                             <div class="Parking">
                                                 <h4>Parking and transportation</h4>
                                                 <li> <span> Free self-parking on site</span>
-                                                    </li>
+                                                </li>
                                                 <li><span> Free valet parking on site </span></li>
                                                 <li> <span> Limited onsite parking </span></li>
                                                 <li> <span> Wheelchair-accessible parking and van parking are available </span></li>
@@ -1638,16 +1598,16 @@
                                     <div class="col-md-6">
                                         <div class="boking-slider-wrapper this-custom-wrapper">
                                             <div class="row">
-                                                <div class="col-md-5 col-12 p-0">
+                                                <div class="col-md-5 ">
                                                     <div class="img-wrapper-slider">
-                                                    <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                                        <img src="img/path11.png" class="img-fluid" alt="">
+                                                        <img src="img/path3.webp" class="img-fluid" alt="">
+                                                        <img src="img/path4.webp" class="img-fluid" alt="">
+                                                        <img src="img/path5.webp" class="img-fluid" alt="">
+                                                        <img src="img/path6.webp" class="img-fluid" alt="">
+                                                        <img src="img/path7.webp" class="img-fluid" alt="">
+                                                        <img src="img/path8.webp" class="img-fluid" alt="">
+                                                        <img src="img/path10.webp" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -1680,7 +1640,7 @@
                                                     <div class="row mb-2">
                                                         <div class="col-md-7 col-12">
                                                             <div class="img-bed-rest">
-                                            img/group1.png" alt="">
+                                                                <img src="img/group1.webp" alt="" class="img-fluid">
                                                                 <div class="img-bed-wrapper1">
                                                                     <h5>Executive Bedroom</h5>
                                                                     <h6>Only 3 left</h6>
@@ -1712,7 +1672,7 @@
                                                     <div class="row">
                                                         <div class="col-md-7 col-12">
                                                             <div class="img-bed-rest">
-                                            img/group2.webp" alt="">
+                                                                <img src="img/group2.webp" alt="" class="img-fluid">
                                                                 <div class="img-bed-wrapper1">
                                                                     <h5>Executive Bedroom</h5>
                                                                     <h6>Last chance! only 1 left</h6>
@@ -1748,14 +1708,14 @@
                                             <div class="row">
                                                 <div class="col-md-5 col-12 p-0">
                                                     <div class="img-wrapper-slider">
-                                                    <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                                        <img src="img/path11.webp" class="img-fluid" alt="">
+                                                        <img src="img/path3.webp" class="img-fluid" alt="">
+                                                        <img src="img/path4.webp" class="img-fluid" alt="">
+                                                        <img src="img/path5.webp" class="img-fluid" alt="">
+                                                        <img src="img/path6.webp" class="img-fluid" alt="">
+                                                        <img src="img/path7.webp" class="img-fluid" alt="">
+                                                        <img src="img/path8.webp" class="img-fluid" alt="">
+                                                        <img src="img/path10.webp" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -1788,7 +1748,7 @@
                                                     <div class="row mb-2">
                                                         <div class="col-md-7 col-12">
                                                             <div class="img-bed-rest">
-                                            img/group1.png" alt="">
+                                                                <img src="img/group1.webp" alt="" class="img-fluid">
                                                                 <div class="img-bed-wrapper1">
                                                                     <h5>Executive Bedroom</h5>
                                                                     <h6>Only 3 left</h6>
@@ -1820,7 +1780,7 @@
                                                     <div class="row">
                                                         <div class="col-md-7 col-12">
                                                             <div class="img-bed-rest">
-                                            img/group2.webp" alt="">
+                                                                <img src="img/group2.webp" alt="" class="img-fluid">
                                                                 <div class="img-bed-wrapper1">
                                                                     <h5>Executive Bedroom</h5>
                                                                     <h6>Last chance! only 1 left</h6>
@@ -1856,14 +1816,14 @@
                                             <div class="row">
                                                 <div class="col-md-5 col-12 p-0">
                                                     <div class="img-wrapper-slider">
-                                                    <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                                        <img src="img/path11.webp" class="img-fluid" alt="">
+                                                        <img src="img/path3.webp" class="img-fluid" alt="">
+                                                        <img src="img/path4.webp" class="img-fluid" alt="">
+                                                        <img src="img/path5.webp" class="img-fluid" alt="">
+                                                        <img src="img/path6.webp" class="img-fluid" alt="">
+                                                        <img src="img/path7.webp" class="img-fluid" alt="">
+                                                        <img src="img/path8.webp" class="img-fluid" alt="">
+                                                        <img src="img/path10.webp" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -1896,7 +1856,7 @@
                                                     <div class="row mb-2">
                                                         <div class="col-md-7 col-12">
                                                             <div class="img-bed-rest">
-                                            img/group1.png" alt="">
+                                                                <img src="img/group1.webp" alt="" class="img-fluid">
                                                                 <div class="img-bed-wrapper1">
                                                                     <h5>Executive Bedroom</h5>
                                                                     <h6>Only 3 left</h6>
@@ -1928,7 +1888,7 @@
                                                     <div class="row">
                                                         <div class="col-md-7 col-12">
                                                             <div class="img-bed-rest">
-                                            img/group2.webp" alt="">
+                                                                <img src="img/group2.webp" alt="" class="img-fluid">
                                                                 <div class="img-bed-wrapper1">
                                                                     <h5>Executive Bedroom</h5>
                                                                     <h6>Last chance! only 1 left</h6>
@@ -1964,14 +1924,14 @@
                                             <div class="row">
                                                 <div class="col-md-5 col-12 p-0">
                                                     <div class="img-wrapper-slider">
-                                                    <img src="./img/path11.webp" class="img-fluid" alt="">
-                                            <img src="./img/path3.webp" class="img-fluid" alt="">
-                                            <img src="./img/path4.webp" class="img-fluid" alt="">
-                                            <img src="./img/path5.webp" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                                        <img src="img/path11.webp" class="img-fluid" alt="">
+                                                        <img src="img/path3.webp" class="img-fluid" alt="">
+                                                        <img src="img/path4.webp" class="img-fluid" alt="">
+                                                        <img src="img/path5.webp" class="img-fluid" alt="">
+                                                        <img src="img/path6.webp" class="img-fluid" alt="">
+                                                        <img src="img/path7.webp" class="img-fluid" alt="">
+                                                        <img src="img/path8.webp" class="img-fluid" alt="">
+                                                        <img src="img/path10.webp" class="img-fluid" alt="">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-7 col-12 p-0">
@@ -2004,7 +1964,7 @@
                                                     <div class="row mb-2">
                                                         <div class="col-md-7 col-12">
                                                             <div class="img-bed-rest">
-                                            img/group1.png" alt="">
+                                                                <img src="img/group1.webp" alt="" class="img-fluid">
                                                                 <div class="img-bed-wrapper1">
                                                                     <h5>Executive Bedroom</h5>
                                                                     <h6>Only 3 left</h6>
@@ -2036,7 +1996,7 @@
                                                     <div class="row">
                                                         <div class="col-md-7 col-12">
                                                             <div class="img-bed-rest">
-                                            img/group2.webp" alt="">
+                                                                <img src="img/group2.webp" alt="" class="img-fluid">
                                                                 <div class="img-bed-wrapper1">
                                                                     <h5>Executive Bedroom</h5>
                                                                     <h6>Last chance! only 1 left</h6>
@@ -2092,8 +2052,7 @@
                                                 <div class="customize-heading">
                                                     <a href="javascript:void(0) " class="btn btn-primary custom">NON
                                                         refundable</a>
-                                                    <a href="javascript:void(0)"
-                                                        class="btn btn-primary custom">Breakfast
+                                                    <a href="javascript:void(0)" class="btn btn-primary custom">Breakfast
                                                         included</a>
                                                     <p>Fully pre-paid once booking has been received,
                                                         non-refundable and
@@ -2121,12 +2080,9 @@
                                                         <div class="discount">
                                                             <form class="form-inline">
                                                                 <div class="form-group mx-sm-3 mb-2">
-                                                                    <input type="" class="form-control"
-                                                                        id="inputvocher2" placeholder="Discount Code">
+                                                                    <input type="" class="form-control" id="inputvocher2" placeholder="Discount Code">
                                                                     <div class="input-group">
-                                                                        <button
-                                                                            class="btn btn-primary  discount-btn  custom"
-                                                                            type="button">Apply
+                                                                        <button class="btn btn-primary  discount-btn  custom" type="button">Apply
                                                                             Code</button>
                                                                     </div>
                                                                 </div>
@@ -2157,8 +2113,7 @@
                                                                     <div class="col-md-4">
                                                                         <div class="adult-select-this">
                                                                             <div class="form-group">
-                                                                                <select class="form-control"
-                                                                                    id="exampleFormControlSelect1">
+                                                                                <select class="form-control" id="exampleFormControlSelect1">
                                                                                     <option>1 Adult</option>
                                                                                     <option>2</option>
                                                                                     <option>3</option>
@@ -2187,21 +2142,11 @@
                                                                             </div>
                                                                             <div class="cart-quality">
                                                                                 <div class="product-quantity">
-                                                                                    <input data-min="1" data-max="0"
-                                                                                        type="text" name="quantity"
-                                                                                        value="1" readonly="true">
-                                                                                    <div
-                                                                                        class="quantity-selectors-container">
+                                                                                    <input data-min="1" data-max="0" type="text" name="quantity" value="1" readonly="true">
+                                                                                    <div class="quantity-selectors-container">
                                                                                         <div class="quantity-selectors">
-                                                                                            <button type="button"
-                                                                                                class="increment-quantity"
-                                                                                                aria-label="Add one"
-                                                                                                data-direction="1"><span>&#43;</span></button>
-                                                                                            <button type="button"
-                                                                                                class="decrement-quantity"
-                                                                                                aria-label="Subtract one"
-                                                                                                data-direction="-1"
-                                                                                                disabled="disabled"><span>&#8722;</span></button>
+                                                                                            <button type="button" class="increment-quantity" aria-label="Add one" data-direction="1"><span>&#43;</span></button>
+                                                                                            <button type="button" class="decrement-quantity" aria-label="Subtract one" data-direction="-1" disabled="disabled"><span>&#8722;</span></button>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -2220,21 +2165,11 @@
                                                                             </div>
                                                                             <div class="cart-quality">
                                                                                 <div class="product-quantity">
-                                                                                    <input data-min="1" data-max="0"
-                                                                                        type="text" name="quantity"
-                                                                                        value="1" readonly="true">
-                                                                                    <div
-                                                                                        class="quantity-selectors-container">
+                                                                                    <input data-min="1" data-max="0" type="text" name="quantity" value="1" readonly="true">
+                                                                                    <div class="quantity-selectors-container">
                                                                                         <div class="quantity-selectors">
-                                                                                            <button type="button"
-                                                                                                class="increment-quantity"
-                                                                                                aria-label="Add one"
-                                                                                                data-direction="1"><span>&#43;</span></button>
-                                                                                            <button type="button"
-                                                                                                class="decrement-quantity"
-                                                                                                aria-label="Subtract one"
-                                                                                                data-direction="-1"
-                                                                                                disabled="disabled"><span>&#8722;</span></button>
+                                                                                            <button type="button" class="increment-quantity" aria-label="Add one" data-direction="1"><span>&#43;</span></button>
+                                                                                            <button type="button" class="decrement-quantity" aria-label="Subtract one" data-direction="-1" disabled="disabled"><span>&#8722;</span></button>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -2292,29 +2227,22 @@
                                                             <div class="row mt-3">
                                                                 <div class="col-lg-2 pr-0">
                                                                     <div class="form-group4">
-                                                                        <label
-                                                                            for="exampleInputPassword1">Title*</label>
-                                                                        <input type="name" class="form-control"
-                                                                            id="exampleInputPassword1"
-                                                                            placeholder="Title*">
+                                                                        <label for="exampleInputPassword1">Title*</label>
+                                                                        <input type="name" class="form-control" id="exampleInputPassword1" placeholder="Title*">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-5 ">
                                                                     <div class="form-group4">
                                                                         <label for="exampleInputPassword1">First name
                                                                             **</label>
-                                                                        <input type="name" class="form-control"
-                                                                            id="exampleInputPassword1"
-                                                                            placeholder="First name">
+                                                                        <input type="name" class="form-control" id="exampleInputPassword1" placeholder="First name">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-5 ">
                                                                     <div class="form-group4">
                                                                         <label for="exampleInputPassword1">Last name
                                                                             *</label>
-                                                                        <input type="name" class="form-control"
-                                                                            id="exampleInputPassword1"
-                                                                            placeholder="Last name *">
+                                                                        <input type="name" class="form-control" id="exampleInputPassword1" placeholder="Last name *">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -2323,18 +2251,14 @@
                                                                     <div class="form-group4">
                                                                         <label for="exampleInputPassword1">Email address
                                                                             *</label>
-                                                                        <input type="email" class="form-control"
-                                                                            id="exampleInputPassword1"
-                                                                            placeholder="Email address *">
+                                                                        <input type="email" class="form-control" id="exampleInputPassword1" placeholder="Email address *">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-5 ">
                                                                     <div class="form-group4">
                                                                         <label for="exampleInputPassword1">Phone number
                                                                             *</label>
-                                                                        <input type="number" class="form-control"
-                                                                            id="exampleInputPassword1"
-                                                                            placeholder="xx-xx--xxx-xx">
+                                                                        <input type="number" class="form-control" id="exampleInputPassword1" placeholder="xx-xx--xxx-xx">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -2343,38 +2267,27 @@
                                                                     <div class="form-group4">
                                                                         <label for="exampleInputPassword1">Address
                                                                             *</label>
-                                                                        <input type="name" class="form-control"
-                                                                            id="exampleInputPassword1"
-                                                                            placeholder="Line 1">
+                                                                        <input type="name" class="form-control" id="exampleInputPassword1" placeholder="Line 1">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-5 ">
                                                                     <div class="form-group4">
-                                                                        <label class="titles"
-                                                                            for="exampleInputPassword1">Title*</label>
-                                                                        <input type="name" class="form-control"
-                                                                            id="exampleInputPassword1"
-                                                                            placeholder="Town / City">
+                                                                        <label class="titles" for="exampleInputPassword1">Title*</label>
+                                                                        <input type="name" class="form-control" id="exampleInputPassword1" placeholder="Town / City">
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class="row">
                                                                 <div class="col-lg-3 ">
                                                                     <div class="form-group4">
-                                                                        <label
-                                                                            for="exampleInputPassword1">Title*</label>
-                                                                        <input type="number" class="form-control"
-                                                                            id="exampleInputPassword1"
-                                                                            placeholder="Postcode">
+                                                                        <label for="exampleInputPassword1">Title*</label>
+                                                                        <input type="number" class="form-control" id="exampleInputPassword1" placeholder="Postcode">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-4 ">
                                                                     <div class="form-group4">
-                                                                        <label
-                                                                            for="exampleInputPassword1">Title*</label>
-                                                                        <input type="name" class="form-control"
-                                                                            id="exampleInputPassword1"
-                                                                            placeholder="Country / region / State">
+                                                                        <label for="exampleInputPassword1">Title*</label>
+                                                                        <input type="name" class="form-control" id="exampleInputPassword1" placeholder="Country / region / State">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-5 ">
@@ -2416,8 +2329,7 @@
                                                                     <div class="form-group4">
                                                                         <label for="exampleInputPassword1">Company
                                                                             name</label>
-                                                                        <input type="name" class="form-control"
-                                                                            id="exampleInputPassword1" placeholder="">
+                                                                        <input type="name" class="form-control" id="exampleInputPassword1" placeholder="">
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-lg-5"></div>
@@ -2462,8 +2374,7 @@
                                                                 <div class="col-lg-4">
                                                                     <div class="icon-sign-wrapper">
                                                                         <a href="">
-                                                                            <img src="./img/secure1.png"
-                                                                                class=" img-fluid" alt="">
+                                                                            <img src="./img/secure1.png" class=" img-fluid" alt="">
                                                                         </a>
                                                                     </div>
                                                                 </div>
@@ -2473,9 +2384,7 @@
                                                                     <div class="form-group4">
                                                                         <label for="exampleInputPassword1">Card Number
                                                                             *</label>
-                                                                        <input type="number" class="form-control"
-                                                                            id="exampleInputPassword1"
-                                                                            placeholder="xxxxxxxxxxxxxx">
+                                                                        <input type="number" class="form-control" id="exampleInputPassword1" placeholder="xxxxxxxxxxxxxx">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -2483,9 +2392,8 @@
                                                                 <div class="col-lg-6">
                                                                     <div class="form-group4">
                                                                         <label for="selt">Expiry Month *</label>
-                                                                        <select id="selt"
-                                                                            placeholder=" --  please select country ">
-                                                                            <option> --  please select </option>
+                                                                        <select id="selt" placeholder=" --  please select country ">
+                                                                            <option> -- please select </option>
                                                                             <option>No of Persons</option>
                                                                             <option>No of Persons</option>
                                                                         </select>
@@ -2494,9 +2402,8 @@
                                                                 <div class="col-lg-6">
                                                                     <div class="form-group4">
                                                                         <label for="selt">Expiry year *</label>
-                                                                        <select id="selt"
-                                                                            placeholder=" --  please select country ">
-                                                                            <option>--  please select</option>
+                                                                        <select id="selt" placeholder=" --  please select country ">
+                                                                            <option>-- please select</option>
                                                                             <option>No of Persons</option>
                                                                             <option>No of Persons</option>
                                                                         </select>
@@ -2518,12 +2425,9 @@
                                                             <div c lass="row">
                                                                 <div class="col-lg-12">
                                                                     <div class="img-wrapper">
-                                                                        <img src="./img/visa1.png" class="img-fluid"
-                                                                            alt="">
-                                                                        <img src="./img/visa2.png" class="img-fluid"
-                                                                            alt="">
-                                                                        <img src="./img/visa3.png" class="img-fluid"
-                                                                            alt="">
+                                                                        <img src="./img/visa1.png" class="img-fluid" alt="">
+                                                                        <img src="./img/visa2.png" class="img-fluid" alt="">
+                                                                        <img src="./img/visa3.png" class="img-fluid" alt="">
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -2701,20 +2605,19 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="tab-pane fade" id="pills-contact" role="tabpanel"
-                            aria-labelledby="pills-contact-tab">
+                        <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
                             <div class="boking-slider-wrapper">
                                 <div class="row">
                                     <div class="col-md-3 col-3 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.png" class="img-fluid" alt="">
+                                            <img src="img/path7.png" class="img-fluid" alt="">
+                                            <img src="img/path8.png" class="img-fluid" alt="">
+                                            <img src="img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-9 p-0">
@@ -2766,7 +2669,7 @@
                                         <div class="row mb-2">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -2797,7 +2700,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -2831,14 +2734,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-3 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="./img/path11.png" class="img-fluid" alt="">
-                                            <img src="./img/path3.png" class="img-fluid" alt="">
-                                            <img src="./img/path4.png" class="img-fluid" alt="">
-                                            <img src="./img/path5.png" class="img-fluid" alt="">
-                                            <img src="./img/path6.png" class="img-fluid" alt="">
-                                            <img src="./img/path7.png" class="img-fluid" alt="">
-                                            <img src="./img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
+                                            <img src="img/path6.png" class="img-fluid" alt="">
+                                            <img src="img/path7.png" class="img-fluid" alt="">
+                                            <img src="img/path8.png" class="img-fluid" alt="">
+                                            <img src="img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-9 p-0">
@@ -2890,7 +2793,7 @@
                                         <div class="row mb-2">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -2921,7 +2824,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -3014,7 +2917,7 @@
                                         <div class="row mb-2">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -3045,7 +2948,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -3079,14 +2982,14 @@
                                 <div class="row">
                                     <div class="col-md-3 col-3 p-0">
                                         <div class="img-wrapper-slider">
-                                            <img src="img/path11.png" class="img-fluid" alt="">
-                                            <img src="img/path3.png" class="img-fluid" alt="">
-                                            <img src="img/path4.png" class="img-fluid" alt="">
-                                            <img src="img/path5.png" class="img-fluid" alt="">
+                                            <img src="img/path11.webp" class="img-fluid" alt="">
+                                            <img src="img/path3.webp" class="img-fluid" alt="">
+                                            <img src="img/path4.webp" class="img-fluid" alt="">
+                                            <img src="img/path5.webp" class="img-fluid" alt="">
                                             <img src="img/path6.png" class="img-fluid" alt="">
                                             <img src="img/path7.png" class="img-fluid" alt="">
                                             <img src="img/path8.png" class="img-fluid" alt="">
-                                            <img src="./img/path10.png" class="img-fluid" alt="">
+                                            <img src="img/path10.png" class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-9 col-9 p-0">
@@ -3138,7 +3041,7 @@
                                         <div class="row mb-2">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -3169,7 +3072,7 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Last chance! only 1 left</h6>
@@ -3262,7 +3165,7 @@
                                         <div class="row mb-2">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group1.png" alt="">
+                                                    <img src="img/group1.webp" alt="" class="img-fluid">
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Only 3 left</h6>
@@ -3293,7 +3196,8 @@
                                         <div class="row">
                                             <div class="col-md-6 col-6">
                                                 <div class="img-bed-rest">
-                                img/group2.webp" alt="">
+                                                    <img src="img/group2.webp" alt="" class="img-fluid">
+
                                                     <div class="img-bed-wrapper1">
                                                         <h5>Executive Bedroom</h5>
                                                         <h6>Last chance! only 1 left</h6>

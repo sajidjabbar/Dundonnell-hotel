@@ -227,7 +227,7 @@ button.slick-prev.slick-arrow {
 
 button.slick-next.slick-arrow {
     position: absolute;
-    right: 16px;
+    right: 27px;
     top: 110px;
     z-index: 1;
     opacity: 1;
@@ -670,21 +670,21 @@ button.slick-next.slick-arrow {
 }
 
 .custom {
-    background: #3F7163;
-    padding: 6px 21px;
-    font-size: 17px;
-    border: transparent;
-    font-family: "BebasNeue-Regular";
+    background: #3F7163 !important;
+    padding: 6px 21px !important;
+    font-size: 17px !important;
+    border: transparent !important;
+    font-family: "BebasNeue-Regular" !important;
 }
 
 .custom:hover {
-    background: #ffffff;
-    color: #3F7163;
-    border: transparent;
+    background: #ffffff !important;
+    color: #3F7163 !important;
+    border: transparent !important;
 }
 
 .custom-read {
-    color: #F87878;
+    color: #F87878 !important;
 }
 
 .customize-heading p {
@@ -727,8 +727,8 @@ button.slick-next.slick-arrow {
 }
 
 .discount-btn {
-    margin-left: 10px;
-    font-family: "Roboto-Bold";
+    margin-left: 10px !important;
+    font-family: "Roboto-Bold" !important;
 }
 
 .discount-left p {
@@ -1779,3 +1779,16 @@ button.btn9 a{
 
 
 /* booking-customize  end here */
+.this-custom-wrapper .img-wrapper-slider .slick-track {
+    width: auto !important;
+}
+.this-custom-wrapper .img-wrapper-slider .slick-track img.slick-slide.slick-current.slick-active {
+    width: 227px !important;
+}
+.this-custom-wrapper .img-wrapper-slider button.slick-next.slick-arrow {
+    position: absolute;
+    right: 30px;
+    top: 110px;
+    z-index: 1;
+    opacity: 1;
+}
